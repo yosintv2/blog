@@ -1,11 +1,15 @@
 {
-  "content": "<p>This is dynamically loaded content with external styles and functionality.</p>",
+  "content": 
+  "<div class='event' data-link='https://example.com/event1' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Al Sadd vs Al Hilal</div><div class='event-countdown'></div></div>
+  
+  <div class='event' data-link='https://example.com/event2' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Man City vs Barca</div><div class='event-countdown'></div></div>",
+  
+  
   "css": [
-    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css"
   ],
   "js": [
-    "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"
+    "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
   ]
 }
