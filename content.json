@@ -1,18 +1,17 @@
 {
-  "content": 
-  
-  "<div class='event' data-link='https://example.com/event1' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Al Sadd vs Al Hilal</div><div class='event-countdown'></div></div> ",
-  
- " <div class='event' data-link='https://example.com/event2' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Man City vs Barca</div><div class='event-countdown'></div></div>"
-  
-  
+  "events": [
+    {
+      "content": "<div class='event' data-link='https://example.com/event1' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Al Sadd vs Al Hilal</div><div class='event-countdown'></div></div>"
+    },
+    {
+      "content": "<div class='event' data-link='https://example.com/event2' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Man City vs Barca</div><div class='event-countdown'></div></div>"
+    }
+  ],
   "css": [
     "https://yosintv2.github.io/bkp/own.css",
     "https://yosintv2.github.io/bkp/own1.css"
   ],
-  
   "js": [
-    "https://yosintv2.github.io/bkp/own.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+    "https://yosintv2.github.io/bkp/own.js"
   ]
 }
