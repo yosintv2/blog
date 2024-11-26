@@ -3,20 +3,47 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shortcode Example with External JS & CSS</title>
+  <title>Event Countdown</title>
+
+  <style>
+    /* own.css */
+.event {
+  border: 1px solid #4CAF50;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+}
+
+.event-name {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.event-countdown {
+  font-size: 16px;
+  color: #f44336;
+  margin-top: 10px;
+}
+
+    /* own1.css */
+.event {
+  background-color: #e8f5e9;
+}
+
+.event-name {
+  color: #1b5e20;
+}
+
+    
+  </style>
+  
   <script>
     document.addEventListener("DOMContentLoaded", () => {
-      // Fetch the shortcode content
-      fetch('https://yosintv2.github.io/demo/content.json')
+      fetch('content.json')
         .then(response => response.json())
         .then(data => {
-          // Load content
-          const shortcodeContainer = document.querySelector('[data-shortcode="example"]');
-          if (shortcodeContainer) {
-            shortcodeContainer.innerHTML = data.content;
-          }
-
-          // Load external CSS
+          // Load CSS
           if (data.css && Array.isArray(data.css)) {
             data.css.forEach(cssLink => {
               const link = document.createElement('link');
@@ -26,7 +53,7 @@
             });
           }
 
-          // Load external JS
+          // Load JS
           if (data.js && Array.isArray(data.js)) {
             data.js.forEach(jsLink => {
               const script = document.createElement('script');
@@ -35,13 +62,22 @@
               document.body.appendChild(script);
             });
           }
+
+          // Load event content dynamically
+          const eventsContainer = document.querySelector('#events');
+          data.events.forEach(event => {
+            const eventElement = document.createElement('div');
+            eventElement.innerHTML = event.content;
+            eventsContainer.appendChild(eventElement);
+          });
+
         })
-        .catch(error => console.error('Error loading shortcode content:', error));
+        .catch(error => console.error('Error loading content:', error));
     });
   </script>
 </head>
 <body>
-  <h1>Dynamic Shortcode with External JS & CSS</h1>
-  <div data-shortcode="example"></div>
+  <h1>Event Countdown</h1>
+  <div id="events"></div>
 </body>
 </html>
