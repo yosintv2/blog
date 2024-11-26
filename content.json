@@ -1,8 +1,9 @@
 {
   "content": 
-  "<div class='event' data-link='https://example.com/event1' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Al Sadd vs Al Hilal</div><div class='event-countdown'></div></div>
   
-  <div class='event' data-link='https://example.com/event2' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Man City vs Barca</div><div class='event-countdown'></div></div>",
+  "<div class='event' data-link='https://example.com/event1' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Al Sadd vs Al Hilal</div><div class='event-countdown'></div></div> ",
+  
+ " <div class='event' data-link='https://example.com/event2' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Man City vs Barca</div><div class='event-countdown'></div></div>"
   
   
   "css": [
