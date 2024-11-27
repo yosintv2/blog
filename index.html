@@ -3,83 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Event Countdown</title>
-  <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      fetch('content.json')
-        .then(response => response.json())
-        .then(data => {
-          // Load external CSS
-          if (data.css && Array.isArray(data.css)) {
-            data.css.forEach(cssLink => {
-              const link = document.createElement('link');
-              link.rel = 'stylesheet';
-              link.href = cssLink;
-              document.head.appendChild(link);
-            });
-          }
-
-          // Load external JS
-          if (data.js && Array.isArray(data.js)) {
-            data.js.forEach(jsLink => {
-              const script = document.createElement('script');
-              script.src = jsLink;
-              script.defer = true;
-              document.body.appendChild(script);
-            });
-          }
-
-          // Load event content dynamically
-          const eventsContainer = document.querySelector('#events');
-          data.events.forEach(event => {
-            const eventElement = document.createElement('div');
-            eventElement.innerHTML = event.content;
-            eventsContainer.appendChild(eventElement);
-          });
-
-          // Initialize countdown for each event
-          initializeCountdown();
-        })
-        .catch(error => console.error('Error loading content:', error));
-
-      function initializeCountdown() {
-        const events = document.querySelectorAll('.event');
-        events.forEach(event => {
-          const startTime = new Date(event.getAttribute('data-start'));
-          const durationHours = parseFloat(event.getAttribute('data-duration'));
-          const endTime = new Date(startTime.getTime() + durationHours * 60 * 60 * 1000);
-          const countdownElement = event.querySelector('.event-countdown');
-
-          const updateCountdown = () => {
-            const now = new Date();
-            if (now < startTime) {
-              countdownElement.textContent = `Starts in ${Math.ceil((startTime - now) / 1000)} seconds`;
-            } else if (now < endTime) {
-              countdownElement.textContent = `Ends in ${Math.ceil((endTime - now) / 1000)} seconds`;
-            } else {
-              countdownElement.textContent = "Event ended";
-            }
-          };
-
-          setInterval(updateCountdown, 1000);
-          updateCountdown();
-          
-          // Make event name clickable and redirect to the link
-          const eventName = event.querySelector('.event-name');
-          const link = event.getAttribute('data-link');
-          if (link && eventName) {
-            eventName.style.cursor = 'pointer';
-            eventName.addEventListener('click', () => {
-              window.open(link, '_blank');
-            });
-          }
-        });
-      }
-    });
-  </script>
+  <title>Live Sports Links</title>
+  <style>
+    .livee { display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white; }
+    .livee:hover { box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); }
+    .livee-name { flex: 2; text-align: center; color: white; font-weight: bold; }
+  </style>
 </head>
 <body>
-  <h1>Event Countdown</h1>
-  <div id="events"></div>
+  <h1>Live Sports Events</h1>
+  <div id="live-container"></div>
+  <script src="app.js"></script>
 </body>
 </html>
