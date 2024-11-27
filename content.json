@@ -1,96 +1,25 @@
 {
   "events": [
     {
-      "content": "<div class='event' id='status1' data-link='https://example.com/event1' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Al Sadd vs Al Hilal</div><div class='event-countdown'></div></div>"
+      "name": "Link 1 - South Africa vs Sri Lanka",
+      "link": "https://yosintv2.github.io/ads/cric.html?id=https://topembed.pw/channel/SkySportsMainEvent[UK]"
     },
     {
-      "content": "<div class='event' id='status2' data-link='https://example.com/event2' data-start='2024-11-27T00:00:00+09:00' data-duration='2.5'><div class='event-name'>Man City vs Barca</div><div class='event-countdown'></div></div>"
+      "name": "Link 2 - India vs Australia",
+      "link": "https://yosintv2.github.io/ads/cric.html?id=https://topembed.pw/channel/StarSports1[IN]"
+    },
+    {
+      "name": "Link 3 - England vs New Zealand",
+      "link": "https://yosintv2.github.io/ads/cric.html?id=https://topembed.pw/channel/BTSports1[UK]"
+    },
+    {
+      "name": "Link 4 - Pakistan vs Bangladesh",
+      "link": "https://yosintv2.github.io/ads/cric.html?id=https://topembed.pw/channel/PTVSports[PK]"
     }
   ],
-  "customCss": "
-    .event {
-      border: 1px solid #4CAF50;
-      padding: 10px;
-      margin: 10px 0;
-      background-color: #f9f9f9;
-    }
-    .event-name {
-      font-size: 20px;
-      font-weight: bold;
-      color: #333;
-    }
-    .event-countdown {
-      font-size: 16px;
-      color: #f44336;
-      margin-top: 10px;
-    }
-    .event-name:hover {
-      color: #0d47a1;
-    }
-    .countdown {
-      color: #ff9800;
-      font-weight: bold;
-    }
-    .live-now {
-      color: #4caf50;
-      font-weight: bold;
-      animation: blink 1s infinite;
-    }
-    .match-end {
-      color: #9e9e9e;
-      font-weight: bold;
-    }
-    @keyframes blink {
-      50% {
-        opacity: 0;
-      }
-    }
-  ",
-  "customJs": "
-    function updateStatus() {
-        const statusElements = document.querySelectorAll('[id^=\"status\"]');
-        const currentTime = new Date().getTime();
-
-        statusElements.forEach(element => {
-            const startTime = new Date(element.getAttribute('data-start')).getTime();
-            const durationHours = parseFloat(element.getAttribute('data-duration'));
-            const endTime = startTime + durationHours * 60 * 60 * 1000;
-
-            if (currentTime < startTime) {
-                const timeDiff = startTime - currentTime;
-                const hours = Math.floor(timeDiff / (1000 * 60 * 60));
-                const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
-                const seconds = Math.floor((timeDiff % (1000 * 60)) / 1000);
-
-                element.innerHTML = `<span>${hours}h</span> <span>${minutes}m</span> <span>${seconds}s</span> `;
-                element.className = 'countdown';
-            } else if (currentTime >= startTime && currentTime <= endTime) {
-                element.innerHTML = `<span> Watch Now </span>`;
-                element.className = 'live-now blink';
-            } else {
-                element.innerHTML = `<span> Match End </span>`;
-                element.className = 'match-end';
-            }
-        });
-    }
-
-    // Check every second if the current time falls within the start and end time
-    setInterval(updateStatus, 1000);
-
-    // Initial check when the page loads
-    updateStatus();
-
-    document.addEventListener('DOMContentLoaded', function() {
-        // Example: Highlight table rows on hover
-        var rows = document.querySelectorAll('table tr');
-        rows.forEach(function(row) {
-            row.addEventListener('mouseover', function() {
-                this.style.backgroundColor = '#f2f2f2';
-            });
-            row.addEventListener('mouseout', function() {
-                this.style.backgroundColor = '';
-            });
-        });
-    });
-  "
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
 }
