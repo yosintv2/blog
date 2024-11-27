@@ -1,5 +1,14 @@
+// Helper function to get query parameters
+function getQueryParam(param) {
+  const urlParams = new URLSearchParams(window.location.search);
+  return urlParams.get(param);
+}
+
+// Get the JSON file name from the URL parameter
+const jsonFile = getQueryParam('file') || 'default.json'; // Fallback to 'default.json' if no parameter provided
+
 // Fetch the JSON file and render events
-fetch('data.json')
+fetch(jsonFile)
   .then(response => {
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
