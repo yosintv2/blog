@@ -30,9 +30,9 @@ fetch(jsonFile)
         </div>
       `;
 
-      // Add click functionality to open the event link
+      // Add click functionality to navigate to the event link in the same tab
       eventDiv.addEventListener('click', () => {
-        window.open(event.link, '_blank');
+        window.location.href = event.link; // Redirect to the link in the same tab
       });
 
       container.appendChild(eventDiv);
