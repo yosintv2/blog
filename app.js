@@ -4,8 +4,9 @@ function getQueryParam(param) {
   return urlParams.get(param);
 }
 
-// Get the JSON file name from the URL parameter
-const jsonFile = getQueryParam('yosintv') || 'default.json'; // Fallback to 'default.json' if no parameter provided
+// Get the JSON file name from the URL parameter and append `.json` if needed
+const fileParam = getQueryParam('file');
+const jsonFile = fileParam ? `${fileParam}.json` : 'default.json'; // Default to 'default.json' if no parameter provided
 
 // Fetch the JSON file and render events
 fetch(jsonFile)
