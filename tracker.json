@@ -1,0 +1,158 @@
+{
+  "events": [
+    
+    {
+      "name": "Smooth 1 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
+    },
+    
+    {
+      "name": "Smooth 2 - TeamName ",
+      "link": "https://yosintv2.github.io/tv/ads.html"
+    },
+    
+    {
+      "name": "Smooth 3 - TeamName",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v3.bestsolaris.com/solaris.php?postid=____"
+    },
+    
+    {
+      "name": "HD 1 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
+    },
+
+    {
+      "name": "HD 2 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/adsense.html"
+    },
+
+
+        {
+      "name": "HD 3 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
+    },
+
+
+        {
+      "name": "HD 4 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=____"
+    },
+
+
+
+        {
+      "name": "Mob/PC - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=____"
+    },
+
+
+        {
+      "name": "Mob/PC - TeamName ",
+      "link": "https://yosintv2.github.io/tv/ads.html"
+    },
+
+
+        {
+      "name": " Link 1 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=____"
+    },
+
+
+        {
+      "name": "Link 2 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/stbw.html?m=____"
+    },
+
+
+        {
+      "name": " Link 3 - TeamName ",
+      "link": "https://yosintv2.github.io/tv/ads.html"
+    },
+
+
+            {
+      "name": " Link 4 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=____"
+    },
+
+
+            {
+      "name": "Link 5 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=____"
+    }
+
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
+
+
+
+
+//
+
+
+
+// Helper function to get query parameters
+function getQueryParam(param) {
+  const urlParams = new URLSearchParams(window.location.search);
+  return urlParams.get(param);
+}
+
+// Get the JSON file name from the URL parameter and append `.json` if needed
+const fileParam = getQueryParam('file');
+const jsonFile = fileParam ? `${fileParam}.json` : 'default.json'; // Default to 'default.json' if no parameter provided
+
+// Fetch the JSON file and render content
+fetch(jsonFile)
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    return response.json();
+  })
+  .then(data => {
+    const container = document.getElementById('live-container');
+
+    // Check if a tracker is defined in the JSON and render it
+    if (data.tracker && data.tracker.url) {
+      const trackerFrame = document.createElement('iframe');
+      trackerFrame.src = data.tracker.url;
+      trackerFrame.style.width = "100%";
+      trackerFrame.style.height = "300px";
+      trackerFrame.style.border = "0";
+      trackerFrame.allow = "fullscreen";
+      container.appendChild(trackerFrame);
+
+      // Add a separator or heading if needed
+      const separator = document.createElement('hr');
+      container.appendChild(separator);
+    }
+
+    // Loop through each event and create a link
+    data.events.forEach(event => {
+      const eventDiv = document.createElement('div');
+      eventDiv.className = 'livee';
+      eventDiv.style.cssText = data.styles.livee; // Apply styles from JSON
+      eventDiv.innerHTML = `
+        <div class="livee-name" style="${data.styles.liveeName}">
+          ${event.name}
+        </div>
+      `;
+
+      // Add click functionality to navigate to the event link in the same tab
+      eventDiv.addEventListener('click', () => {
+        window.location.href = event.link; // Redirect to the link in the same tab
+      });
+
+      container.appendChild(eventDiv);
+    });
+  })
+  .catch(error => {
+    console.error('Error fetching JSON:', error);
+  });
