@@ -1,96 +1,89 @@
+
 {
   "events": [
     
     {
-      "name": "Smooth 1 - Dinamo Zagreb vs Dortmund ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=35320"
+      "name": "Smooth 1 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
     },
     
     {
-      "name": "Smooth 2 - Dinamo Zagreb vs Dortmund ",
+      "name": "Smooth 2 - TeamName ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
     
     {
-      "name": "Smooth 3 - Dinamo Zagreb vs Dortmund",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v3.bestsolaris.com/solaris.php?postid=69670"
+      "name": "Smooth 3 - TeamName",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v3.bestsolaris.com/solaris.php?postid=____"
     },
     
     {
-      "name": "HD 1 - Dinamo Zagreb vs Dortmund ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=39730"
+      "name": "HD 1 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
     },
 
     {
-      "name": "HD 2 - Dinamo Zagreb vs Dortmund ",
+      "name": "HD 2 - TeamName ",
       "link": "https://yosintv2.github.io/ads/adsense.html"
     },
 
 
         {
-      "name": "HD 3 - Dinamo Zagreb vs Dortmund ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=9830"
+      "name": "HD 3 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
     },
 
 
         {
-      "name": "HD 4 - Dinamo Zagreb vs Dortmund ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4205502"
+      "name": "HD 4 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=____"
+    },
+
+
+
+        {
+      "name": "Mob/PC - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=____"
     },
 
 
         {
-      "name": "Mob/PC - Dinamo Zagreb vs Dortmund ",
+      "name": "Mob/PC - TeamName ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
 
 
         {
-      "name": "Mob/PC - Dinamo Zagreb vs Dortmund ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4205502"
+      "name": " Link 1 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=____"
     },
 
 
         {
-      "name": "Link 1 - Dinamo Zagreb vs Dortmund ",
+      "name": "Link 2 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/stbw.html?m=____"
+    },
+
+
+        {
+      "name": " Link 3 - TeamName ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
-
-
-        {
-      "name": " Link 2- Dinamo Zagreb vs Dortmund ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=3"
-    },
-
-
-        {
-      "name": "Link 3 - Dinamo Zagreb vs Dortmund ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/stbw.html?m=3"
-    },
-
-
-        {
-      "name": " Link 4 - Dinamo Zagreb vs Dortmund ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-
 
 
             {
-      "name": " Link 5 - Dinamo Zagreb vs Dortmund ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/hd/hd3.php"
+      "name": " Link 4 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=____"
     },
 
 
-
             {
-      "name": "Link 6 - Dinamo Zagreb vs Dortmund ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/hd/hd3.php"
+      "name": "Link 5 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=____"
     }
 
 
 
-    
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
