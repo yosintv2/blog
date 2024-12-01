@@ -1,96 +1,93 @@
 {
   "events": [
+
     
     {
-      "name": "Smooth 1 - Heidenheim vs Chelsea ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=10340"
-    },
-    
-    {
-      "name": "Smooth 2 - Heidenheim vs Chelsea ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-    
-    {
-      "name": "Smooth 3 - Heidenheim vs Chelsea",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=27020"
-    },
-    
-    {
-      "name": "HD 1 - Heidenheim vs Chelsea ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=27020"
+      "name": "Smooth 1 - Chelsea vs Aston Villa ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
     },
 
+    
     {
-      "name": "HD 2 - Heidenheim vs Chelsea ",
+      "name": "Smooth 2 - Chelsea vs Aston Villa ",
+      "link": "https://yosintv2.github.io/tv/ads.html"
+    },
+
+    
+    {
+      "name": "Smooth 3 - Chelsea vs Aston Villa",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v3.bestsolaris.com/solaris.php?postid=____"
+    },
+
+    
+    {
+      "name": "HD 1 - Chelsea vs Aston Villa ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
+    },
+
+    
+    {
+      "name": "HD 2 - Chelsea vs Aston Villa ",
       "link": "https://yosintv2.github.io/ads/adsense.html"
     },
 
 
-        {
-      "name": "HD 3 - Heidenheim vs Chelsea ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=10610"
+    {
+      "name": "HD 3 - Chelsea vs Aston Villa ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
     },
 
 
         {
-      "name": "HD 4 - Heidenheim vs Chelsea ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4206134"
+      "name": "HD 4 - Chelsea vs Aston Villa ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=____"
+    },
+
+
+
+        {
+      "name": "Mob/PC - Chelsea vs Aston Villa ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=____"
     },
 
 
         {
-      "name": "Mob/PC - Heidenheim vs Chelsea ",
+      "name": "Mob/PC - Chelsea vs Aston Villa ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
 
 
         {
-      "name": "Mob/PC - Heidenheim vs Chelsea ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4206134"
+      "name": " Link 1 - Chelsea vs Aston Villa ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=____"
     },
 
 
         {
-      "name": "Link 1 - Heidenheim vs Chelsea ",
+      "name": "Link 2 - Chelsea vs Aston Villa ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/stbw.html?m=____"
+    },
+
+
+        {
+      "name": " Link 3 - Chelsea vs Aston Villa ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
-
-
-        {
-      "name": " Link 2- Heidenheim vs Chelsea ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=4"
-    },
-
-
-        {
-      "name": "Link 3 - Heidenheim vs Chelsea ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=4"
-    },
-
-
-        {
-      "name": " Link 4 - Heidenheim vs Chelsea ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-
 
 
             {
-      "name": " Link 5 - Heidenheim vs Chelsea ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/hd/hd1.php"
+      "name": " Link 4 - Chelsea vs Aston Villa ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=____"
     },
 
 
-
             {
-      "name": "Link 6 - Heidenheim vs Chelsea ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/pt/eleven2.php"
+      "name": "Link 5 - Chelsea vs Aston Villa ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=____"
     }
 
 
 
-    
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
