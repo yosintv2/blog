@@ -1,96 +1,42 @@
 {
   "events": [
+
     
     {
       "name": "Smooth 1 - Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=28970"
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=27300"
     },
+
+
     
     {
       "name": "Smooth 2 - Roma vs Atalanta ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
-    
-    {
-      "name": "Smooth 3 - Roma vs Atalanta",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v3.bestsolaris.com/solaris.php?postid=68516"
-    },
-    
-    {
-      "name": "HD 1 - Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=5420"
-    },
 
-    {
-      "name": "HD 2 - Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/ads/adsense.html"
-    },
-
-
-        {
-      "name": "HD 3 - Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=10360"
-    },
-
-
-        {
-      "name": "HD 4 - Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4205966"
-    },
-
-
-        {
-      "name": "Mob/PC - Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-
-
-        {
-      "name": "Mob/PC - Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4205966"
-    },
 
 
         {
       "name": "Link 1 - Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4149581"
     },
 
 
+    
         {
-      "name": " Link 2- Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=2"
+      "name": "Link 2 - Roma vs Atalanta ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4149581"
     },
+
 
 
         {
       "name": "Link 3 - Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=2"
-    },
-
-
-        {
-      "name": " Link 4 - Roma vs Atalanta ",
       "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-
-
-
-            {
-      "name": " Link 5 - Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/hd/hd1.php"
-    },
-
-
-
-            {
-      "name": "Link 6 - Roma vs Atalanta ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/hd/hd7.php"
     }
 
 
 
-    
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
