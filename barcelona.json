@@ -1,96 +1,87 @@
 {
   "events": [
+
     
     {
-      "name": "Smooth 1 - Barcelona vs Las Palmas ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=26190"
-    },
-    
-    {
-      "name": "Smooth 2 - Barcelona vs Las Palmas ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-    
-    {
-      "name": "Smooth 3 - Barcelona vs Las Palmas",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v3.bestsolaris.com/solaris.php?postid=69439"
-    },
-    
-    {
-      "name": "HD 1 - Barcelona vs Las Palmas ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=23290"
+      "name": "Smooth 1 - Mallorca vs Barcelona ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=15990"
     },
 
+    
     {
-      "name": "HD 2 - Barcelona vs Las Palmas ",
+      "name": "Smooth 2 - Mallorca vs Barcelona ",
+      "link": "https://yosintv2.github.io/tv/ads.html"
+    },
+
+    
+    {
+      "name": "HD 1 - Mallorca vs Barcelona ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=17220"
+    },
+
+    
+    {
+      "name": "HD 2 - Mallorca vs Barcelona ",
       "link": "https://yosintv2.github.io/ads/adsense.html"
     },
 
 
-        {
-      "name": "HD 3 - Barcelona vs Las Palmas ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=38090"
+    {
+      "name": "HD 3 - Mallorca vs Barcelona ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=29400"
     },
 
 
         {
-      "name": "HD 4 - Barcelona vs Las Palmas ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4140532"
+      "name": "HD 4 - Mallorca vs Barcelona ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4140536"
+    },
+
+
+
+        {
+      "name": "Mob/PC - Mallorca vs Barcelona ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4140536"
     },
 
 
         {
-      "name": "Mob/PC - Barcelona vs Las Palmas ",
+      "name": "Mob/PC - Mallorca vs Barcelona ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
 
 
         {
-      "name": "Mob/PC - Barcelona vs Las Palmas ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4140532"
+      "name": " Link 1 - Mallorca vs Barcelona ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=3"
     },
 
 
         {
-      "name": "Link 1 - Barcelona vs Las Palmas ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-
-
-        {
-      "name": " Link 2- Barcelona vs Las Palmas ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=5"
-    },
-
-
-        {
-      "name": "Link 3 - Barcelona vs Las Palmas ",
+      "name": "Link 2 - Mallorca vs Barcelona ",
       "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/stbw.html?m=6"
     },
 
 
         {
-      "name": " Link 4 - Barcelona vs Las Palmas ",
+      "name": " Link 3 - Mallorca vs Barcelona ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
 
 
-
             {
-      "name": " Link 5 - Barcelona vs Las Palmas ",
+      "name": " Link 4 - Mallorca vs Barcelona ",
       "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/hd/hd2.php"
     },
 
 
-
             {
-      "name": "Link 6 - Barcelona vs Las Palmas ",
+      "name": "Link 5 - Mallorca vs Barcelona ",
       "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/hd/hd6.php"
     }
 
 
 
-    
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
