@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Player Stats</title>
+    <title>Top Stats</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -24,6 +24,12 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             border-radius: 8px;
         }
+        .category {
+            margin-bottom: 30px;
+        }
+        .category h2 {
+            color: #4CAF50;
+        }
         table {
             width: 100%;
             margin-top: 20px;
@@ -43,72 +49,61 @@
         tr:nth-child(even) {
             background-color: #f2f2f2;
         }
-        .player-info {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .player-info img {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            object-fit: cover;
-        }
-        .player-info h2 {
-            color: #333;
-        }
     </style>
 </head>
 <body>
 
-    <div class="container">
-        <div class="player-info">
-            <img src="https://via.placeholder.com/100" alt="Player Image" id="playerImage">
-            <h2 id="playerName">Player Name</h2>
-            <p><strong>Team:</strong> <span id="teamName">Team Name</span></p>
-            <p><strong>Country:</strong> <span id="countryCode">Country Code</span></p>
-        </div>
-
-        <h3>Player Stats</h3>
-        <table id="statsTable">
-            <thead>
-                <tr>
-                    <th>Stat Name</th>
-                    <th>Value</th>
-                </tr>
-            </thead>
-            <tbody>
-                <!-- Data will be inserted here dynamically -->
-            </tbody>
-        </table>
+    <div class="container" id="statsContainer">
+        <!-- Data will be inserted dynamically here -->
     </div>
 
     <script>
-        // Fetch the JSON file and populate the page with player stats
-        fetch('playerStats.json')
+        // Fetch the JSON file and render stats
+        fetch('topStats.json')
             .then(response => response.json())  // Convert response to JSON
             .then(data => {
-                const player = data[0];  // Assuming there's only one player in the JSON
+                const statsContainer = document.getElementById('statsContainer');
 
-                // Update player info
-                document.getElementById('playerName').textContent = player.ParticipantName;
-                document.getElementById('teamName').textContent = player.TeamName;
-                document.getElementById('countryCode').textContent = player.ParticipantCountryCode;
+                // Loop through TopLists and create sections
+                data.TopLists.forEach(category => {
+                    const categoryDiv = document.createElement('div');
+                    categoryDiv.classList.add('category');
 
-                // Update stats table
-                const statsTable = document.getElementById('statsTable').getElementsByTagName('tbody')[0];
-                const stats = [
-                    ['Stat Value', player.StatValue],
-                    ['Sub Stat Value', player.SubStatValue],
-                    ['Minutes Played', player.MinutesPlayed],
-                    ['Matches Played', player.MatchesPlayed],
-                    ['Stat Value Count', player.StatValueCount],
-                    ['Rank', player.Rank]
-                ];
+                    const title = document.createElement('h2');
+                    title.textContent = `${category.Title}: ${category.Subtitle}`;
+                    categoryDiv.appendChild(title);
 
-                stats.forEach(stat => {
-                    const row = statsTable.insertRow();
-                    row.insertCell(0).textContent = stat[0];  // Stat name
-                    row.insertCell(1).textContent = stat[1];  // Stat value
+                    // Create a table for the category
+                    const table = document.createElement('table');
+                    const thead = document.createElement('thead');
+                    thead.innerHTML = `
+                        <tr>
+                            <th>Rank</th>
+                            <th>Player</th>
+                            <th>Team</th>
+                            <th>Goals</th>
+                            <th>Matches Played</th>
+                        </tr>
+                    `;
+                    table.appendChild(thead);
+
+                    const tbody = document.createElement('tbody');
+                    category.StatList.forEach(player => {
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td>${player.Rank}</td>
+                            <td>${player.ParticipantName}</td>
+                            <td>${player.TeamName}</td>
+                            <td>${player.StatValue}</td>
+                            <td>${player.MatchesPlayed}</td>
+                        `;
+                        tbody.appendChild(row);
+                    });
+                    table.appendChild(tbody);
+
+                    // Append the table to the category div
+                    categoryDiv.appendChild(table);
+                    statsContainer.appendChild(categoryDiv);
                 });
             })
             .catch(error => {
