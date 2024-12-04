@@ -84,7 +84,7 @@
 
     <script>
         // Fetch the JSON file and populate the page with player stats
-        fetch('player.json')
+        fetch('playerStats.json')
             .then(response => response.json())  // Convert response to JSON
             .then(data => {
                 const player = data[0];  // Assuming there's only one player in the JSON
