@@ -1,96 +1,83 @@
 {
   "events": [
+
     
     {
-      "name": "Smooth 1 - Man City vs Barcelona ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
+      "name": "Smooth 1 - Man City vs Nottingham ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=14460"
     },
+
     
     {
-      "name": "Smooth 2 - Man City vs Barcelona ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-    
-    {
-      "name": "Smooth 3 - Man City vs Barcelona",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v3.bestsolaris.com/solaris.php?postid=____"
-    },
-    
-    {
-      "name": "HD 1 - Man City vs Barcelona ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
-    },
-
-    {
-      "name": "HD 2 - Man City vs Barcelona ",
-      "link": "https://yosintv2.github.io/ads/adsense.html"
-    },
-
-
-        {
-      "name": "HD 3 - Man City vs Barcelona ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=____"
-    },
-
-
-        {
-      "name": "HD 4 - Man City vs Barcelona ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=____"
-    },
-
-
-        {
-      "name": "Mob/PC - Man City vs Barcelona ",
+      "name": "Smooth 2 - Man City vs Nottingham ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
 
 
-        {
-      "name": "Mob/PC - Man City vs Barcelona ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=____"
+    
+    {
+      "name": "HD 1 - Man City vs Nottingham ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=10080"
+    },
+
+    
+
+    {
+      "name": "HD 3 - Man City vs Nottingham ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=31800"
     },
 
 
         {
-      "name": "Link 1 - Man City vs Barcelona ",
+      "name": "HD 4 - Man City vs Nottingham ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4139843"
+    },
+
+
+
+        {
+      "name": "Mob/PC - Man City vs Nottingham ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4139843"
+    },
+
+
+        {
+      "name": "Mob/PC - Man City vs Nottingham ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
 
 
         {
-      "name": " Link 2- Man City vs Barcelona ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=____"
+      "name": " Link 1 - Man City vs Nottingham ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=1"
     },
 
 
         {
-      "name": "Link 3 - Man City vs Barcelona ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/stbw.html?m=____"
+      "name": "Link 2 - Man City vs Nottingham ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/stbw.html?m=2"
     },
 
 
         {
-      "name": " Link 4 - Man City vs Barcelona ",
+      "name": " Link 3 - Man City vs Nottingham ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
-
 
 
             {
-      "name": " Link 5 - Man City vs Barcelona ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=____"
+      "name": " Link 4 - Man City vs Nottingham ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/hd/hd5.php"
     },
 
 
-
             {
-      "name": "Link 6 - Man City vs Barcelona ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=____"
+      "name": "Link 5 - Man City vs Nottingham ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/pt/eleven2.php"
     }
 
 
 
-    
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
