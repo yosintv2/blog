@@ -21,6 +21,13 @@
     },
 
     
+    {
+      "name": "HD 2 - TeamName ",
+      "link": "https://yosintv2.github.io/ads/adsense.html"
+    },
+
+
+
 
     {
       "name": "HD 3 - TeamName ",
