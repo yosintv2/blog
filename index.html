@@ -15,6 +15,17 @@
 <meta name="twitter:title" content="YoSinTV - Cricket | Football | Playing XI | Match Preview" />
 <meta name="twitter:description" content="YoSinTV is sports website that covers all the Cricket Matches, World Cup, International/Domestic Matches, Football Matches, etc." />
 
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/22818991658/rewarddd', [250, 250], 'div-gpt-ad-1733722276639-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+    
 <style>
     .livee { display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white; }
     .livee:hover { box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); }
@@ -290,6 +301,82 @@ Okay
 <script src='https://cdn.jsdelivr.net/gh/yosintv2/bkp/player.js'/>
 
 
+<script>
+        googletag = window.googletag || { cmd: [] };
+        googletag.cmd.push(() => {
+            const rewardedSlot = googletag.defineOutOfPageSlot('/22818991658/rewarddd',
+                googletag.enums.OutOfPageFormat.REWARDED).addService(googletag.pubads());
+            rewardedSlot.setForceSafeFrame(true);
+            googletag.pubads().enableAsyncRendering();
+            googletag.enableServices();
 
+            const showRewardedAd = () => {
+                const trigger = document.getElementById('rewardModal');
+                trigger.style.display = 'block';
+
+                googletag.pubads().addEventListener('impressionViewable', () => {
+                    console.log('Impression viewable!');
+                });
+
+                googletag.pubads().addEventListener('slotRenderEnded', (event) => {
+                    if (event.isEmpty) {
+                        console.log('Ad is empty or failed to load');
+                        setTimeout(() => {
+                            trigger.style.display = 'none';
+                        }, 3000);
+                    }
+                });
+
+                googletag.pubads().addEventListener('rewardedSlotReady', evt => {
+                    evt.makeRewardedVisible();
+                });
+
+                googletag.pubads().addEventListener('rewardedSlotClosed', () => {
+                    trigger.style.display = 'none';
+                });
+
+                googletag.display(rewardedSlot);
+            };
+
+            // Show the rewarded ad every time the page loads
+            showRewardedAd();
+        });
+    </script>
+    
+    
+    
+    
+    <style>
+        /* The Modal (background) */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            padding-top: 300px; /* Location of the box */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgba(0, 0, 0, 0.4); /* Black with opacity */
+        }
+
+        /* Modal Content */
+        .modal-content {
+            margin: auto;
+            padding: 25px;
+            background-color: #fefefe;
+            text-align: center;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+    
+    
+    <div class='modal' id='rewardModal'>
+
+        
 </body>
 </html>
