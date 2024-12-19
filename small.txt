@@ -33,6 +33,12 @@
         {
       "name": "Link 3 - TeamName ",
       "link": "https://yosintv2.github.io/tv/ads.html"
+    },
+
+
+        {
+      "name": "Link 4 - TeamName ",
+      "link": "https://yosintv2.github.io/tv/promote.html"
     }
 
 
