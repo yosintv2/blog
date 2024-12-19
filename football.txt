@@ -52,7 +52,7 @@
 
         {
       "name": "Mob/PC - TeamName ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
+      "link": "https://yosintv2.github.io/tv/promote.html"
     },
 
 
