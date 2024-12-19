@@ -3,88 +3,61 @@
 
     
     {
-      "name": "Smooth 1 - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=29290"
+      "name": "Smooth 1 - Inter Milan vs Udinese ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=23220"
     },
 
     
     {
-      "name": "Smooth 2 - Leverkusen vs Inter Milan ",
+      "name": "Smooth 2 - Inter Milan vs Udinese ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
 
 
     
     {
-      "name": "HD 1 - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=22220"
-    },
-
-    
-    {
-      "name": "HD 2 - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/ads/adsense.html"
+      "name": "HD 1 - Inter Milan vs Udinese ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=39930"
     },
 
 
 
 
     {
-      "name": "HD 3 - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=26250"
+      "name": "HD 2 - Inter Milan vs Udinese ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=26890"
+    },
+
+
+
+    {
+      "name": "HD 3 - Inter Milan vs Udinese ",
+      "link": "https://yosintv2.github.io/ads/ads.html"
+    },
+
+
+
+        {
+      "name": "HD 4 - Inter Milan vs Udinese ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4219888"
+    },
+
+
+
+        {
+      "name": "Mob/PC - Inter Milan vs Udinese ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4219888"
     },
 
 
         {
-      "name": "HD 4 - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4205469"
-    },
-
-
-
-        {
-      "name": "Mob/PC - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4205469"
-    },
-
-
-        {
-      "name": "Mob/PC - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-
-
-        {
-      "name": " Link 1 - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/ovo.html?m=2"
-    },
-
-
-        {
-      "name": "Link 2 - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/stbw.html?m=2"
-    },
-
-
-        {
-      "name": " Link 3 - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-
-
-            {
-      "name": " Link 4 - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/hd/hd2.php"
-    },
-
-
-            {
-      "name": "Link 5 - Leverkusen vs Inter Milan ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://v1.sportsonline.ps/channels/hd/hd4.php"
+      "name": "Mob/PC - Inter Milan vs Udinese ",
+      "link": "https://yosintv2.github.io/tv/promote.html"
     }
 
 
 
+    
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
