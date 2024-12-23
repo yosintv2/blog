@@ -3,61 +3,53 @@
 
     
     {
-      "name": "Smooth 1 - Inter Milan vs Udinese ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=23220"
+      "name": "Smooth 1 - Inter Milan vs Como ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=21650"
     },
+
 
     
     {
-      "name": "Smooth 2 - Inter Milan vs Udinese ",
+      "name": "Smooth 2 - Inter Milan vs Como ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
 
 
+
+    {
+      "name": "Smooth 3 - Inter Milan vs Como ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=35390"
+    },
+
+
+
+        {
+      "name": "Link 1 - Inter Milan vs Como ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4149614"
+    },
+
+
     
-    {
-      "name": "HD 1 - Inter Milan vs Udinese ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=39930"
-    },
-
-
-
-
-    {
-      "name": "HD 2 - Inter Milan vs Udinese ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=26890"
-    },
-
-
-
-    {
-      "name": "HD 3 - Inter Milan vs Udinese ",
-      "link": "https://yosintv2.github.io/ads/ads.html"
+        {
+      "name": "Link 2 - Inter Milan vs Como ",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4149614"
     },
 
 
 
         {
-      "name": "HD 4 - Inter Milan vs Udinese ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4219888"
-    },
-
-
-
-        {
-      "name": "Mob/PC - Inter Milan vs Udinese ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4219888"
+      "name": "Link 3 - Inter Milan vs Como ",
+      "link": "https://yosintv2.github.io/tv/ads.html"
     },
 
 
         {
-      "name": "Mob/PC - Inter Milan vs Udinese ",
+      "name": "Link 4 - Inter Milan vs Como ",
       "link": "https://yosintv2.github.io/tv/promote.html"
     }
 
 
 
-    
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
