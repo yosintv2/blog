@@ -5,7 +5,7 @@
     
     {
       "name": "Smooth 1 - TeamName ",
-      "link": "https://www.yosintv.link/?url=_________"
+      "link": "https://www.yosintv.link/cricket.html?url=_________"
     },
 
 
@@ -19,7 +19,7 @@
     
     {
       "name": "Link 1 - TeamName",
-      "link": "https://www.yosintv.link/?url=_________"
+      "link": "https://www.yosintv.link/cricket.html?url=_________"
     },
 
 
@@ -33,21 +33,21 @@
 
     {
       "name": "Link 3 - TeamName ",
-      "link": "https://www.yosintv.link/?url=_________"
+      "link": "https://www.yosintv.link/cricket.html?url=_________"
     },
 
 
 
         {
       "name": "Link 4 - TeamName ",
-      "link": "https://www.yosintv.link/?url=_________"
+      "link": "https://www.yosintv.link/cricket.html?url=_________"
     },
 
 
 
         {
       "name": "Link 5 - TeamName ",
-      "link": "https://www.yosintv.link/?url=_________"
+      "link": "https://www.yosintv.link/cricket.html?url=_________"
     }
 
 
