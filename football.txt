@@ -11,7 +11,7 @@
 
     {
       "name": "HD 1 - TeamName ",
-      "link": "https://www.yosintv.link/football.html?url=https://yosintv2.github.io/ads/letv.html?m=____"
+      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____"
     },
 
 
@@ -25,7 +25,7 @@
     
     {
       "name": "Link 1- TeamName ",
-      "link": "https://www.yosintv.link/football.html?url=https://yosintv2.github.io/ads/letv.html?m=____"
+      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____"
     },
 
 
@@ -33,7 +33,7 @@
 
     {
       "name": "Link 2 - TeamName ",
-      "link": "https://www.yosintv.link/football.html?url=https://yosintv2.github.io/ads/letv.html?m=____"
+      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____"
     },
 
 
@@ -47,14 +47,14 @@
 
         {
       "name": "Link 4 - TeamName ",
-      "link": "https://www.yosintv.link/football.html?url=https://yosintv2.github.io/tv/mid.html?mid=____"
+      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/mid.html?mid=____"
     },
 
 
 
         {
       "name": " Link 5 - TeamName ",
-      "link": "https://www.yosintv.link/football.html?url=https://yosintv2.github.io/tv/midd.html?mid=____"
+      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____"
     },
 
 
@@ -66,13 +66,13 @@
 
         {
       "name": " Link 7 - TeamName ",
-      "link": "https://www.yosintv.link/football.html?url=https://yosintv2.github.io/ads/ovo.html?m=____"
+      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ovo.html?m=____"
     },
 
 
         {
       "name": " Link 8 - TeamName ",
-      "link": "https://www.yosintv.link/football.html?url=https://yosintv2.github.io/ads/stbw.html?m=____"
+      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/stbw.html?m=____"
     }
 
 
