@@ -4,7 +4,7 @@
 
      {
       "name": " HD Live - TeamName ",
-      "link": " https://tinyurl.com/sha256online "
+      "link": " https://tinyurl.com/sha256onlinecom "
     },
 
 
