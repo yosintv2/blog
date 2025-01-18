@@ -2,9 +2,6 @@
   "events": [
 
 
- {  "name": " HD Live - TeamName ",      "link": " https://tinyurl.com/sha256onlinecom "  },
-
-
  {  "name": " HD 1 - TeamName ",          "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____ "  },
 
 
