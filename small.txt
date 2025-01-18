@@ -2,9 +2,6 @@
   "events": [
 
 
- { "name": " HD Live - TeamName ",    "link": " https://tinyurl.com/sha256onlinecom " },
-
-
  { "name": "Smooth 1 - TeamName ",    "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____ " },
 
 
@@ -17,10 +14,12 @@
  { "name": "Link 1 - TeamName ",      "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/mid.html?mid=____ " },
 
 
- { "name": "Link 2 - TeamName ",      "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ " },
+ { "name": "Link 2 - TeamName ",      "link": " https://yosintv2.github.io/tv/ads.html" }
 
 
- { "name": "Link 3 - TeamName ",      "link": " https://yosintv2.github.io/tv/ads.html" }
+{ "name": "Link 3 - TeamName ",      "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ " },
+
+
 
 
   ],
