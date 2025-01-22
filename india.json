@@ -1,45 +1,59 @@
 {
   "events": [
+
+
     
     {
-      "name": "Star Hindi - India vs Australia ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/bkp/rips.html?m=4"
+      "name": "Smooth 1 -  India v England - 1st T20 ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/TNTSports1[UK]"
     },
+
+
     
     {
-      "name": "Smooth 2 - India vs Australia ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-    
-    {
-      "name": "Link 1 - India vs Australia",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/bkp/rips.html?m=6"
-    },
-    
-    {
-      "name": "Link 2 - India vs Australia ",
+      "name": "Smooth 2 -  India v England - 1st T20 ",
       "link": "https://yosintv2.github.io/tv/ads.html"
     },
 
+
+    
     {
-      "name": "Link 3 - India vs Australia ",
+      "name": "Link 1 -  India v England - 1st T20",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SuperSportAction[SouthAfrica]"
+    },
+
+
+    
+    {
+      "name": "Link 2 -  India v England - 1st T20 ",
+      "link": "https://yosintv2.github.io/ads/promote.html"
+    },
+
+
+
+    {
+      "name": "Link 3 -  India v England - 1st T20 ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/WillovTV[USA]"
+    },
+
+
+
+        {
+      "name": "Link 4 -  India v England - 1st T20 ",
       "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/Fox501[Australia]"
     },
 
 
-        {
-      "name": "Link 4 - India vs Australia ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://streamtp1.com/global1.php?stream=tnt_1_gb"
-    },
-
 
         {
-      "name": "Link 5 - India vs Australia ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/WillovTV[USA]"
+      "name": "Link 5 -  India v England - 1st T20 ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySport1[NewZealand]"
     }
 
 
-    
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
