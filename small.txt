@@ -3,7 +3,7 @@
 
 
  { "name": "Smooth 1 - TeamName ",    
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ " }
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ " },
 
 
  { "name": "Smooth 2 - TeamName ",    
@@ -11,7 +11,7 @@
 
 
  { "name": "Smooth 3 - TeamName ",    
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ " }
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ " },
 
 
  { "name": "Link 1 - TeamName ",      
