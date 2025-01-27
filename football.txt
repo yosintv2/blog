@@ -4,7 +4,7 @@
 
 
 { "name": " Link 1 - TeamName ",       
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____ "  },
 
 
 { "name": " Link 2 - TeamName ",        
@@ -12,26 +12,30 @@
 
 
  { "name": " Link 3 - TeamName ",       
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____ "  },
 
 
 { "name": " Link 4 - TeamName ",        
-"link": " https://yosintv2.github.io/tv/ads.html" },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____ "  },
 
 
 { "name": " Link 5 - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ovo.html?m=____ "  },
+"link": " https://yosintv2.github.io/tv/ads.html" },
 
 
 { "name": " Link 6 - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/stbw.html?m=____ " },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
 
 
 { "name": " Link 7 - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
 
 
 { "name": " Link 8 - TeamName ",      
+"link": " https://yosintv2.github.io/ads/foot.html?url=____ "  },
+
+
+{ "name": " Link 9 - TeamName ",      
 "link": " https://yosintv2.github.io/ads/foot.html?url=____ "  }
 
 
