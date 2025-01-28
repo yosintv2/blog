@@ -2,6 +2,9 @@
   "events": [
 
 
+{ "name": " Join YoSinTV Telegram Discussion ",       
+"link": " https://t.me/yosintvlive "  },
+
 
 { "name": " Link 1 - TeamName ",       
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____ "  },
