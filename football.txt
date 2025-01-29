@@ -34,12 +34,12 @@
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
 
 
-{ "name": " Link 8 - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=____ "  },
+{ "name": " PC/Laptop - TeamName ",      
+"link": " https://yosintv2.github.io/ads/cric.html?url=____ "  },
 
 
-{ "name": " Link 9 - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=____ "  }
+{ "name": " PC/Laptop - TeamName ",      
+"link": " https://yosintv2.github.io/ads/cric.html?url=____ "  }
 
 
 
