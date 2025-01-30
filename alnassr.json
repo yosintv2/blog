@@ -1,46 +1,13 @@
 {
-  "events": [
-
-
-
-{ "name": " Link 1 - Al Nassr vs Al Fateh ",       
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=https://ezembed.me/e/player?url=aHR0cHM6Ly93b3dvd29peS5jb20vbGl2ZS92MS9MNXpZUUhzYkZGbVlWdXlkSmFlWklwa3dCWHVTR2NkalBYU1M3dmVyNWJ3U0dlN05EbVErVC1abktBTllVT1RDL21hc3Rlci5tM3U4&id=y39mp1hz6nxxmoj_6796274a596c4d47ce4586d8_1 "  },
-
-
-{ "name": " Link 2 - Al Nassr vs Al Fateh ",        
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 3 - Al Nassr vs Al Fateh ",       
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://ezembed.me/e/player?url=aHR0cHM6Ly93b3dvd29peS5jb20vbGl2ZS92MS9pOFhwUW0yOFpZZHFkbFdoNDFibkU1c0tHU29lbm5mV2FRcHdRRWpVcW5JPS9tYXN0ZXIubTN1OA==&id=y39mp1hz6nxxmoj_6796274a596c4d47ce4586d5_1 "  },
-
-
-{ "name": " Link 4 - Al Nassr vs Al Fateh ",        
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 5 - Al Nassr vs Al Fateh ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=https://ezembed.me/e/player?url=aHR0cHM6Ly93b3dvd29peS5jb20vbGl2ZS92MS9MNXpZUUhzYkZGbVlWdXlkSmFlWklwa3dCWHVTR2NkalBYU1M3dmVyNWJ3U0dlN05EbVErVC1abktBTllVT1RDL21hc3Rlci5tM3U4&id=y39mp1hz6nxxmoj_6796274a596c4d47ce4586d8_1 "  },
-
-
-{ "name": " Link 6 - Al Nassr vs Al Fateh ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=https://ezembed.me/e/player?url=aHR0cHM6Ly93b3dvd29peS5jb20vbGl2ZS92MS9MNXpZUUhzYkZGbVlWdXlkSmFlWklwa3dCWHVTR2NkalBYU1M3dmVyNWJ3U0dlN05EbVErVC1abktBTllVT1RDL21hc3Rlci5tM3U4&id=y39mp1hz6nxxmoj_6796274a596c4d47ce4586d8_1 "  },
-
-
-{ "name": " Link 7 - Al Nassr vs Al Fateh ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://ezembed.me/e/player?url=aHR0cHM6Ly93b3dvd29peS5jb20vbGl2ZS92MS9Jdkl4eXBYWkZLNVBDdExhc2ZkemhHY29VaGJ0bUlEczNSVHNKR2pKeEQ3VkdLVkppampYMG9zSjVjZXBOMWZXL21hc3Rlci5tM3U4&id=y39mp1hz6nxxmoj_6795cbcb596c4d47ce4571d9_1 "  },
-
-
-{ "name": " Link 8 - Al Nassr vs Al Fateh ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://ezembed.me/e/player?url=aHR0cHM6Ly93b3dvd29peS5jb20vbGl2ZS92MS9Jdkl4eXBYWkZLNVBDdExhc2ZkemhHY29VaGJ0bUlEczNSVHNKR2pKeEQ3VkdLVkppampYMG9zSjVjZXBOMWZXL21hc3Rlci5tM3U4&id=y39mp1hz6nxxmoj_6795cbcb596c4d47ce4571d9_1 "  }
-
-
-
-
-  ],
-  "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
-    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+    "team": "TeamName",
+    "links": [
+      { "name": "Link 1", "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
+      { "name": "Link 2", "link": "https://yosintv2.github.io/tv/ads.html" },
+      { "name": "Link 3", "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
+      { "name": "Link 4", "link": "https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____" },
+      { "name": "Link 5", "link": "https://yosintv2.github.io/tv/ads.html" },
+      { "name": "Link 6", "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____" },
+      { "name": "PC/Laptop", "link": "https://yosintv2.github.io/ads/cric.html?url=____" },
+      { "name": "PC/Laptop", "link": "https://yosintv2.github.io/ads/cric.html?url=____" }
+    ]
   }
-}
