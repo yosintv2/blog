@@ -1,9 +1,9 @@
-{
-  "events": [
+{ "events": [
 
 
  { "name": "Smooth 1 - TeamName ",    
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____ "  },
+
 
  { "name": "Smooth 2 - TeamName ",    
  "link": " https://yosintv2.github.io/tv/ads.html" },
@@ -23,7 +23,6 @@
 
 { "name": "Link 3 - TeamName ",      
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ " }
-
 
 
 
