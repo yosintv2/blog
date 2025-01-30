@@ -1,13 +1,24 @@
 {
-    "team": "Al Nassr vs Al Hilal",
-    "links": [
-      { "name": "Link 1", "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
-      { "name": "Link 2", "link": "https://yosintv2.github.io/tv/ads.html" },
-      { "name": "Link 3", "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
-      { "name": "Link 4", "link": "https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____" },
-      { "name": "Link 5", "link": "https://yosintv2.github.io/tv/ads.html" },
-      { "name": "Link 6", "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____" },
-      { "name": "PC/Laptop", "link": "https://yosintv2.github.io/ads/cric.html?url=____" },
-      { "name": "PC/Laptop", "link": "https://yosintv2.github.io/ads/cric.html?url=____" }
-    ]
+  "teams": [
+    {
+      "team": "TeamName",
+      "links": [
+        { "name": "Link 1", "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
+        { "name": "Link 2", "link": "https://yosintv2.github.io/tv/ads.html" },
+        { "name": "Link 3", "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
+        { "name": "Link 4", "link": "https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____" },
+        { "name": "Link 5", "link": "https://yosintv2.github.io/tv/ads.html" },
+        { "name": "Link 6", "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____" },
+        { "name": "PC/Laptop", "link": "https://yosintv2.github.io/ads/cric.html?url=____" },
+        { "name": "PC/Laptop", "link": "https://yosintv2.github.io/ads/cric.html?url=____" }
+      ]
+    }
+  ],
+  "styles": {
+    "teamTitle": "font-size: 18px; font-weight: bold; color: white; background: black; padding: 8px; text-align: center; border-radius: 5px; margin-bottom: 5px;",
+    "linkContainer": "display: flex; flex-direction: column; gap: 5px;",
+    "linkItem": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; padding: 8px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "linkItemHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "linkText": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
+}
