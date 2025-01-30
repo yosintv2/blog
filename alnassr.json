@@ -1,18 +1,40 @@
-{
-  "events": [
-    {
-      "team": "TeamName",
-      "links": [
-        { "name": "Link 1", "url": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
-        { "name": "Link 2", "url": "https://yosintv2.github.io/tv/ads.html" },
-        { "name": "Link 3", "url": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
-        { "name": "Link 4", "url": "https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____" },
-        { "name": "Link 5", "url": "https://yosintv2.github.io/tv/ads.html" },
-        { "name": "Link 6", "url": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____" },
-        { "name": "PC/Laptop", "url": "https://yosintv2.github.io/ads/cric.html?url=____" },
-        { "name": "PC/Laptop", "url": "https://yosintv2.github.io/ads/cric.html?url=____" }
-      ]
-    }
+{  "events": [
+
+
+{ "name": " Link 1 - TeamName ",       
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____ "  },
+
+
+{ "name": " Link 2 - TeamName ",        
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+ { "name": " Link 3 - TeamName ",       
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____ "  },
+
+
+{ "name": " Link 4 - TeamName ",        
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____ "  },
+
+
+{ "name": " Link 5 - TeamName ",      
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " Link 6 - TeamName ",      
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
+
+
+{ "name": " PC/Laptop - TeamName ",      
+"link": " https://yosintv2.github.io/ads/cric.html?url=____ "  },
+
+
+{ "name": " PC/Laptop - TeamName ",      
+"link": " https://yosintv2.github.io/ads/cric.html?url=____ "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
