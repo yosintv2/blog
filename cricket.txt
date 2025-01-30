@@ -13,17 +13,21 @@
  { "name": "Link 1 - TeamName",
  "link": "https://yosintv2.github.io/ads/cric.html?url=_________" },
 
-    
- { "name": "Link 2 - TeamName ",
-"link": "https://yosintv2.github.io/tv/ads.html" },
+
+ { "name": "Link 2 - TeamName",
+ "link": "https://yosintv2.github.io/ads/cric.html?url=_________" },
 
 
  { "name": "Link 3 - TeamName ",
+"link": "https://yosintv2.github.io/tv/ads.html" },
+
+
+ { "name": "PC/Laptop - TeamName ",
 "link": "https://yosintv2.github.io/ads/cric.html?url=_________" },
 
 
- { "name": "Link 4 - TeamName ",
-"link": "https://yosintv2.github.io/ads/cric.html?url=_________" },
+ { "name": "PC/Laptop - TeamName ",
+"link": "https://yosintv2.github.io/ads/cric.html?url=_________" }
 
 
 
