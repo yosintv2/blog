@@ -22,10 +22,6 @@
 
 
 { "name": " Link 6 - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____ "  },
-
-
-{ "name": " Link 7 - TeamName ",      
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
 
 
