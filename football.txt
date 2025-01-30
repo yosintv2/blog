@@ -1,9 +1,4 @@
-{
-  "events": [
-
-
-{ "name": " Join YoSinTV Telegram Discussion ",       
-"link": " https://t.me/yosintvlive "  },
+{  "events": [
 
 
 { "name": " Link 1 - TeamName ",       
