@@ -1,23 +1,22 @@
 {
   "events": [
     {
-      "name": "TeamName",
+      "team": "TeamName",
       "links": [
-        { "text": "Link 1", "url": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
-        { "text": "Link 2", "url": "https://yosintv2.github.io/tv/ads.html" },
-        { "text": "Link 3", "url": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
-        { "text": "Link 4", "url": "https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____" },
-        { "text": "Link 5", "url": "https://yosintv2.github.io/tv/ads.html" },
-        { "text": "Link 6", "url": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____" },
-        { "text": "PC/Laptop", "url": "https://yosintv2.github.io/ads/cric.html?url=____" },
-        { "text": "PC/Laptop", "url": "https://yosintv2.github.io/ads/cric.html?url=____" }
+        { "name": "Link 1", "url": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
+        { "name": "Link 2", "url": "https://yosintv2.github.io/tv/ads.html" },
+        { "name": "Link 3", "url": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=____" },
+        { "name": "Link 4", "url": "https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____" },
+        { "name": "Link 5", "url": "https://yosintv2.github.io/tv/ads.html" },
+        { "name": "Link 6", "url": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____" },
+        { "name": "PC/Laptop", "url": "https://yosintv2.github.io/ads/cric.html?url=____" },
+        { "name": "PC/Laptop", "url": "https://yosintv2.github.io/ads/cric.html?url=____" }
       ]
     }
   ],
   "styles": {
-    "teamTitle": "font-size: 20px; font-weight: bold; color: white; background: black; padding: 10px; text-align: center; border-radius: 5px; margin-bottom: 10px;",
-    "linkContainer": "display: flex; flex-direction: column; gap: 10px;",
-    "linkItem": "display: block; text-align: center; text-decoration: none; color: white; font-weight: bold; padding: 10px; border-radius: 5px; background: red; transition: background 0.3s;",
-    "linkItemHover": "background: darkred;"
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
 }
