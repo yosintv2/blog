@@ -21,8 +21,12 @@
  "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": "Link 3 - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____ "  }
+{ "name": "PC/Laptop - TeamName ",      
+"link": " https://yosintv2.github.io/ads/cric.html?url=_____ "  },
+
+
+{ "name": "PC/Laptop - TeamName ",      
+"link": " https://yosintv2.github.io/ads/cric.html?url=_____ "  }
 
 
 
