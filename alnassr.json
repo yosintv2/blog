@@ -1,42 +1,49 @@
-{  "events": [
-
-
-{ "name": " Link 1 - Al Raed vs Al Nassr ",       
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=35630 "  },
-
-
-{ "name": " Link 2 - Al Raed vs Al Nassr ",        
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
- { "name": " Link 3 - Al Raed vs Al Nassr ",       
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=15460 "  },
-
-
-{ "name": " Link 4 - Al Raed vs Al Nassr ",        
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/37110 "  },
-
-
-{ "name": " Link 5 - Al Raed vs Al Nassr ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 6 - Al Raed vs Al Nassr ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=4171931 "  },
-
-
-{ "name": " PC/Laptop - Al Raed vs Al Nassr ",      
-"link": " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/FOXSports2[USA] "  },
-
-
-{ "name": " PC/Laptop - Al Raed vs Al Nassr ",      
-"link": " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/FOXSports2[USA] "  }
-
-
-
-
+{
+  "match": {
+    "title": "IND vs ENG \u2022 4th T20I \u2022 England tour of India, 2025",
+    "series": "England tour of India, 2025",
+    "date": "Today",
+    "time": "7:00 PM LOCAL, 1:30 PM GMT",
+    "venue": "Maharashtra Cricket Association Stadium, Pune"
+  },
+  "events": [
+    {
+      "name": "Link 1 - Al Raed vs Al Nassr",
+      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=35630"
+    },
+    {
+      "name": "Link 2 - Al Raed vs Al Nassr",
+      "link": "https://yosintv2.github.io/tv/ads.html"
+    },
+    {
+      "name": "Link 3 - Al Raed vs Al Nassr",
+      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=15460"
+    },
+    {
+      "name": "Link 4 - Al Raed vs Al Nassr",
+      "link": "https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/37110"
+    },
+    {
+      "name": "Link 5 - Al Raed vs Al Nassr",
+      "link": "https://yosintv2.github.io/tv/ads.html"
+    },
+    {
+      "name": "Link 6 - Al Raed vs Al Nassr",
+      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=4171931"
+    },
+    {
+      "name": "PC/Laptop - Al Raed vs Al Nassr",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/FOXSports2[USA]"
+    },
+    {
+      "name": "PC/Laptop - Al Raed vs Al Nassr",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/FOXSports2[USA]"
+    }
   ],
   "styles": {
+    "table": "width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 18px; text-align: left;",
+    "th": "background-color: #333; color: white; padding: 10px; border: 1px solid #ddd;",
+    "td": "padding: 10px; border: 1px solid #ddd;",
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
