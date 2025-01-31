@@ -40,4 +40,11 @@ fetch(jsonFile)
   })
   .catch(error => {
     console.error('Error fetching JSON:', error);
+
+    // Display the fallback message if there's an error
+    const container = document.getElementById('live-container');
+    const errorMessageDiv = document.createElement('div');
+    errorMessageDiv.className = 'error-message';
+    errorMessageDiv.innerHTML = "Please Check Later, Match Not Started!";
+    container.appendChild(errorMessageDiv);
   });
