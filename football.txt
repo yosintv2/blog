@@ -2,7 +2,7 @@
 
 
 { "name": " No Lag - TeamName ",       
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
 
 
 { "name": " No Lag - TeamName ",        
@@ -10,7 +10,7 @@
 
 
  { "name": " Link 1 - TeamName ",       
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____ "  },
 
 
 { "name": " Link 2 - TeamName ",        
