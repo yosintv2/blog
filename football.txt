@@ -26,11 +26,11 @@
 
 
 { "name": " PC/Laptop - TeamName ",      
-"link": " https://yosintv2.github.io/ads/cric.html?url=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=____ "  },
 
 
 { "name": " PC/Laptop - TeamName ",      
-"link": " https://yosintv2.github.io/ads/cric.html?url=____ "  }
+"link": " https://yosintv2.github.io/ads/foot.html?url=____ "  }
 
 
 
