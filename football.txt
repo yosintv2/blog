@@ -10,11 +10,11 @@
 
 
  { "name": " Link 1 - TeamName ",       
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv3.github.io/player/iframe.html?url=https://go.xib.cc/live/____ "  },
 
 
 { "name": " Link 2 - TeamName ",        
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv3.github.io/player/iframe.html?url=https://go.xib.cc/live/____ "  },
 
 
 { "name": " Link 3 - TeamName ",      
@@ -22,7 +22,7 @@
 
 
 { "name": " Link 4 - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/_____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv3.github.io/player/iframe.html?url=https://go.xib.cc/live/____ "  },
 
 
 { "name": " PC/Laptop - TeamName ",      
