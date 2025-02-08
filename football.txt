@@ -21,7 +21,7 @@
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": " Link 4 - TeamName ",      
+{ "name": " iOS - TeamName ",      
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
 
 
