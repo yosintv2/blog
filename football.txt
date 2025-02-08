@@ -1,35 +1,35 @@
 {  "events": [
 
 
-{ "name": " No Lag - Click to Watch Live ",       
+{ "name": " No Lag - TeamName ",       
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
 
 
-{ "name": " No Lag - Click to Watch Live ",        
+{ "name": " No Lag - TeamName ",        
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
- { "name": " Link 1 - Click to Watch Live ",       
+ { "name": " Link 1 - TeamName ",       
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://www.yosintv.link/cn.html?id=____ "  },
 
 
-{ "name": " Link 2 - Click to Watch Live ",        
+{ "name": " Link 2 - TeamName ",        
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://www.yosintv.link/cn.html?id=____ "  },
 
 
-{ "name": " Link 3 - Click to Watch Live ",      
+{ "name": " Link 3 - TeamName ",      
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": " Link 4 - Click to Watch Live ",      
+{ "name": " Link 4 - TeamName ",      
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://www.yosintv.link/cn.html?id=____ "  },
 
 
-{ "name": " PC/Laptop - Click to Watch Live ",      
+{ "name": " PC/Laptop - TeamName ",      
 "link": " https://yosintv2.github.io/ads/foot.html?url=____ "  },
 
 
-{ "name": " PC/Laptop - Click to Watch Live ",      
+{ "name": " PC/Laptop - TeamName ",      
 "link": " https://yosintv2.github.io/ads/foot.html?url=____ "  }
 
 
