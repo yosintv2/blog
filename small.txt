@@ -10,7 +10,7 @@
 
 
 { "name": " Link 1 - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/bravo.html?mid=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/charlie.html?mid=____ "  },
 
 
 { "name": "  iOS/Mob - TeamName ",   
