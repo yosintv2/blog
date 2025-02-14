@@ -2,7 +2,7 @@
 
 
 { "name": " No Lag - TeamName ",       
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=______ "  },
 
 
 { "name": " No Lag - TeamName ",        
@@ -10,11 +10,11 @@
 
 
  { "name": " Link 1 - TeamName ",       
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/charlie.html?mid=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/charlie.html?mid=______ "  },
 
 
 { "name": " Link 2 - TeamName ",        
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/echo.html?mid=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=______ "  },
 
 
 { "name": " Link 3 - TeamName ",      
@@ -22,15 +22,15 @@
 
 
 { "name": " iOS - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=______ "  },
 
 
 { "name": " PC/Laptop - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=______ "  },
 
 
 { "name": " PC/Laptop - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=____ "  }
+"link": " https://yosintv2.github.io/ads/foot.html?url=______ "  }
 
 
 
