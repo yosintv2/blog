@@ -4,7 +4,7 @@ function getQueryParam(param) {
   return urlParams.get(param);
 }
 
-// Get the JSON file name from the 'yosintv' parameter
+// Get the JSON file name from the URL parameter and append `.json` if needed
 const fileParam = getQueryParam('yosintv');
 const jsonFile = fileParam ? `${fileParam}.json` : 'default.json'; // Default to 'default.json' if no parameter provided
 
@@ -48,14 +48,3 @@ fetch(jsonFile)
     errorMessageDiv.innerHTML = "Please Check Later, Match Not Started!";
     container.appendChild(errorMessageDiv);
   });
-
-// Update the "No Lag - TeamName" inside the live-container dynamically
-const teamNameElement = document.createElement('div');
-teamNameElement.className = 'team-name'; // Optional: Add class for styling
-
-const teamName = fileParam ? fileParam.replace(/-/g, ' ') : 'TeamName'; // Replace hyphens with spaces if needed
-teamNameElement.innerText = `${teamName}`;
-
-// Append it to the live-container
-const container = document.getElementById('live-container');
-container.insertBefore(teamNameElement, container.firstChild); // Insert at the top of the container
