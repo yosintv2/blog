@@ -4,6 +4,9 @@ function getQueryParam(param) {
   return urlParams.get(param);
 }
 
+// Define the base URL
+const baseUrl = 'https://yosintv2.github.io/ads/'; // Replace with your desired base URL
+
 // Get the JSON file name from the URL parameter and append `.json` if needed
 const fileParam = getQueryParam('yosintv');
 const jsonFile = fileParam ? `${fileParam}.json` : 'default.json'; // Default to 'default.json' if no parameter provided
@@ -32,7 +35,8 @@ fetch(jsonFile)
 
       // Add click functionality to navigate to the event link in the same tab
       eventDiv.addEventListener('click', () => {
-        window.location.href = event.link; // Redirect to the link in the same tab
+        const fullUrl = baseUrl + event.link; // Append the event link to the base URL
+        window.location.href = fullUrl; // Redirect to the full URL in the same tab
       });
 
       container.appendChild(eventDiv);
