@@ -1,16 +1,13 @@
 { "events": [
 
 
- { "name": "Smooth 1 - TeamName ",    
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=____ "  },
-
-
- { "name": "Smooth 2 - TeamName ",    
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
 
 { "name": " Link 1 - TeamName ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=____ "  },
+
+
+ { "name": " Link 2 - TeamName ",    
+ "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
 { "name": "  iOS/Mob - TeamName ",   
@@ -22,11 +19,11 @@
 
 
 { "name": "PC/Laptop - TeamName ",      
-"link": " https://yosintv2.github.io/ads/cric.html?url=_____ "  },
+"link": " https://yosintv2.github.io/ads/foot.html?url=_____ "  },
 
 
 { "name": "PC/Laptop - TeamName ",      
-"link": " https://yosintv2.github.io/ads/cric.html?url=_____ "  }
+"link": " https://yosintv2.github.io/ads/foot.html?url=_____ "  }
 
 
 
