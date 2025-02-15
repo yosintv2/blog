@@ -10,7 +10,7 @@
 
 
  { "name": " Link 1 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/charlie.html?mid=______ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=______ "  },
 
 
 { "name": " Link 2 - TeamName ",        
