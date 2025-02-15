@@ -2,7 +2,7 @@
 
 
 { "name": " No Lag - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=______ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=leicester-city-vs-arsenal "  },
 
 
 { "name": " No Lag - TeamName ",        
@@ -10,11 +10,11 @@
 
 
  { "name": " Link 1 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=______ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=leicester-city-vs-arsenal "  },
 
 
 { "name": " Link 2 - TeamName ",        
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=______ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=9912096 "  },
 
 
 { "name": " Link 3 - TeamName ",      
@@ -22,15 +22,15 @@
 
 
 { "name": " iOS - TeamName ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=______ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=4139819 "  },
 
 
 { "name": " PC/Laptop - TeamName ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina] "  },
 
 
 { "name": " PC/Laptop - TeamName ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  }
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/USANetwork[USA] "  }
 
 
 
