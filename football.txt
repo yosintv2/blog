@@ -22,7 +22,7 @@
 
 
 { "name": " iOS - TeamName ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=_____ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://www.yosintv.link/live.html?id=_____ "  },
 
 
 { "name": " PC/Laptop - TeamName ",      
