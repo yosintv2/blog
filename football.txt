@@ -1,7 +1,7 @@
 {  "events": [
 
 
-{ "name": " No Lag - TeamName ",       
+{ "name": " IOS/All - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/midd.html?yosintv=_____ "  },
 
 
@@ -21,7 +21,7 @@
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": " iOS - TeamName ",      
+{ "name": " Link 4 - TeamName ",      
 "link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
 
 
