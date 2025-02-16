@@ -1,8 +1,8 @@
 {  "events": [
 
 
-{ "name": " Android - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=_____ "  },
+{ "name": " IOS/PC - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid.html?yosintv=_____ "  },
 
 
 { "name": " No Lag - TeamName ",        
