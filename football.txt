@@ -25,11 +25,19 @@
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=______ "  },
 
 
-{ "name": " PC/Laptop - TeamName ",      
+{ "name": " PC/Android - TeamName ",      
 "link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  },
 
 
-{ "name": " PC/Laptop - TeamName ",      
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  },
+
+
+{ "name": " PC/Android - TeamName ",      
 "link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  }
 
 
