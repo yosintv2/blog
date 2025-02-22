@@ -1,15 +1,15 @@
 {  "events": [
 
 
-{ "name": " IOS/PC - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid.html?yosintv=____ "  },
+{ "name": " Android - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____ "  },
 
 
 { "name": " No Lag - TeamName ",        
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
- { "name": " Android - TeamName ",       
+ { "name": " IOS - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/tc.html?m=_____ "  },
 
 
