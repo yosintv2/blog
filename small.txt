@@ -2,28 +2,28 @@
 
 
 
-{ "name": " Android - Bournemouth vs Wolves ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=afc-bournemouth-vs-wolverhampton-wanderers "  },
+{ "name": " Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=______ "  },
 
 
- { "name": " Android - Bournemouth vs Wolves ",    
+ { "name": " Android - TeamName ",    
  "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": "  IOS - Bournemouth vs Wolves ",   
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/tc.html?m=7 "  },
+{ "name": "  IOS - TeamName ",   
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/tc.html?m=______ "  },
 
 
- { "name": " IOS - Bournemouth vs Wolves ",      
+ { "name": " IOS - TeamName ",      
  "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": "PC/Laptop - Bournemouth vs Wolves ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport7[NewZealand] "  },
+{ "name": "PC/Laptop - TeamName ",      
+"link": " https://yosintv2.github.io/ads/foot.html?url=______ "  },
 
 
-{ "name": "PC/Laptop - Bournemouth vs Wolves ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports5[Greece] "  }
+{ "name": "PC/Laptop - TeamName ",      
+"link": " https://yosintv2.github.io/ads/foot.html?url=______ "  }
 
 
 
