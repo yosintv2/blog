@@ -30,14 +30,6 @@
 
 
 { "name": " PC/Android - TeamName ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  },
-
-
-{ "name": " PC/Android - TeamName ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  },
-
-
-{ "name": " PC/Android - TeamName ",      
 "link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  }
 
 
