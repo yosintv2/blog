@@ -13,14 +13,14 @@ const container = document.getElementById('live-container');
 // Show countdown message
 const countdownDiv = document.createElement('div');
 countdownDiv.className = 'error-message'; // Apply same style as the error message
-countdownDiv.innerHTML = "Live Links Loading in 5...";
+countdownDiv.innerHTML = "Live Links Loading in 5 sec...";
 container.appendChild(countdownDiv);
 
 // Countdown function
 let countdown = 5;
 const countdownInterval = setInterval(() => {
   countdown--;
-  countdownDiv.innerHTML = `Live Links Loading in ${countdown}...`;
+  countdownDiv.innerHTML = `Live Links Loading in ${countdown} sec...`;
   
   if (countdown === 0) {
     clearInterval(countdownInterval);
