@@ -10,13 +10,13 @@ const jsonFile = fileParam ? `${fileParam}.json` : 'default.json'; // Default to
 
 const container = document.getElementById('live-container');
 
-// Show countdown message
+// Show countdown message function
 const countdownDiv = document.createElement('div');
 countdownDiv.className = 'error-message'; // Apply same style as the error message
 countdownDiv.innerHTML = "Live Links Loading in 10 sec...";
 container.appendChild(countdownDiv);
 
-// Countdown function
+// Countdown function starts from here 
 let countdown = 10;
 const countdownInterval = setInterval(() => {
   countdown--;
