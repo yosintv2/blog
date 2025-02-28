@@ -47,4 +47,4 @@ fetch(jsonFile)
     errorMessageDiv.className = 'error-message';
     errorMessageDiv.innerHTML = "Please Check Later, Match Not Started!";
     container.appendChild(errorMessageDiv);
-  }); ]
+  });
