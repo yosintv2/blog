@@ -21,15 +21,15 @@
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
- { "name": " Android - TeamName ",       
+ { "name": " No Lag - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=_____ "  },
 
 
-{ "name": " Android - TeamName ",       
+{ "name": " No Lag - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=______ "  },
 
 
-{ "name": " PC/Android - TeamName ",      
+{ "name": " No Lag - TeamName ",      
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=______ "  },
 
 
