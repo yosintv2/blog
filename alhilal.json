@@ -1,32 +1,33 @@
 { "events": [
 
 
- { "name": "Smooth 1 - Al Hilal vs Persepolis ",    
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=479849 "  },
+{ "name": " All - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=9912048 "  },
 
 
- { "name": "Smooth 2 - Al Hilal vs Persepolis ",    
+{ "name": " Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=______ "  },
+
+
+ { "name": " Android - TeamName ",    
  "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": " Link 1 - Al Hilal vs Persepolis ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=4199017 "  },
+{ "name": "  IOS - TeamName ",   
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/tc.html?m=______ "  },
 
 
-{ "name": "  Link 2 - Al Hilal vs Persepolis ",   
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=479849 "  },
-
-
- { "name": "Link 3 - Al Hilal vs Persepolis ",      
+ { "name": " IOS - TeamName ",      
  "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": "PC/Laptop - Al Hilal vs Persepolis ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=479849 "  },
+{ "name": "PC/Laptop - TeamName ",      
+"link": " https://yosintv2.github.io/ads/foot.html?url=______ "  },
 
 
-{ "name": "PC/Laptop - Al Hilal vs Persepolis ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=479849 "  }
+{ "name": "PC/Laptop - TeamName ",      
+"link": " https://yosintv2.github.io/ads/foot.html?url=______ "  }
+
 
 
   ],
