@@ -17,8 +17,12 @@
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=_____ "  },
 
 
- { "name": " Android - TeamName ",       
+{ "name": " IOS - TeamName ",       
 "link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " Android - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=_____ "  },
 
 
  { "name": " No Lag - TeamName ",       
@@ -34,12 +38,31 @@
 
 
 { "name": " PC/Android - TeamName ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp3.com/global1.php?stream=_____ "  },
+"link": " https://yosintv2.github.io/tv/ads.html" },
 
 
 { "name": " PC/Android - TeamName ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp3.com/global1.php?stream=_____ "  }
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
 
+
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  }
 
 
 
