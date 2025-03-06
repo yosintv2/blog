@@ -10,7 +10,7 @@
 
 
  { "name": " Android - TeamName ",    
- "link": " https://yosintv2.github.io/tv/ads.html" },
+"link": " https://yosintv2.github.io/ads/promote.html" },
 
 
 { "name": "  IOS - TeamName ",   
