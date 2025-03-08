@@ -2,7 +2,7 @@
 
 
 { "name": " IOS/Android - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://www.yosintv.net/st.html?id=_____ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/midd.html?yosintv=_____ "  },
 
 
 { "name": " No Lag - TeamName ",        
