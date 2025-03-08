@@ -13,8 +13,8 @@
 "link": " https://yosintv2.github.io/ads/promote.html" },
 
 
-{ "name": "  IOS - TeamName ",   
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/tc.html?m=______ "  },
+{ "name": " Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=______ "  },
 
 
  { "name": " IOS - TeamName ",      
