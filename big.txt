@@ -18,7 +18,7 @@
 
 
 { "name": " IOS - TeamName ",       
-"link": " https://yosintv2.github.io/ads/promote.html" },
+"link": " https://yosintv2.github.io/tv/ads.html" },
 
 
 { "name": " Android - TeamName ",       
@@ -30,7 +30,7 @@
 
 
  { "name": " No Lag - TeamName ",       
-"link": " https://yosintv2.github.io/ads/promote.html" },
+"link": " https://yosintv2.github.io/tv/ads.html" },
 
 
 { "name": " No Lag - TeamName ",       
