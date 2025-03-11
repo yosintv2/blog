@@ -1,32 +1,45 @@
-{ "events": [
+{  "events": [
 
 
-{ "name": " All - Leverkusen vs Werder Bremen ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=500606 "  },
+{ "name": " All - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=238362 "  },
 
 
-{ "name": " Android - Leverkusen vs Werder Bremen ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=500606 "  },
+{ "name": " All - TeamName ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
 
 
- { "name": " Android - Leverkusen vs Werder Bremen ",    
-"link": " https://yosintv2.github.io/ads/promote.html" },
+{ "name": " IOS/Android - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=566370 "  },
 
 
-{ "name": "  IOS - Leverkusen vs Werder Bremen ",   
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=500606 "  },
+{ "name": " IOS/Android - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=_____"  },
 
 
- { "name": " IOS - Leverkusen vs Werder Bremen ",      
- "link": " https://yosintv2.github.io/tv/ads.html" },
+ { "name": " Android - TeamName ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": "PC/Laptop - Leverkusen vs Werder Bremen ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports4[Greece] "  },
+{ "name": " Android - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____ "  },
 
 
-{ "name": "PC/Laptop - Leverkusen vs Werder Bremen ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkyBundesliga3[Germany] "  }
+ { "name": " Android - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____ "  },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  }
+
 
 
 
