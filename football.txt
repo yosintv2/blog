@@ -2,7 +2,7 @@
 
 
 { "name": " All - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/midd.html?yosintv=_____ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=_____ "  },
 
 
 { "name": " All - TeamName ",       
@@ -10,11 +10,11 @@
 
 
 { "name": " IOS/Android - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/midd.html?yosintv=_____ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=_____ "  },
 
 
 { "name": " IOS/Android - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/tc.html?m=____ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=_____"  },
 
 
 { "name": " Android - TeamName ",       
