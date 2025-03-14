@@ -10,11 +10,11 @@
 
 
 { "name": " IOS/Android - Al Nassr vs Al Kholood ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://www.yosintv.net/dmca.html?url=https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=ad58c0e6a2dcf4121a8865ef461968a6&txTime=67d3aa0f "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=494201"  },
 
 
 { "name": " IOS/Android - Al Nassr vs Al Kholood ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=551866 "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://www.yosintv.net/dmca.html?url=https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=ad58c0e6a2dcf4121a8865ef461968a6&txTime=67d3aa0f "  },
 
 
  { "name": " Android - Al Nassr vs Al Kholood ",       
