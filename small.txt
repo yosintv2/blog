@@ -1,27 +1,27 @@
 { "events": [
 
 
-{ "name": " All - Live Link 1 ",       
+{ "name": " All - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=______ "  },
 
 
- { "name": " Android - Live Link 2 ",    
+ { "name": " Android - TeamName ",    
  "link": " https://yosintv2.github.io/tv/ads.html" }
 
 
-{ "name": " All - Live Link 3 ",       
+{ "name": " All - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=______ "  },
 
 
-{ "name": " Android - Live Link 4 ",      
+{ "name": " Android - TeamName ",      
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=______ "  },
 
 
-{ "name": " Android - Live Link 5 ",      
+{ "name": " Android - TeamName ",      
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=______ "  },
 
 
- { "name": " IOS - Live Link 6 ",      
+ { "name": " IOS - TeamName ",      
  "link": " https://yosintv2.github.io/tv/ads.html" }
 
 
