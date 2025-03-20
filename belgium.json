@@ -1,0 +1,52 @@
+{  "events": [
+
+
+{ "name": " All - Ukraine vs Belgium ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=503286"  },
+
+
+{ "name": " All - Ukraine vs Belgium ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " All - Ukraine vs Belgium ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=285067"  },
+
+
+{ "name": " All - Ukraine vs Belgium ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=503286"  },
+
+
+ { "name": " Android - Ukraine vs Belgium ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " Android - Ukraine vs Belgium ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=ukraine-vs-belgium "  },
+
+
+ { "name": " Android - Ukraine vs Belgium ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=ukraine-vs-belgium "  },
+
+
+{ "name": " PC/Android - Ukraine vs Belgium ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport4[Serbia] "  },
+
+
+{ "name": " PC/Android - Ukraine vs Belgium ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport7[NewZealand] "  },
+
+
+{ "name": " PC/Android - Ukraine vs Belgium ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport4[Serbia] "  }
+
+
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
