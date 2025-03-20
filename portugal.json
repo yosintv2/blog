@@ -1,0 +1,52 @@
+{  "events": [
+
+
+{ "name": " Mobile Only - Denmark vs Portugal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv3.github.io/livee/live.html?id=portugal"  },
+
+
+{ "name": " All - Denmark vs Portugal ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " All - Denmark vs Portugal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=9912008"  },
+
+
+{ "name": " All - Denmark vs Portugal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=484845"  },
+
+
+ { "name": " Android - Denmark vs Portugal ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " Android - Denmark vs Portugal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=denmark-vs-portugal "  },
+
+
+ { "name": " Android - Denmark vs Portugal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=denmark-vs-portugal "  },
+
+
+{ "name": " PC/Android - Denmark vs Portugal ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport1[Serbia] "  },
+
+
+{ "name": " PC/Android - Denmark vs Portugal ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport3[Romania] "  },
+
+
+{ "name": " PC/Android - Denmark vs Portugal ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport5[NewZealand] "  }
+
+
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
