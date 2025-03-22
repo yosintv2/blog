@@ -1,0 +1,58 @@
+{ "events": [
+
+
+{ "name": " Mobile Only - India vs New Zealand  ",
+ "link": "https://yosintv2.github.io/ads/cric.html?url=______ " },
+    
+    
+ { "name": " Hindi - India vs New Zealand  ",
+ "link": "https://yosintv2.github.io/tv/ads.html" },
+
+    
+{ "name": " Smooth - India vs New Zealand  ",
+ "link": "https://yosintv2.github.io/ads/cric.html?url=______ " },
+ 
+ 
+ { "name": " Link 1 - India vs New Zealand  ",
+"link": "https://yosintv2.github.io/tv/ads.html" },   
+ 
+ 
+ { "name": " PC Only - India vs New Zealand  ",
+ "link": "https://yosintv2.github.io/ads/cric.html?url=______ " },
+    
+    
+{ "name": " Link 3 - India vs New Zealand  ",
+ "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha.html?mid=kolkata-knight-riders-vs-royal-challengers-bengaluru " },
+ 
+ 
+ { "name": " Link 4 - India vs New Zealand  ",
+ "link": "https://yosintv2.github.io/tv/ads.html" },
+   
+    
+ { "name": " Link 6 - India vs New Zealand  ",
+ "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=kolkata-knight-riders-vs-royal-challengers-bengaluru " },
+
+
+ { "name": "PC/Laptop - India vs New Zealand  ",
+ "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK] " },
+    
+    
+ { "name": "PC/Laptop - India vs New Zealand  ",
+"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/WillowTV[USA] " },
+    
+    
+ { "name": "PC/Laptop - India vs New Zealand  ",
+"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/AstroCricket[Malaysia] " },
+    
+
+{ "name": "PC/Laptop - India vs New Zealand  ",
+"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySport3[NewZealand] " }
+
+],
+
+"styles": {
+"livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
