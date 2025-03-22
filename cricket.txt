@@ -1,5 +1,7 @@
 { "events": [
 
+{ "name": " Join YoSinTV Telegram For Fast Links  ",
+ "link": "https://t.me/yosintvlive " },
 
     
  { "name": "Smooth 1 - TeamName ",
