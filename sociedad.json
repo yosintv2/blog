@@ -1,0 +1,56 @@
+{"events": [
+
+
+{ "name": " Join YoSinTV Telegram For Fast Links  ",
+ "link": "https://t.me/yosintvlive " },
+
+
+{ "name": " All - Sociedad vs Valladolid ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=479379"  },
+
+
+{ "name": " All - Sociedad vs Valladolid ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " All - Sociedad vs Valladolid ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=434982"  },
+
+
+{ "name": " All - Sociedad vs Valladolid ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=132343"  },
+
+
+ { "name": " Android - Sociedad vs Valladolid ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " Android - Sociedad vs Valladolid ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=real-sociedad-vs-real-valladolid "  },
+
+
+ { "name": " Android - Sociedad vs Valladolid ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=real-sociedad-vs-real-valladolid "  },
+
+
+{ "name": " PC/Android - Sociedad vs Valladolid ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPNDeportes[USA] "  },
+
+
+{ "name": " PC/Android - Sociedad vs Valladolid ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] "  },
+
+
+{ "name": " PC/Android - Sociedad vs Valladolid ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/LaLigaTV[UK] "  }
+
+
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
