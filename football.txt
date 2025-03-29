@@ -33,6 +33,10 @@
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____ "  },
 
 
+{ "name": " All - TeamName ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
 { "name": " PC/Android - TeamName ",      
 "link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
 
