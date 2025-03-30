@@ -1,0 +1,60 @@
+{"events": [
+
+
+{ "name": " Join YoSinTV Telegram For Fast Links  ",
+ "link": "https://t.me/yosintvlive " },
+
+
+{ "name": " All - Preston vs Aston Villa ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206"  },
+
+
+{ "name": " All - Preston vs Aston Villa ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " All - Preston vs Aston Villa ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=414317"  },
+
+
+{ "name": " All - Preston vs Aston Villa ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=147801"  },
+
+
+ { "name": " Android - Preston vs Aston Villa ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " Android - Preston vs Aston Villa ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=preston-north-end-vs-aston-villa "  },
+
+
+ { "name": " Android - Preston vs Aston Villa ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=preston-north-end-vs-aston-villa "  },
+
+
+{ "name": " All - Preston vs Aston Villa ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC/Android - Preston vs Aston Villa ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/BBCOne[UK] "  },
+
+
+{ "name": " PC/Android - Preston vs Aston Villa ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium1[Serbia] "  },
+
+
+{ "name": " PC/Android - Preston vs Aston Villa ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV5[Portugal] "  }
+
+
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
