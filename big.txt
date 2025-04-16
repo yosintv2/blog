@@ -5,71 +5,71 @@
  "link": "https://t.me/yosintvlive " },
 
 
-{ "name": " All - TeamName ",       
+{ "name": " Link 1 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  },
 
 
-{ "name": " No Lag - TeamName ",        
+{ "name": " Link 2 - TeamName ",       
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": " All - TeamName ",       
+{ "name": " Link 3 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  },
 
 
-{ "name": " All - TeamName ",       
+{ "name": " Link 4 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____"  },
 
 
-{ "name": " All - TeamName ",       
+{ "name": " Link 5 - TeamName ",       
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": " All - TeamName ",       
+{ "name": " Link 6 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____"  },
 
 
-{ "name": " All - TeamName ",       
+{ "name": " Link 7 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____"  },
 
 
-{ "name": " IOS - TeamName ",       
+{ "name": " Link 8 - TeamName ",       
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": " Android - TeamName ",       
+{ "name": " Link 9 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____ "  },
 
 
- { "name": " No Lag - TeamName ",       
+{ "name": " Link 10 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____ "  },
 
 
- { "name": " No Lag - TeamName ",       
+{ "name": " Link 11 - TeamName ",       
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": " PC/Android - TeamName ",      
+{ "name": " Link 12 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
 
 
-{ "name": " PC/Android - TeamName ",      
+{ "name": " Link 13 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
 
 
-{ "name": " PC/Android - TeamName ",      
+{ "name": " Link 14 - TeamName ",       
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
-{ "name": " PC/Android - TeamName ",      
+{ "name": " Link 15 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
 
 
-{ "name": " PC/Android - TeamName ",      
+{ "name": " Link 16 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
 
 
-{ "name": " PC/Android - TeamName ",      
+{ "name": " Link 17 - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=______ "  }
 
 
