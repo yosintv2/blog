@@ -1,56 +1,31 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Chelsea vs Warszawa ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=ppvchelsea  ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/tc.html?m=4  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=344370 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=421651 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=chelsea-vs-legia-warsaw ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=chelsea-vs-legia-warsaw ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Smooth - Chelsea vs Ipswich ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein2"  },
-
-
-{ "name": " All - Chelsea vs Ipswich ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Chelsea vs Ipswich ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=chelseaxg "  },
-
-
-{ "name": " All - Chelsea vs Ipswich ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=139384"  },
-
-
- { "name": " Android - Chelsea vs Ipswich ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Chelsea vs Ipswich ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=chelsea-vs-ipswich-town "  },
-
-
- { "name": " Android - Chelsea vs Ipswich ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=chelsea-vs-ipswich-town "  },
-
-
-{ "name": " PC/Android - Chelsea vs Ipswich ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Chelsea vs Ipswich ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=disney1 "  },
-
-
-{ "name": " PC/Android - Chelsea vs Ipswich ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=max1 "  },
-
-
-{ "name": " PC/Android - Chelsea vs Ipswich ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=peacock1 "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=paramount3 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=disney3 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=paramount3 "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
