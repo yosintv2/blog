@@ -1,47 +1,30 @@
-{ "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Białystok vs Real Betis ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=mstar  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=336303 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=421651 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=jagiellonia-bialystok-vs-real-betis ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=jagiellonia-bialystok-vs-real-betis ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Smooth - Real Betis vs Villarreal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=mstar"  },
-
-
-{ "name": " All - Real Betis vs Villarreal ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Real Betis vs Villarreal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=sslaliga "  },
- 
- 
- { "name": " All - Real Betis vs Villarreal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=484845 "  },
-
-
- { "name": " Android - Real Betis vs Villarreal ",    
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Real Betis vs Villarreal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=187579 "  },
-
-
-{ "name": " Android - Real Betis vs Villarreal ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=real-betis-vs-villarreal "  },
-
-
-{ "name": " Android - Real Betis vs Villarreal ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=real-betis-vs-villarreal "  },
-
-
- { "name": " IOS - Real Betis vs Villarreal ",      
- "link": " https://yosintv2.github.io/tv/ads.html" }
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=disney1 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=foxsports2mx ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=foxsportspremium "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
