@@ -1,83 +1,39 @@
-{  "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " _______ ",
+      "links": [
+        
+        " https://yosintv2.github.io/ads/foot.html?url=_____  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=_____  ",
+        " https://yosintv2.github.io/ads/foot.html?url=_____  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=_____  ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____ ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____ ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Link 1 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  },
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-
-{ "name": " Link 2 - TeamName ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 3 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  },
-
-
-{ "name": " Link 4 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  },
-
-
-{ "name": " Link 5 - TeamName ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 6 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=_____ "  },
-
-
-{ "name": " Link 7 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____"  },
-
-
-{ "name": " Link 8 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____"  },
-
-
-{ "name": " Link 9 - TeamName ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 10 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____ "  },
-
-
-{ "name": " Link 12 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____ "  },
-
-
-{ "name": " Link 13 - TeamName ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 14 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
-
-
-{ "name": " Link 15 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
-
-
-{ "name": " Link 16 - TeamName ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 17 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
-
-
-{ "name": " Link 18 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
-
-
-{ "name": " Link 19 - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  }
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ "
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
