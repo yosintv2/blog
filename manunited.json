@@ -1,56 +1,33 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Man United vs Lyon ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=ppmanunited  ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=tudn  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/tc.html?m=1  ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=201313 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=132343 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=manchester-united-vs-lyon ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=manchester-united-vs-lyon ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Smooth - Newcastle vs Man United ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=usanetwork "  },
-
-
-{ "name": " All - Newcastle vs Man United ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Newcastle vs Man United ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein1 "  },
-
-
-{ "name": " All - Newcastle vs Man United ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein1"  },
-
-
- { "name": " Android - Newcastle vs Man United ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Newcastle vs Man United ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=414317 "  },
-
-
- { "name": " Android - Newcastle vs Man United ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=168740 "  },
-
-
-{ "name": " PC/Android - Newcastle vs Man United ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Newcastle vs Man United ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=disney16 "  },
-
-
-{ "name": " PC/Android - Newcastle vs Man United ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=eleven1_pt "  },
-
-
-{ "name": " PC/Android - Newcastle vs Man United ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=dazn2 "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=foxsportsmx ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=paramount7 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=tudn_usa ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=disney4 "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
