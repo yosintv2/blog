@@ -1,31 +1,60 @@
-event.links.forEach((link, index) => {
-  const eventDiv = document.createElement('div');
-  eventDiv.className = 'livee';
-  eventDiv.style.cssText = data.styles.livee; // Apply styles from JSON
+function getQueryParam(param) {
+  const urlParams = new URLSearchParams(window.location.search);
+  return urlParams.get(param);
+}
 
-  eventDiv.innerHTML = `
-    <div class="livee-name" style="${data.styles.liveeName}">
-      Link ${index + 1} - ${event.name}
-    </div>
-  `;
+const fileParam = getQueryParam('yosintv');
+const jsonFile = fileParam ? `${fileParam}.json` : 'default.json';
 
-  // Create a clickable link
-  const a = document.createElement('a');
-  a.href = link;
-  a.target = '_blank';  // Open in new tab
-  a.style.textDecoration = 'none';
-  a.style.color = 'inherit';
+fetch(jsonFile)
+  .then(res => {
+    if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
+    return res.json();
+  })
+  .then(data => {
+    const container = document.getElementById('live-container');
 
-  // Add click functionality for opening in a new tab with CTRL + Click
-  a.addEventListener('click', (event) => {
-    if (event.ctrlKey || event.metaKey) {
-      window.open(link, '_blank'); // Ensure new tab opens with CTRL or CMD + Click
-    } else {
-      window.location.href = link; // Normal behavior
-    }
+    data.events.forEach(event => {
+      // If it's a single link (e.g., Telegram)
+      if (event.link) {
+        const eventDiv = document.createElement('div');
+        eventDiv.className = 'livee';
+        eventDiv.style.cssText = data.styles.livee;
+        eventDiv.innerHTML = `
+          <div class="livee-name" style="${data.styles.liveeName}">
+            ${event.name}
+          </div>
+        `;
+        eventDiv.addEventListener('click', () => {
+          window.location.href = event.link;
+        });
+        container.appendChild(eventDiv);
+      }
+
+      // If it's multiple links
+      if (event.links) {
+        event.links.forEach((link, index) => {
+          const eventDiv = document.createElement('div');
+          eventDiv.className = 'livee';
+          eventDiv.style.cssText = data.styles.livee;
+          eventDiv.innerHTML = `
+            <div class="livee-name" style="${data.styles.liveeName}">
+              Link ${index + 1} - ${event.name}
+            </div>
+          `;
+          eventDiv.addEventListener('click', () => {
+            window.location.href = link;
+          });
+          container.appendChild(eventDiv);
+        });
+      }
+    });
+  })
+  .catch(err => {
+    console.error('Error fetching JSON:', err);
+    const container = document.getElementById('live-container');
+    const errorDiv = document.createElement('div');
+    errorDiv.className = 'error-message';
+    errorDiv.textContent = "Please Check Later, Match Not Started!";
+    container.appendChild(errorDiv);
   });
-
-  // Append the anchor tag to the eventDiv
-  eventDiv.appendChild(a);
-  container.appendChild(eventDiv);
-});
