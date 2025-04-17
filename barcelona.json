@@ -1,16 +1,19 @@
 {
   "events": [
     {
-      "name": " Barcelona vs Real Madrid ",
+      "name": " Join YoSinTV Telegram ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": "Live - TeamName",
       "links": [
-
-        "https://yosintv2.github.io/ads/ak.html?m=139384",
+        
         "https://yosintv2.github.io/tv/ads.html",
-        "https://yosintv2.github.io/ads/ak.html?m=139384",
+        "https://yosintv2.github.io/tv/alpha.html?mid=_____",
         "https://yosintv2.github.io/tv/ads.html",
-        "https://yosintv2.github.io/ads/ak.html?m=506804",
+        "https://yosintv2.github.io/tv/alpha.html?mid=_____",
         "https://yosintv2.github.io/tv/ads.html",
-        "https://yosintv2.github.io/ads/ak.html?m=118206"
+        "https://yosintv2.github.io/tv/alpha.html?mid=_____"
 
         
       ]
