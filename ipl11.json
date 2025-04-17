@@ -1,75 +1,35 @@
-{ "events": [
-
-{ "name": " Join YoSinTV Telegram For IPL Links  ",
- "link": "https://t.me/yosintvlive " },
-
- 
- { "name": " All - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=tsports " },
-    
-    
- { "name": " Hindi - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/tv/ads.html" },
-
-    
- { "name": " Smooth - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=skycric " },
- 
- 
- { "name": " Smooth - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=glive " },
- 
- 
- { "name": " All - DC vs RR, 32nd Match ",
-"link": "https://yosintv2.github.io/tv/ads.html" },   
- 
- 
- { "name": " HD Live - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=tsports " },
- 
- 
- { "name": " All - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=t20cfd " },
-    
-    
- { "name": " Android - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/tv/ads.html" },
- 
- 
- { "name": " Android - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha.html?mid=delhi-capitals-vs-rajasthan-royals" },
-   
-    
- { "name": " Android - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=delhi-capitals-vs-rajasthan-royals" },
-
-
- { "name": " Android - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/tv/ads.html" },
- 
- 
- { "name": "PC/Laptop - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK] " },
-    
-    
- { "name": "PC/Laptop - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/AstroCricket[Malaysia] " },
-    
-    
- { "name": "PC/Laptop - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySport1[NewZealand] " },
-    
-
- { "name": "PC/Laptop - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/WillowXtra2[USA] " },
- 
- 
- { "name": "PC/Hindi - DC vs RR, 32nd Match ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/WillowXtra[USA] " }
-],
-
-"styles": {
-"livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " _______ ",
+      "links": [
+        
+        " https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=tsports  ",
+        " https://yosintv2.github.io/tv/ads.html",
+        " https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=skycric ",
+        " https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=glive ",
+        " https://yosintv2.github.io/tv/ads.html",
+        " https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=tsports  ",
+        " https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=t20cfd  ",
+        " https://yosintv2.github.io/tv/ads.html",
+        " https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha.html?mid=delhi-capitals-vs-rajasthan-royals",
+        " https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=delhi-capitals-vs-rajasthan-royals",
+        " https://yosintv2.github.io/tv/ads.html",
+        " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK] ",      
+        " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/AstroCricket[Malaysia] ",   
+        " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySport1[NewZealand] ",   
+        " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/WillowXtra2[USA] ",   
+        " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/WillowXtra[USA] "
+       
+      ]
+    }
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
