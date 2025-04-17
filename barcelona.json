@@ -1,95 +1,16 @@
-{  "events": [
-
-
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
-
-
-{ "name": " Mob Only - Dortmund vs Barcelona ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=ppvbarca "  },
-
-
-{ "name": " All - Dortmund vs Barcelona ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Dortmund vs Barcelona ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=sports5 "  },
-
- 
- { "name": " All - Dortmund vs Barcelona ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=vodafone "  },
-
-
-{ "name": " All - Dortmund vs Barcelona ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
- 
- 
-{ "name": " All - Dortmund vs Barcelona ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein2 "  },
-
-
-{ "name": " All - Dortmund vs Barcelona ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=tudn "  },
-
-
-{ "name": " No Lag - Dortmund vs Barcelona ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
- 
- 
- { "name": " No Lag - Dortmund vs Barcelona ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=479849"  },
-
-
- { "name": " No Lag - Dortmund vs Barcelona ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=434982"  },
-
-
-{ "name": " All - Dortmund vs Barcelona ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=327159"  },
-
-
-{ "name": " IOS - Dortmund vs Barcelona ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Dortmund vs Barcelona ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=borussia-dortmund-vs-barcelona "  },
-
-
-{ "name": " Android - Dortmund vs Barcelona ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=borussia-dortmund-vs-barcelona "  },
-
-
-{ "name": " PC/Android - Dortmund vs Barcelona ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Dortmund vs Barcelona ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=fox1ar "  },
-
-
-{ "name": " PC/Android - Dortmund vs Barcelona ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=fox1ar "  },
-
-
-{ "name": " PC/Android - Dortmund vs Barcelona ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Dortmund vs Barcelona ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=paramount2 "  },
-
-
-{ "name": " PC/Android - Dortmund vs Barcelona ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSports1[UK] "  },
-
-
-{ "name": " PC/Android - Dortmund vs Barcelona ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSports1[UK] "  }
-
-
-
+{
+  "events": [
+    {
+      "name": "Live - TeamName",
+      "links": [
+        "https://yosintv2.github.io/tv/ads.html",
+        "https://yosintv2.github.io/tv/alpha.html?mid=_____",
+        "https://yosintv2.github.io/tv/ads.html",
+        "https://yosintv2.github.io/tv/alpha.html?mid=_____",
+        "https://yosintv2.github.io/tv/ads.html",
+        "https://yosintv2.github.io/tv/alpha.html?mid=_____"
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
