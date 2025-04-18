@@ -1,56 +1,31 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Quadisiya vs Al Nassr ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=ssc1  ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/tc.html?m=7  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=479379 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=123226 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=al-qadsiah-vs-al-nassr ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=al-qadsiah-vs-al-nassr ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " All - Al Hilal vs Al Nassr ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=434982"  },
-
-
-{ "name": " All - Al Hilal vs Al Nassr ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Al Hilal vs Al Nassr ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=327159"  },
-
-
-{ "name": " All - Al Hilal vs Al Nassr ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=299144"  },
-
-
- { "name": " Android - Al Hilal vs Al Nassr ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Al Hilal vs Al Nassr ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=al-hilal-vs-al-nassr "  },
-
-
- { "name": " Android - Al Hilal vs Al Nassr ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=al-hilal-vs-al-nassr "  },
-
-
-{ "name": " PC/Android - Al Hilal vs Al Nassr ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Al Hilal vs Al Nassr ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV2[Portugal] "  },
-
-
-{ "name": " PC/Android - Al Hilal vs Al Nassr ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport3[Greece] "  },
-
-
-{ "name": " PC/Android - Al Hilal vs Al Nassr ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV2[Portugal] "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=winsports ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport2[Romania] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport2[Romania] "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
