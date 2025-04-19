@@ -1,42 +1,29 @@
-{ "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Nepal U19 vs Afghan U19 ",
+      "links": [
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/cric.html?url=https://www.youtube.com/embed/TvzP_wlHm2U  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-    
- { "name": " Worldwide - Hong Kong vs Nepal ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=nepal1" },
+        " https://yosintv2.github.io/ads/cric.html?url=https://www.youtube.com/embed/TvzP_wlHm2U  ",
+        " https://yosintv2.github.io/ads/cric.html?url=https://www.youtube.com/embed/TvzP_wlHm2U  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-    
- { "name": "Smooth - Hong Kong vs Nepal ",
- "link": "https://yosintv2.github.io/tv/ads.html" },
+        " https://yosintv2.github.io/ads/cric.html?url=https://www.youtube.com/embed/TvzP_wlHm2U  ",
+        " https://yosintv2.github.io/ads/cric.html?url=https://www.youtube.com/embed/TvzP_wlHm2U  ",
+        " https://yosintv2.github.io/tv/ads.html"
 
-    
- { "name": "Link 1 - Hong Kong vs Nepal",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://cr7tv.github.io/livee/live.html?id=nepal2" },
-
-
- { "name": "Link 2 - Hong Kong vs Nepal",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://www.youtube.com/embed/i-yafe5z8G0" },
-
-
- { "name": "Link 3 - Hong Kong vs Nepal ",
-"link": "https://yosintv2.github.io/tv/ads.html" },
-
-
- { "name": "PC/Laptop - Hong Kong vs Nepal ",
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://www.youtube.com/embed/i-yafe5z8G0" },
-
-
- { "name": "PC/Laptop - Hong Kong vs Nepal ",
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://www.youtube.com/embed/i-yafe5z8G0" }
-
-
-
-],
-
-"styles": {
-"livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+      ]
+    }
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
