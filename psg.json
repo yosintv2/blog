@@ -1,79 +1,30 @@
-{  "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " PSG vs Le Havre ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein44  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
- 
- 
- { "name": " All - Aston Villa vs PSG ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=dazn1 "  },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____ ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____ ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " No Lag - Aston Villa vs PSG ",        
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Aston Villa vs PSG ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=megogo1 "  },
-
-
-{ "name": " All - Aston Villa vs PSG ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=psg16 "  },
-
-
-{ "name": " All - Aston Villa vs PSG ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein1 "  },
- 
- 
- { "name": " All - Aston Villa vs PSG ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Aston Villa vs PSG ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=135966"  },
-
-
-{ "name": " All - Aston Villa vs PSG ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=414317"  },
-
-
-{ "name": " IOS - Aston Villa vs PSG ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Aston Villa vs PSG ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=aston-villa-vs-paris-saint-germain "  },
-
-
- { "name": " No Lag - Aston Villa vs PSG ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=aston-villa-vs-paris-saint-germain "  },
-
-
- { "name": " No Lag - Aston Villa vs PSG ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Aston Villa vs PSG ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=megogo1 "  },
-
-
-{ "name": " PC/Android - Aston Villa vs PSG ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espnpremium "  },
-
-
-{ "name": " PC/Android - Aston Villa vs PSG ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Aston Villa vs PSG ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=paramount1 "  },
-
-
-{ "name": " PC/Android - Aston Villa vs PSG ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=max1 "  }
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
