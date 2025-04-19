@@ -1,56 +1,31 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Everton vs Man City ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=usanetwork  ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein1  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=147801 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=everton-vs-manchester-city ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=everton-vs-manchester-city ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Smooth - Man City vs Crystal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=usanetwork"  },
-
-
-{ "name": " All - Man City vs Crystal ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Man City vs Crystal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=digisports"  },
-
-
-{ "name": " All - Man City vs Crystal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein1"  },
-
-
- { "name": " Android - Man City vs Crystal ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Man City vs Crystal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206"  },
-
-
- { "name": " Android - Man City vs Crystal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=139384"  },
-
-
-{ "name": " PC/Android - Man City vs Crystal ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Man City vs Crystal ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=tnt1 "  },
-
-
-{ "name": " PC/Android - Man City vs Crystal ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSports1[UK] "  },
-
-
-{ "name": " PC/Android - Man City vs Crystal ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina] "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport8[NewZealand] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportPremierLeague[SouthAfrica] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/USANetwork[USA] "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
