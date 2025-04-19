@@ -1,56 +1,23 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Columbus vs Inter Miami ",
+      "links": [
+        
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=500605 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=501412 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=columbus-crew-vs-inter-miami-cf ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=columbus-crew-vs-inter-miami-cf ",
+        " https://yosintv2.github.io/tv/ads.html"
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
-
-
-{ "name": " Smooth - Chicago vs Inter Miami ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=308080"  },
-
-
-{ "name": " All - Chicago vs Inter Miami ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Chicago vs Inter Miami ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=285067"  },
-
-
-{ "name": " All - Chicago vs Inter Miami ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=427808"  },
-
-
- { "name": " Android - Chicago vs Inter Miami ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Chicago vs Inter Miami ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=chicago-fire-fc-vs-inter-miami-cf "  },
-
-
- { "name": " Android - Chicago vs Inter Miami ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=chicago-fire-fc-vs-inter-miami-cf "  },
-
-
-{ "name": " PC/Android - Chicago vs Inter Miami ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Chicago vs Inter Miami ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=mls1es "  },
-
-
-{ "name": " PC/Android - Chicago vs Inter Miami ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=mls2en "  },
-
-
-{ "name": " PC/Android - Chicago vs Inter Miami ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=mls1es "  }
-
-
-
-
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
