@@ -1,83 +1,30 @@
-{  "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Heidenheim vs Bayern ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein5  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=132343 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=139384 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=1-fc-heidenheim-1846-vs-bayern-munich ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=1-fc-heidenheim-1846-vs-bayern-munich ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Link 1 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=vodafone "  },
-
-
-{ "name": " Link 2 - Inter vs Bayern München ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Mob Only - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=ppvinter "  },
-
-
-{ "name": " Link 4 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=dazn1 "  },
-
-
-{ "name": " Link 5 - Inter vs Bayern München ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 6 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein2 "  },
-
-
-{ "name": " Link 7 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=123226"  },
-
-
-{ "name": " Link 8 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=327159"  },
-
-
-{ "name": " Link 9 - Inter vs Bayern München ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 10 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=internazionale-vs-bayern-munich "  },
-
-
-{ "name": " Link 12 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=internazionale-vs-bayern-munich "  },
-
-
-{ "name": " Link 13 - Inter vs Bayern München ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 14 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=paramount1 "  },
-
-
-{ "name": " Link 15 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espn "  },
-
-
-{ "name": " Link 16 - Inter vs Bayern München ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 17 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSports2[UK] "  },
-
-
-{ "name": " Link 18 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] "  },
-
-
-{ "name": " Link 19 - Inter vs Bayern München ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport3[Greece] "  }
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex7346333 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex7346333 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex7346333 "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
