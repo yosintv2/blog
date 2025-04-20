@@ -1,56 +1,32 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Dortmund vs Monchengladbach ",
+      "links": [
+
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=dazn1  ",
+        " https://yosintv2.github.io/tv/ads.html",
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein5  ",
 
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=414317 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=351530 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=borussia-dortmund-vs-borussia-monchengladbach ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=borussia-dortmund-vs-borussia-monchengladbach ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Smooth - Bayern München vs Dortmund ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/tc.html?m=4"  },
-
-
-{ "name": " All - Bayern München vs Dortmund ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Bayern München vs Dortmund ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=477560"  },
-
-
-{ "name": " All - Bayern München vs Dortmund ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=187579"  },
-
-
- { "name": " Android - Bayern München vs Dortmund ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Bayern München vs Dortmund ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=bayern-munich-vs-borussia-dortmund "  },
-
-
- { "name": " Android - Bayern München vs Dortmund ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=bayern-munich-vs-borussia-dortmund "  },
-
-
-{ "name": " PC/Android - Bayern München vs Dortmund ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Bayern München vs Dortmund ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espnplus1 "  },
-
-
-{ "name": " PC/Android - Bayern München vs Dortmund ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espn5 "  },
-
-
-{ "name": " PC/Android - Bayern München vs Dortmund ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=disney13 "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport1[Serbia] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DiemaSport[Bulgaria] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportsFootball[UK] "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
