@@ -1,35 +1,26 @@
-{ "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " St. Pauli vs Leverkusen ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=dazn2  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=477560 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-
-{ "name": " All - Leverkusen vs Union Berlin ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=477560 "  },
-
-
- { "name": " Android - Leverkusen vs Union Berlin ",    
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Leverkusen vs Union Berlin ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=472241 "  },
-
-
-{ "name": " Android - Leverkusen vs Union Berlin ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=bayer-leverkusen-vs-1-fc-union-berlin "  },
-
-
-{ "name": " Android - Leverkusen vs Union Berlin ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=bayer-leverkusen-vs-1-fc-union-berlin "  },
-
-
- { "name": " IOS - Leverkusen vs Union Berlin ",      
- "link": " https://yosintv2.github.io/tv/ads.html" }
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex7346338 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN2[Argentina] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DiemaSport[Bulgaria] "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
