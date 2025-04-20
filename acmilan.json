@@ -1,56 +1,26 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " AC Milan vs Atalanta ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=tnt1 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=427856 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=344370 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-
-{ "name": " Smooth - Udinese vs Milan ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=494201"  },
-
-
-{ "name": " All - Udinese vs Milan ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Udinese vs Milan ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=494201"  },
-
-
-{ "name": " All - Udinese vs Milan ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=485739"  },
-
-
- { "name": " Android - Udinese vs Milan ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Udinese vs Milan ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=udinese-vs-ac-milan "  },
-
-
- { "name": " Android - Udinese vs Milan ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=udinese-vs-ac-milan "  },
-
-
-{ "name": " PC/Android - Udinese vs Milan ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Udinese vs Milan ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=disney5 "  },
-
-
-{ "name": " PC/Android - Udinese vs Milan ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espn4 "  },
-
-
-{ "name": " PC/Android - Udinese vs Milan ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=disney5 "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSports1[UK] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport1[Greece] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport1[Greece] "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
