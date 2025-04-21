@@ -1,33 +1,26 @@
 {
   "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Genoa vs Lazio ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=dazn2  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
- { "name": "Smooth 1 - Lazio vs Real Sociedad  ",    
- "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=22940 " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=344370 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=387694 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-
- { "name": "Smooth 2 - Lazio vs Real Sociedad  ",    
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
- { "name": "Smooth 3 - Lazio vs Real Sociedad  ",    
- "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/letv.html?m=26180 " },
-
-
- { "name": "Link 1 - Lazio vs Real Sociedad  ",      
- "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/mid.html?mid=4205899 " },
-
-
- { "name": "Link 2 - Lazio vs Real Sociedad  ",      
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": "Link 3 - Lazio vs Real Sociedad  ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=4205899 " }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espn ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=disney1 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=sportv_1pt "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
