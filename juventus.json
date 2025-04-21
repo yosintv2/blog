@@ -1,56 +1,26 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Parma vs Juventus ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=dazn2  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=511240 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=187579 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-
-{ "name": " All - oma vs Juventus ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=477560"  },
-
-
-{ "name": " All - oma vs Juventus ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - oma vs Juventus ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=327159"  },
-
-
-{ "name": " All - oma vs Juventus ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=380460"  },
-
-
- { "name": " Android - oma vs Juventus ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - oma vs Juventus ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=as-roma-vs-juventus "  },
-
-
- { "name": " Android - oma vs Juventus ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=as-roma-vs-juventus "  },
-
-
-{ "name": " PC/Android - oma vs Juventus ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - oma vs Juventus ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=sportv_3pt "  },
-
-
-{ "name": " PC/Android - oma vs Juventus ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=fox_deportes_usa "  },
-
-
-{ "name": " PC/Android - oma vs Juventus ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=fox_deportes_usa "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=disney3 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=tnt_1_gb ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=fox_deportes_usa "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
