@@ -1,56 +1,31 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Crystal vs Aston Villa ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=vodafone  ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=bein1  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=360663 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=fa-cup-semi-final-crystal-palace-vs-aston-villa ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=fa-cup-semi-final-crystal-palace-vs-aston-villa ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Smooth - Southampton vs Aston Villa ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/tc.html?m=7"  },
-
-
-{ "name": " All - Southampton vs Aston Villa ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Southampton vs Aston Villa ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=113906"  },
-
-
-{ "name": " All - Southampton vs Aston Villa ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=421651"  },
-
-
- { "name": " Android - Southampton vs Aston Villa ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Southampton vs Aston Villa ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=southampton-vs-aston-villa "  },
-
-
- { "name": " Android - Southampton vs Aston Villa ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=southampton-vs-aston-villa "  },
-
-
-{ "name": " PC/Android - Southampton vs Aston Villa ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Southampton vs Aston Villa ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina] "  },
-
-
-{ "name": " PC/Android - Southampton vs Aston Villa ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports2[Greece] "  },
-
-
-{ "name": " PC/Android - Southampton vs Aston Villa ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport6[NewZealand] "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/BBCOne[UK] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportsnetWorld[Canada] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium3[Serbia] "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
