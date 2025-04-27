@@ -1,35 +1,23 @@
-{ "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Serie A Live ",
+      "links": [
 
-
-
-{ "name": " Android - Serie A TV ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=dazn2 "  },
-
-
- { "name": " Android - Serie A TV ",    
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": "  IOS - Serie A TV ",   
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=megogo1 "  },
-
-
- { "name": " IOS - Serie A TV ",      
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": "PC/Laptop - Serie A TV ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espnmx "  },
-
-  
-{ "name": "PC/Laptop - Serie A TV ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportFootball[SouthAfrica] "  },
-
-  
-{ "name": "PC/Laptop - Serie A TV ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=megogo1 "  }
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=ssports2  ",
+        " https://yosintv2.github.io/tv/ads.html",
+       
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=ad1  ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportFootball[SouthAfrica] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium1[Serbia] ",
+        " https://yosintv2.github.io/tv/ads.html"        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
