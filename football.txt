@@ -9,20 +9,21 @@
       "links": [
 
         " https://yosintv2.github.io/ads/foot.html?url=_____  ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=_____  ",
         " https://yosintv2.github.io/tv/ads.html",
 
         " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____ ",
         " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____ ",
         " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____ ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+       " https://yosintv2.github.io/ads/foot.html?url=______ "   
         " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=______ ",
-        " https://yosintv2.github.io/ads/foot.html?url=______ ",
-        " https://yosintv2.github.io/ads/foot.html?url=______ "      
+       " https://yosintv2.github.io/ads/foot.html?url=______ "   
+       " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____ ",
+       " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____ "           
       
       ]
     }
