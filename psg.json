@@ -1,28 +1,56 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": " PSG vs Nice ",
-      "links": [
+{"events": [
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=dazn2  ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=bein4  ",
-        
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=494201 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=364855 ",
-        " https://yosintv2.github.io/tv/ads.html",
+{ "name": " Join YoSinTV Telegram For Fast Links  ",
+ "link": "https://t.me/yosintvlive " },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN2Deutschland[Germany] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espn2 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=disney5 "      
-      
-      ]
-    }
+
+{ "name": " All - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____"  },
+
+
+{ "name": " All - TeamName ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " All - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____"  },
+
+
+{ "name": " All - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____"  },
+
+
+ { "name": " Android - TeamName ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " Android - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____ "  },
+
+
+ { "name": " Android - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____ "  },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+
+
+{ "name": " PC/Android - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
