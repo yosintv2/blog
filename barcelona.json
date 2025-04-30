@@ -1,39 +1,67 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": " Barcelona vs Real Madrid ",
-      "links": [
+{"events": [
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=gbarcelona  ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/bkp/plyrr.html?url=https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=g1barcelona  ",
-        " https://yosintv2.github.io/tv/ads.html",
+{ "name": " Join YoSinTV Telegram For Fast Links  ",
+ "link": "https://t.me/yosintvlive " },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/bkp/plyrr.html?url=https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=copadelrey ",
-        " https://yosintv2.github.io/tv/ads.html",
-        
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=327159 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=299144 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=414317 ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=copa-del-rey-final-barcelona-vs-real-madrid ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=copa-del-rey-final-barcelona-vs-real-madrid ",
-        " https://yosintv2.github.io/tv/ads.html",
+{ "name": " Mob Only -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=mstar "  },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PremierSports1[UK] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPNDeportes[USA] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV2[Portugal] "      
-      
-      ]
-    }
+{ "name": " Mob Only -  Barcelona vs Inter ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+  
+
+{ "name": " Mob Only -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=dazn1 "  },
+  
+{ "name": " Mob Only -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=digisports "  },
+  
+{ "name": " Mob Only -  Barcelona vs Inter ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+  
+  
+{ "name": " Mob Only -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=bein1 "  },
+  
+{ "name": " All -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=414317"  },
+
+{ "name": " All -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206"  },
+  
+{ "name": " All -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206"  },
+  
+
+  
+{ "name": " PC/Mob -  Barcelona vs Inter ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+  
+{ "name": " PC/Mob -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSports1[UK] "  },
+
+{ "name": " PC/Mob -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN1Deutschland[Germany] "  },
+
+{ "name": " PC/Mob -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina] "  },
+
+{ "name": " PC/Mob -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV5[Portugal] "  },
+
+{ "name": " PC/Mob -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espn "  },
+  
+{ "name": " PC/Mob -  Barcelona vs Inter ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=fox1ar "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
