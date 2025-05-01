@@ -1,56 +1,30 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Nottingham vs Brentford ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=bein5  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=144861 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=321443 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=disney1 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=dazn1 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Smooth - Nottingham vs Everton ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=usanetwork "  },
-
-
-{ "name": " All - Nottingham vs Everton ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Nottingham vs Everton ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206"  },
-
-
-{ "name": " All - Nottingham vs Everton ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=139384"  },
-
-
- { "name": " Android - Nottingham vs Everton ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Nottingham vs Everton ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=nottingham-forest-vs-everton "  },
-
-
- { "name": " Android - Nottingham vs Everton ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=nottingham-forest-vs-everton "  },
-
-
-{ "name": " PC/Android - Nottingham vs Everton ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Nottingham vs Everton ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DiemaSport2[Bulgaria] "  },
-
-
-{ "name": " PC/Android - Nottingham vs Everton ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TV3[Denmark] "  },
-
-
-{ "name": " PC/Android - Nottingham vs Everton ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport8[NewZealand] "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=max1 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=eleven4_pt ",
+       " https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=usanetwork "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
