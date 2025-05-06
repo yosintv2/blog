@@ -1,32 +1,72 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": " Inter vs Barcelona ",
-      "links": [
+{"events": [
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=ssports  ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=dazn1  ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=bein1  ",
-       " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=327159 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=321443 ",
-        " https://yosintv2.github.io/tv/ads.html",
+{ "name": " Join YoSinTV Telegram For Fast Links  ",
+ "link": "https://t.me/yosintvlive " },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=espn ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=espndeportes ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=dazn_laliga ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=espnplus4 ",
-       " https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=dazn_laliga "        
-      
-      ]
-    }
+{ "name": " All - Inter Milan vs Barcelona ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=sports5"  },
+
+
+{ "name": " All - Inter Milan vs Barcelona ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " All - Inter Milan vs Barcelona ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=vodafone"  },
+  
+  
+{ "name": " All - Inter Milan vs Barcelona ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=sports5"  },
+  
+  
+{ "name": " All - Inter Milan vs Barcelona ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206"  },
+
+
+{ "name": " All - Inter Milan vs Barcelona ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=135966"  },
+
+
+ { "name": " Android - Inter Milan vs Barcelona ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " Android - Inter Milan vs Barcelona ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=internazionale-vs-barcelona "  },
+
+
+ { "name": " Android - Inter Milan vs Barcelona ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=internazionale-vs-barcelona "  },
+
+
+{ "name": " PC/Android - Inter Milan vs Barcelona ",      
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC/Android - Inter Milan vs Barcelona ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=espnar "  },
+
+
+{ "name": " PC/Android - Inter Milan vs Barcelona ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=foxsports "  },
+
+
+{ "name": " PC/Android - Inter Milan vs Barcelona ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=max1 "  },
+
+
+{ "name": " PC/Android - Inter Milan vs Barcelona ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=tudn "  },
+  
+  
+{ "name": " PC/Android - Inter Milan vs Barcelona ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=sporttv5 "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
