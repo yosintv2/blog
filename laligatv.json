@@ -1,21 +1,21 @@
 { "events": [
 
-{ "name": " Android - La Liga TV ",      
+{ "name": " Link 1 - La Liga TV ",      
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=ssports "  },
 
- { "name": " Android - La Liga TV ",    
+{ "name": " Link 2 - La Liga TV ",      
  "link": " https://yosintv2.github.io/tv/ads.html" },
 
-{ "name": "  IOS - La Liga TV ",   
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=ssports "  },
-
- { "name": " IOS - La Liga TV ",      
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-{ "name": "PC/Laptop - La Liga TV ",      
+{ "name": " Link 3 - La Liga TV ",      
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/LaLigaTV[UK] "  },
 
-{ "name": "PC/Laptop - La Liga TV ",      
+{ "name": " Link 4 - La Liga TV ",      
+ "link": " https://yosintv2.github.io/tv/ads.html" },
+
+{ "name": " Link 5 - La Liga TV ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=ssports "  },
+
+{ "name": " Link 6 - La Liga TV ",      
 "link": " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica] "  }
 
 
