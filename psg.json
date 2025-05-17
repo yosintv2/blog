@@ -1,87 +1,29 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " PSG vs Auxerre ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=bein2  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=291277 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=519740 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espn4 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espn4 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " All - PSG vs Arsenal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=sports5 "  },
-
-
-{ "name": " All - PSG vs Arsenal ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-
- 
-{ "name": " All - PSG vs Arsenal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=psg1 "  },
-  
-  
-{ "name": " All - PSG vs Arsenal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=psg2 "  },
-  
-  
-{ "name": " All - PSG vs Arsenal ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
- 
- 
- 
- 
-{ "name": " All - PSG vs Arsenal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=bein1 "  },
-
-
-{ "name": " All - PSG vs Arsenal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=psg1 "  },
-
-
-{ "name": " All - PSG vs Arsenal ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
- 
- { "name": " All - PSG vs Arsenal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206"  },
-
-
-{ "name": " All - PSG vs Arsenal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=135966"  },
-
- 
-{ "name": " All - PSG vs Arsenal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=414317"  },
-
- 
- { "name": " PC/Android - PSG vs Arsenal ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-
- 
-{ "name": " PC/Android - PSG vs Arsenal ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=espnar "  },
-
-
-{ "name": " PC/Android - PSG vs Arsenal ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=foxsports "  },
-
-
-{ "name": " PC/Android - PSG vs Arsenal ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=max1 "  },
-
-
-{ "name": " PC/Android - PSG vs Arsenal ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=tudn "  },
-  
-  
-{ "name": " PC/Android - PSG vs Arsenal ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://la12hd.com/vivo/canales.php?stream=sporttv5 "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espn4 ",
+       " https://yosintv2.github.io/ads/foot.html?url=https://streamtp4.com/global1.php?stream=espn4 "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
