@@ -80,7 +80,7 @@
                     const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
                     const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
                     const seconds = Math.floor((diff % (1000 * 60)) / 1000);
-                    element.textContent = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+                    element.textContent = `${hours}h ${minutes}m ${seconds}s`;
                     element.classList.remove('blink', 'text-red-500', 'text-gray-500');
                     element.classList.add('text-blue-500');
                 }
