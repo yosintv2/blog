@@ -1,0 +1,8 @@
+{
+  "team1": "Chelsea",
+  "team1_logo": "https://your-logo-url.com/chelsea.png",
+  "team2": "Arsenal",
+  "team2_logo": "https://your-logo-url.com/arsenal.png",
+  "match_time": "2025-05-20T15:00:00+09:00",
+  "details_url": "/match-details/4"
+}
