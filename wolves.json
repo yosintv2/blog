@@ -1,44 +1,26 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Crystal vs Wolves ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid.html?id=4140077 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=427856 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=187579 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-
-{ "name": " Smooth - Wolves vs Tottenham ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://wikisport.best/embed/sk9nz.php"  },
-
-
-{ "name": " All - Wolves vs Tottenham ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Wolves vs Tottenham ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=299144"  },
-
-
-{ "name": " All - Wolves vs Tottenham ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=113906"  },
-
-
- { "name": " Android - Wolves vs Tottenham ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Wolves vs Tottenham ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=wolverhampton-wanderers-vs-tottenham-hotspur "  },
-
-
- { "name": " Android - Wolves vs Tottenham ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=wolverhampton-wanderers-vs-tottenham-hotspur "  },
-
-
-{ "name": " PC/Android - Wolves vs Tottenham ",      
-"link": " https://yosintv2.github.io/tv/ads.html" }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN2[Argentina] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TV3[Denmark] ",
+       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DigiSport3[Romania] "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
