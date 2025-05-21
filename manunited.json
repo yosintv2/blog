@@ -1,31 +1,55 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": " Tottenham vs Man United ",
-      "links": [
+{"events": [
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/2chmvg7m  ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=bein2  ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=139384 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206 ",
-        " https://yosintv2.github.io/tv/ads.html",
+{ "name": " Join YoSinTV Telegram For Fast Links  ",
+ "link": "https://t.me/yosintvlive " },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport6[NewZealand] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN2[Spain] ",
-        " https://yosintv2.github.io/tv/ads.html",
+{ "name": " All - Tottenham vs Man United ",       
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=manunited1 "  },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DiemaSport2[Bulgaria] ",
-       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DigiSport3[Romania] "        
-      
-      ]
-    }
+{ "name": " All - Tottenham vs Man United ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+
+
+{ "name": " All - Tottenham vs Man United ",       
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=manunited2 "  },
+
+{ "name": " All - Tottenham vs Man United ",       
+"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid?id=4329498 "  },
+
+{ "name": " Android - Tottenham vs Man United ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+
+
+{ "name": " Android - Tottenham vs Man United ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=118206"  },
+
+{ "name": " Android - Tottenham vs Man United ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=494201"  },
+
+{ "name": " PC/Android - Tottenham vs Man United ",      
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC/Android - Tottenham vs Man United ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSports1[UK] "  },
+
+{ "name": " PC/Android - Tottenham vs Man United ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSportsUltimate[UK] "  },
+
+{ "name": " PC/Android - Tottenham vs Man United ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina] "  },
+
+{ "name": " PC/Android - Tottenham vs Man United ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport1[Greece] "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
