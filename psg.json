@@ -1,26 +1,56 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": " PSG vs Reims ",
-      "links": [
+{"events": [
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid?id=4313953 ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=360663 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=427856 ",
-        " https://yosintv2.github.io/tv/ads.html",
+{ "name": " Join YoSinTV Telegram For Fast Links  ",
+ "link": "https://t.me/yosintvlive " },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV2[Portugal] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DirecTVSports[Argentina] ",
-       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV2[Portugal] "        
-      
-      ]
-    }
+
+{ "name": " All - PSG vs Inter Milan ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____"  },
+
+
+{ "name": " All - PSG vs Inter Milan ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " All - PSG vs Inter Milan ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____"  },
+
+
+{ "name": " All - PSG vs Inter Milan ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____"  },
+
+
+ { "name": " Android - PSG vs Inter Milan ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " Android - PSG vs Inter Milan ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____ "  },
+
+
+ { "name": " Android - PSG vs Inter Milan ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____ "  },
+
+
+{ "name": " PC/Android - PSG vs Inter Milan ",      
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC/Android - PSG vs Inter Milan ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+
+
+{ "name": " PC/Android - PSG vs Inter Milan ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+
+
+{ "name": " PC/Android - PSG vs Inter Milan ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
