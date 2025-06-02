@@ -1,22 +1,36 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": " Nepal W vs UAE W ",
-      "links": [
+{"events": [
 
-        " https://yosintv2.github.io/ads/cric.html?url=https://tinyurl.com/yqloj3y2  ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/cric.html?url=https://tinyurl.com/yqloj3y2  ",
-        " https://yosintv2.github.io/ads/cric.html?url=https://tinyurl.com/yplabxtx  ",
-        " https://yosintv2.github.io/tv/ads.html"
+{ "name": " Join YoSinTV Telegram For Fast Links  ",
+ "link": "https://t.me/yosintvlive " },
 
-      ]
-    }
+
+{ "name": " All - Scotland vs Nepal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv1.github.io/link/cricket.html?id=nepal1 "  },
+
+{ "name": " All - Scotland vs Nepal ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " All - Scotland vs Nepal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv1.github.io/link/cricket.html?id=nepal2 "  },
+
+{ "name": " All - Scotland vs Nepal ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+  
+  
+{ "name": " Android - Scotland vs Nepal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=scotland-vs-nepal "  },
+
+ { "name": " Android - Scotland vs Nepal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=scotland-vs-nepal "  },
+
+{ "name": " PC/Mob - Scotland vs Nepal ",      
+"link": " https://yosintv2.github.io/tv/ads.html" }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
