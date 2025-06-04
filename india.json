@@ -1,40 +1,30 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " _______ ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=_____  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid?id=_____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " All - India vs Bangladesh ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=485739"  },
-
-
-{ "name": " All - India vs Bangladesh ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - India vs Bangladesh ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=251797"  },
-
-
-{ "name": " All - India vs Bangladesh ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=485739"  },
-
-
- { "name": " Android - India vs Bangladesh ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - India vs Bangladesh ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=india-vs-bangladesh "  },
-
-
- { "name": " Android - India vs Bangladesh ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=india-vs-bangladesh "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+       " https://yosintv2.github.io/ads/foot.html?url=______ "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
