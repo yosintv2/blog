@@ -1,52 +1,30 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Australia vs Japan ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=_____  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid?id=_____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " All - Japan vs Saudi Arabia ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=505050 "  },
-
-
-{ "name": " All - Japan vs Saudi Arabia ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Japan vs Saudi Arabia ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=2376781 "  },
-
-
-{ "name": " All - Japan vs Saudi Arabia ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=956896 "  },
-
-
- { "name": " Android - Japan vs Saudi Arabia ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Japan vs Saudi Arabia ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=japan-vs-saudi-arabia "  },
-
-
- { "name": " Android - Japan vs Saudi Arabia ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=japan-vs-saudi-arabia "  },
-
-
-{ "name": " PC/Android - Japan vs Saudi Arabia ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/Sportklub1[Serbia] "  },
-
-
-{ "name": " PC/Android - Japan vs Saudi Arabia ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex7059724 "  },
-
-
-{ "name": " PC/Android - Japan vs Saudi Arabia ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/Sportklub1[Serbia] "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+       " https://yosintv2.github.io/ads/foot.html?url=______ "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
