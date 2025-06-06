@@ -1,42 +1,27 @@
-{  "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Venezuela vs Bolivia ",
+      "links": [
+        
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid?id=4007946 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=290928 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=494201 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=513394 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " All - Venezuela vs Peru ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=500605 "  },
-
-
-{ "name": " All - Venezuela vs Peru ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Venezuela vs Peru ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=515530 "  },
-
-
-{ "name": " Android - Venezuela vs Peru ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=500605 "  },
-
-
-{ "name": " PC/Android - Venezuela vs Peru ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Venezuela vs Peru ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=515530 "  },
-
-
-{ "name": " PC/Android - Venezuela vs Peru ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=515530 "  },
-
-
-{ "name": " PC/Android - Venezuela vs Peru ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=515530 "  },
-
-
-{ "name": " PC/Android - Venezuela vs Peru ",      
-"link": " https://yosintv2.github.io/tv/ads.html" }
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DirecTVSports[Argentina] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex7704815 ",
+       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DirecTVSports[Argentina] "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
