@@ -1,30 +1,26 @@
-{  "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Norway vs Italy ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv1.github.io/link/football.html?id=dazn1 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " All - Israel vs Norway ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv3.github.io/livee/live.html?id=sports5"  },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=327159 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=414317 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-
-{ "name": " All - Israel vs Norway ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Israel vs Norway ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv3.github.io/livee/live.html?id=sports5"  },
-
-
-{ "name": " PC/Android - Israel vs Norway ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN2[Argentina] "  },
-
-
-{ "name": " PC/Android - Israel vs Norway ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN2Deutschland[Germany] "  },
-
-
-{ "name": " PC/Android - Israel vs Norway ",      
-"link": " https://yosintv2.github.io/tv/ads.html" }
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=494201 ",
+       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/FoxSoccerPlus[US] "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
