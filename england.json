@@ -1,52 +1,30 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Andorra vs England ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv1.github.io/link/football.html?id=england  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv1.github.io/link/football.html?id=england1  ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=494201 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=135966 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/FOXSports2[USA] ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " All - England vs Latvia ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=9912048"  },
-
-
-{ "name": " All - England vs Latvia ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - England vs Latvia ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=484845"  },
-
-
-{ "name": " All - England vs Latvia ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco.html?m=9912048"  },
-
-
- { "name": " Android - England vs Latvia ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - England vs Latvia ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=england-vs-latvia "  },
-
-
- { "name": " Android - England vs Latvia ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=england-vs-latvia "  },
-
-
-{ "name": " PC/Android - England vs Latvia ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina] "  },
-
-
-{ "name": " PC/Android - England vs Latvia ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN1Deutschland[Germany] "  },
-
-
-{ "name": " PC/Android - England vs Latvia ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport1[NewZealand] "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] ",
+       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV1[Portugal] "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
