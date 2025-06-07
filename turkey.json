@@ -1,48 +1,24 @@
-{  "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " USA vs Turkey ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=427808 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " All - Turkey vs Hungary ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=750568 "  },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=336303 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8006760 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-
-{ "name": " All - Turkey vs Hungary ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Turkey vs Hungary ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=308116 "  },
-
-
-{ "name": " All - Turkey vs Hungary ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=750568 "  },
-
-
- { "name": " Android - Turkey vs Hungary ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Turkey vs Hungary ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=turkey-vs-hungary "  },
-
-
- { "name": " Android - Turkey vs Hungary ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=turkey-vs-hungary "  },
-
-
-{ "name": " PC/Android - Turkey vs Hungary ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport4[NewZealand] "  },
-
-
-{ "name": " PC/Android - Turkey vs Hungary ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports1[Greece] "  },
-
-
-{ "name": " PC/Android - Turkey vs Hungary ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports1[Greece] "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8006760 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=336303 "      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
