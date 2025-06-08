@@ -1,71 +1,20 @@
 {
   "events": [
     {
-      "name": "Join YoSinTV Telegram For Fast Links",
-      "link": "https://t.me/yosintvlive",
-      "note": "Fast and reliable live links via Telegram"
+      "name": "Finland vs Netherlands",
+      "link": "https://example.com/link1",
+      "note": "Mobile & PC | Auto Quality"
     },
     {
-      "name": "All - TeamName",
-      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____",
-      "note": "Main all-team link with ads"
-    },
-    {
-      "name": "All - TeamName",
-      "link": "https://yosintv2.github.io/tv/ads.html",
-      "note": "Alternative link for all teams"
-    },
-    {
-      "name": "All - TeamName",
-      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____",
-      "note": "Backup link for all teams"
-    },
-    {
-      "name": "All - TeamName",
-      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____",
-      "note": "Secondary backup link"
-    },
-    {
-      "name": "Android - TeamName",
-      "link": "https://yosintv2.github.io/tv/ads.html",
-      "note": "Android users preferred link"
-    },
-    {
-      "name": "Android - TeamName",
-      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____",
-      "note": "Android alpha stream 1"
-    },
-    {
-      "name": "Android - TeamName",
-      "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____",
-      "note": "Android alpha stream 2"
-    },
-    {
-      "name": "PC/Android - TeamName",
-      "link": "https://yosintv2.github.io/tv/ads.html",
-      "note": "Multi-platform stream link"
-    },
-    {
-      "name": "PC/Android - TeamName",
-      "link": "https://yosintv2.github.io/ads/foot.html?url=______",
-      "note": "Backup multi-platform link 1"
-    },
-    {
-      "name": "PC/Android - TeamName",
-      "link": "https://yosintv2.github.io/ads/foot.html?url=______",
-      "note": "Backup multi-platform link 2"
-    },
-    {
-      "name": "PC/Android - TeamName",
-      "link": "https://yosintv2.github.io/ads/foot.html?url=______",
-      "note": "Backup multi-platform link 3"
+      "name": "Team A vs Team B",
+      "link": "https://example.com/link2",
+      "note": "Mobile only | Low Data Usage"
     }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; padding: 8px 15px; margin: 5px 0; border: 2px solid #000; border-radius: 5px; background-color: red; color: white; cursor: pointer; transition: box-shadow 0.3s ease; text-decoration: none;",
+    "livee": "display: flex; justify-content: center; align-items: center; gap: 10px; padding: 8px 15px; margin: 5px 0; border: 2px solid #000; border-radius: 5px; background-color: red; color: white; cursor: pointer; transition: box-shadow 0.3s ease; text-decoration: none; font-weight: bold; text-align: center;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-    "liveeName": "font-weight: bold;",
-    "liveeLink": "font-style: italic; text-decoration: underline;",
-    "liveeNote": "background-color: white; color: black; padding: 5px 10px; margin-bottom: 10px; border-radius: 4px; font-size: 13px;"
+    "liveeText": "color: white;",
+    "liveeNote": "background-color: white; color: black; padding: 5px 10px; margin: 0 auto 10px; border-radius: 4px; font-size: 13px; text-align: center; max-width: 500px;"
   }
 }
