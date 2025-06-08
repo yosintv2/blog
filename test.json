@@ -2,71 +2,29 @@
   {
     "events": [
       {
-        "name": " Join YoSinTV Telegram For Fast Links ",
+        "name": "Join YoSinTV Telegram For Fast Links",
         "link": "https://t.me/yosintvlive",
         "note": "Telegram channel for quick updates"
       },
       {
-        "name": " All - TeamName ",
+        "name": "All - TeamName",
         "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____",
-        "note": "Desktop & Mobile"
+        "note": "Desktop & Mobile support"
       },
       {
-        "name": " All - TeamName ",
-        "link": "https://yosintv2.github.io/tv/ads.html",
-        "note": "Mobile Friendly"
-      },
-      {
-        "name": " All - TeamName ",
-        "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____",
-        "note": ""
-      },
-      {
-        "name": " All - TeamName ",
-        "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____",
-        "note": ""
-      },
-      {
-        "name": " Android - TeamName ",
-        "link": "https://yosintv2.github.io/tv/ads.html",
-        "note": "Optimized for Android"
-      },
-      {
-        "name": " Android - TeamName ",
-        "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____",
-        "note": ""
-      },
-      {
-        "name": " Android - TeamName ",
-        "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____",
-        "note": ""
-      },
-      {
-        "name": " PC/Android - TeamName ",
-        "link": "https://yosintv2.github.io/tv/ads.html",
-        "note": "For PC & Android"
-      },
-      {
-        "name": " PC/Android - TeamName ",
-        "link": "https://yosintv2.github.io/ads/foot.html?url=_____",
-        "note": ""
-      },
-      {
-        "name": " PC/Android - TeamName ",
-        "link": "https://yosintv2.github.io/ads/foot.html?url=_____",
-        "note": ""
-      },
-      {
-        "name": " PC/Android - TeamName ",
-        "link": "https://yosintv2.github.io/ads/foot.html?url=_____",
-        "note": ""
+        "name": "Multiple Links Example",
+        "note": "Choose your platform",
+        "links": [
+          "https://link1.example.com",
+          "https://link2.example.com"
+        ]
       }
     ],
     "styles": {
-      "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+      "livee": "display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; margin: 5px 0; border: 2px solid #000; border-radius: 5px; cursor: pointer; background-color: red; color: white; transition: box-shadow 0.3s ease;",
       "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-      "liveeName": "flex: 3; text-align: center; color: white; font-weight: bold;",
-      "liveeNote": "flex: 1; text-align: right; color: #ffcc00; font-style: italic; font-size: 13px; font-family: Arial, sans-serif;"
+      "liveeName": "flex: 3; text-align: center; font-weight: bold;",
+      "liveeNote": "flex: 1; text-align: right; font-style: italic; font-size: 13px; color: #ffcc00;"
     }
   }
 ]
