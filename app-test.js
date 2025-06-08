@@ -1,5 +1,4 @@
-<script>
-  fetch('data.json')
+fetch('data.json')
     .then(response => response.json())
     .then(dataArr => {
       const data = dataArr[0]; // Your JSON is an array, get first object
@@ -36,4 +35,3 @@
       document.getElementById('live-container').innerText = "Please Check Later, Match Not Started!";
       console.error(err);
     });
-</script>
