@@ -1,14 +1,14 @@
 {
   "events": [
     {
-      "name": "Finland vs Netherlands",
-      "link": "https://example.com/link1",
-      "note": "Mobile & PC"
+      "name": " Finland vs Netherlands ",
+      "link": " https://example.com/link1 ",
+      "note": " Mobile & PC "
     },
     {
-      "name": "Team A vs Team B",
+      "name": " Finland vs Netherlands ",
       "link": "https://example.com/link2",
-      "note": "Mobile only"
+      "note": " Mobile only "
     }
   ],
   "styles": {
