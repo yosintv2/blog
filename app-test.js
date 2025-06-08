@@ -1,37 +1,63 @@
-fetch('data.json')
-    .then(response => response.json())
-    .then(dataArr => {
-      const data = dataArr[0]; // Your JSON is an array, get first object
-      const container = document.getElementById('live-container');
+function getQueryParam(param) {
+  const urlParams = new URLSearchParams(window.location.search);
+  return urlParams.get(param);
+}
 
-      data.events.forEach(event => {
+const fileParam = getQueryParam('yosintv');
+const jsonFile = fileParam ? `${fileParam}.json` : 'default.json';
+
+fetch(jsonFile)
+  .then(res => {
+    if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
+    return res.json();
+  })
+  .then(data => {
+    const container = document.getElementById('live-container');
+
+    data.events.forEach(event => {
+      // For single link events
+      if (event.link) {
         const eventDiv = document.createElement('div');
-        eventDiv.style.cssText = data.styles.livee;
         eventDiv.className = 'livee';
+        eventDiv.style.cssText = data.styles.livee;
 
-        // Create clickable area to go to event.link
+        // Use flex container with name and optional note
+        eventDiv.innerHTML = `
+          <div class="livee-name" style="${data.styles.liveeName}">${event.name}</div>
+          <div class="livee-note" style="${data.styles.liveeNote || ''}">${event.note || ''}</div>
+        `;
+
         eventDiv.addEventListener('click', () => {
           window.location.href = event.link;
         });
-
-        // Inner HTML with name and note
-        eventDiv.innerHTML = `
-          <div style="${data.styles.liveeName}">${event.name}</div>
-          <div style="${data.styles.liveeNote}">${event.note || ''}</div>
-        `;
-
-        // Optional hover effect
-        eventDiv.addEventListener('mouseenter', () => {
-          eventDiv.style.boxShadow = data.styles.liveeHover;
-        });
-        eventDiv.addEventListener('mouseleave', () => {
-          eventDiv.style.boxShadow = 'none';
-        });
-
         container.appendChild(eventDiv);
-      });
-    })
-    .catch(err => {
-      document.getElementById('live-container').innerText = "Please Check Later, Match Not Started!";
-      console.error(err);
+      }
+
+      // For multiple links events
+      if (event.links) {
+        event.links.forEach((link, index) => {
+          const eventDiv = document.createElement('div');
+          eventDiv.className = 'livee';
+          eventDiv.style.cssText = data.styles.livee;
+
+          eventDiv.innerHTML = `
+            <div class="livee-name" style="${data.styles.liveeName}">Link ${index + 1} - ${event.name}</div>
+            <div class="livee-note" style="${data.styles.liveeNote || ''}">${event.note || ''}</div>
+          `;
+
+          eventDiv.addEventListener('click', () => {
+            window.location.href = link;
+          });
+          container.appendChild(eventDiv);
+        });
+      }
     });
+  })
+  .catch(err => {
+    console.error('Error fetching JSON:', err);
+    const container = document.getElementById('live-container');
+    const errorDiv = document.createElement('div');
+    errorDiv.className = 'error-message';
+    errorDiv.textContent = "Please Check Later, Match Not Started!";
+    container.appendChild(errorDiv);
+  });
