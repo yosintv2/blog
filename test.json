@@ -1,0 +1,56 @@
+[
+  {
+    "events": [
+      {
+        "name": " Join YoSinTV Telegram Live Links ",
+        "link": "https://t.me/yosintvlive"
+      },
+      {
+        "name": "Finland vs Netherlands",
+        "links": [
+          {
+            "title": "Link 1 | Finland vs Netherlands | HD",
+            "url": "https://roxxxxlive.blogspot.com/p/volly-1.html",
+            "note": "Mobile & PC | Auto Quality"
+          },
+          {
+            "title": "Link 2 | Finland vs Netherlands | SD",
+            "url": "https://roxxxxlive.blogspot.com/p/volly-2.html",
+            "note": "Mobile & PC | Auto Quality"
+          },
+          {
+            "title": "Link 3 | Finland vs Netherlands | HD",
+            "url": "https://roxxxxlive.blogspot.com/p/volly-3.html",
+            "note": "Mobile & PC | High Quality | English"
+          },
+          {
+            "title": "Link 4 | Finland vs Netherlands | HD",
+            "url": "https://roxxxxlive.blogspot.com/p/volly-4.html",
+            "note": "Mobile & PC | High Quality | HD"
+          },
+          {
+            "title": "Link 5 | Finland vs Netherlands | HD",
+            "url": "https://roxxxxlive.blogspot.com/p/volly-5.html",
+            "note": "Mobile & PC | High Quality"
+          },
+          {
+            "title": "Link 6 | Finland vs Netherlands | HD",
+            "url": "https://roxxxxlive.blogspot.com/p/volly-6.html",
+            "note": "Mobile & PC | High Quality"
+          }
+        ]
+      }
+    ],
+    "styles": {
+      "container": "max-width: 600px; margin: 0 auto; text-align: center; font-family: Arial, sans-serif;",
+      "button": "width: 200px; padding: 7px; cursor: pointer; font-weight: bold; font-size: 100%; background: #0a0647; color: #fff; border: 1px solid #0a0647; border-radius: 10px; margin-bottom: 15px;",
+      "buttonHover": "color: #ff0000; background: #000; border: 1px solid #fff;",
+      "link": "display: inline-block; width: 100%; color: #fff; padding: 15px; border-radius: 6px; position: relative; margin-bottom: 8px; text-decoration: none; background-color: #d2002c; text-align: center;",
+      "linkSpan": "z-index: 2; position: relative;",
+      "socialCounter": "font-family: opensans; font-size: 17px; font-weight: 900; line-height: 1;",
+      "linkAfter": "content: \" \"; height: 100%; width: 0; top: 0; left: 0; position: absolute; background: #0a0647; z-index: 1;",
+      "iconPlay": "background: #d2002c;",
+      "iconWhatsapp": "background: #09b320;"
+    }
+  }
+]
