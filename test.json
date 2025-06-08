@@ -1,5 +1,13 @@
 {
   "events": [
+
+    
+    { 
+      "name": " Join YoSinTV Telegram For Links  ",
+      "link": "https://t.me/yosintvlive ", 
+      "note": " "
+      },
+    
     {
       "name": " Finland vs Netherlands ",
       "link": " https://example.com/link1 ",
@@ -7,7 +15,7 @@
     },
     {
       "name": " Finland vs Netherlands ",
-      "link": "https://example.com/link2",
+      "link": " https://example.com/link2 ",
       "note": " Mobile only "
     }
   ],
