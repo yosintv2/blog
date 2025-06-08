@@ -13,7 +13,8 @@
   ],
   "styles": {
     "livee": "display: block; width: 100%; max-width: 600px; margin: 8px auto; cursor: pointer; border-radius: 6px;",
-    "liveeLink": "display: flex; justify-content: center; align-items: center; background-color: red; color: white; font-weight: bold; padding: 8px; border-radius: 6px 6px 0 0; text-decoration: none; gap: 8px;",
-    "liveeNote": "background-color: white; color: black; font-size: 14px; padding: 6px 8px; text-align: center; border-radius: 0 0 6px 6px; border: 1px solid #ccc; border-top: none;"
+    "liveeLink": "display: flex; justify-content: center; align-items: center; background-color: red; color: white; font-weight: bold; padding: 8px; border-radius: 6px 6px 0 0; text-decoration: none; gap: 8px; border: 2px solid #000; transition: box-shadow 0.3s ease;",
+    "liveeLinkHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeNote": "background-color: white; color: black; font-size: 14px; padding: 6px 8px; text-align: center; border-radius: 0 0 6px 6px; border: 2px solid #000; border-top: none;"
   }
 }
