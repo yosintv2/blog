@@ -1,60 +1,72 @@
 [
   {
-    "title": "Finland vs Netherlands Volleyball Live Links",
-    "note": "Click any link below to watch. Mobile & PC supported with various qualities and languages.",
     "events": [
       {
-        "name": "Join YoSinTV Telegram Live Links",
-        "link": "https://t.me/yosintvlive"
+        "name": " Join YoSinTV Telegram For Fast Links ",
+        "link": "https://t.me/yosintvlive",
+        "note": "Telegram channel for quick updates"
       },
       {
-        "name": "Link 1 | Finland vs Netherlands | HD",
-        "links": [
-          "https://roxxxxlive.blogspot.com/p/volly-1.html"
-        ],
-        "note": "Mobile & PC | Auto Quality"
+        "name": " All - TeamName ",
+        "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____",
+        "note": "Desktop & Mobile"
       },
       {
-        "name": "Link 2 | Finland vs Netherlands | SD",
-        "links": [
-          "https://roxxxxlive.blogspot.com/p/volly-2.html"
-        ],
-        "note": "Mobile & PC | Auto Quality"
+        "name": " All - TeamName ",
+        "link": "https://yosintv2.github.io/tv/ads.html",
+        "note": "Mobile Friendly"
       },
       {
-        "name": "Link 3 | Finland vs Netherlands | HD",
-        "links": [
-          "https://roxxxxlive.blogspot.com/p/volly-3.html"
-        ],
-        "note": "Mobile & PC | High Quality | English"
+        "name": " All - TeamName ",
+        "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____",
+        "note": ""
       },
       {
-        "name": "Link 4 | Finland vs Netherlands | HD",
-        "links": [
-          "https://roxxxxlive.blogspot.com/p/volly-4.html"
-        ],
-        "note": "Mobile & PC | High Quality | HD"
+        "name": " All - TeamName ",
+        "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=_____",
+        "note": ""
       },
       {
-        "name": "Link 5 | Finland vs Netherlands | HD",
-        "links": [
-          "https://roxxxxlive.blogspot.com/p/volly-5.html"
-        ],
-        "note": "Mobile & PC | High Quality"
+        "name": " Android - TeamName ",
+        "link": "https://yosintv2.github.io/tv/ads.html",
+        "note": "Optimized for Android"
       },
       {
-        "name": "Link 6 | Finland vs Netherlands | HD",
-        "links": [
-          "https://roxxxxlive.blogspot.com/p/volly-6.html"
-        ],
-        "note": "Mobile & PC | High Quality"
+        "name": " Android - TeamName ",
+        "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=_____",
+        "note": ""
+      },
+      {
+        "name": " Android - TeamName ",
+        "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=_____",
+        "note": ""
+      },
+      {
+        "name": " PC/Android - TeamName ",
+        "link": "https://yosintv2.github.io/tv/ads.html",
+        "note": "For PC & Android"
+      },
+      {
+        "name": " PC/Android - TeamName ",
+        "link": "https://yosintv2.github.io/ads/foot.html?url=_____",
+        "note": ""
+      },
+      {
+        "name": " PC/Android - TeamName ",
+        "link": "https://yosintv2.github.io/ads/foot.html?url=_____",
+        "note": ""
+      },
+      {
+        "name": " PC/Android - TeamName ",
+        "link": "https://yosintv2.github.io/ads/foot.html?url=_____",
+        "note": ""
       }
     ],
     "styles": {
-      "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #d2002c; color: white;",
-      "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); background-color: #0a0647;",
-      "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold; font-family: Arial, sans-serif;",
-      "liveeNote": "flex: 1; text-align: right; color: #ffa400; font-family: Arial, sans-serif; font-size: 14px;"
+      "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+      "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+      "liveeName": "flex: 3; text-align: center; color: white; font-weight: bold;",
+      "liveeNote": "flex: 1; text-align: right; color: #ffcc00; font-style: italic; font-size: 13px; font-family: Arial, sans-serif;"
     }
   }
 ]
