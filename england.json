@@ -1,32 +1,30 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " England vs Senegal ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=dazn1  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
-"link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=414317 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=187579 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=515900 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ITV1[UK] ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Link 1 - England vs Windies ",       
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/cricket?id=england1 "  },
-
-{ "name": " Link 2 - England vs Windies ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-{ "name": " Link 3 - England vs Windies ",       
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/cricket?id=england2 "  },
-
-{ "name": " Link 4 - England vs Windies ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-  
-{ "name": " Link 5 - England vs Windies ",       
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK] "  },
-
-{ "name": " Link 6 - England vs Windies ",       
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsMainEvent[UK] "  },
-
-{ "name": " Link 7 - England vs Windies ",       
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SuperSportCricket[SouthAfrica] "  }
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DiemaSport[Bulgaria] ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN1Deutschland[Germany] ",
+       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV2[Portugal] "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
