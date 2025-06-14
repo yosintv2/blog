@@ -15,36 +15,31 @@
 { "name": " PC & Mob - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
  
-
-
+{ "name": " PC & Mob - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+  
 { "name": " PC & Mob - TeamName ",       
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
+
+{ "name": " No Lag - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ "  },
  
-{ "name": " Mob Only - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
- 
- 
- { "name": " Mob Only - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
- 
- 
- { "name": " No Lag - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+{ "name": " No Lag - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ "  },
 
 { "name": " No Lag - TeamName ",       
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
 
 { "name": " No Lag - TeamName ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=______ "  },
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ "  },
  
 { "name": " Android - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=______ "  },
 
  { "name": " Android - TeamName ",       
 "link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=______ "  },
-
 
 { "name": " PC & Mob - TeamName ",      
 "link": " https://yosintv2.github.io/tv/ads.html" },
