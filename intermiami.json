@@ -1,26 +1,54 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": " Al Ahly vs Inter Miami ",
-      "links": [
+{"events": [
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv1.github.io/link/football.html?id=messi ",
-        " https://yosintv2.github.io/tv/ads.html",
-        
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid?id=4254366 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco?m=421651 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco?m=500605 ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://stream196tp.com/global1.php?stream=mls1es ",
-       " https://yosintv2.github.io/ads/foot.html?url=https://stream196tp.com/global1.php?stream=mls1es "        
-      
-      ]
-    }
+{ "name": " Join YoSinTV Telegram For Links  ",
+ "link": "https://t.me/yosintvlive " },
+
+
+{ "name": " PC & Mob - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=messi1 "  },
+
+{ "name": " PC & Mob - TeamName ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+ 
+{ "name": " PC & Mob - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=messi2 "  },
+ 
+
+{ "name": " No Lag - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=messi3 "  },
+
+{ "name": " No Lag - TeamName ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+ 
+{ "name": " Android - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=al-ahly-vs-inter-miami-cf "  },
+
+ { "name": " Android - TeamName ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=al-ahly-vs-inter-miami-cf "  },
+
+
+{ "name": " PC & Mob - TeamName ",      
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC & Mob - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TBS[USA] "  },
+ 
+{ "name": " PC & Mob - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TUDN[USA] "  },
+
+{ "name": " PC & Mob - TeamName ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/Channel5[UK] "  },
+
+{ "name": " PC & Mob - TeamName  ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica] "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
