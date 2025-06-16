@@ -17,16 +17,19 @@
 { "name": " Link 4 - Netherlands vs Nepal ",       
 "link": " https://yosintv2.github.io/tv/ads.html" },
   
-{ "name": " Link 5 - Netherlands vs Nepal ",
+{ "name": " PC/Android - Netherlands vs Nepal ",       
 "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha?mid=netherlands-vs-nepal "  },
 
-{ "name": " Link 6 - Netherlands vs Nepal ",       
+{ "name": " PC/Android - Netherlands vs Nepal ",       
 "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha2?mid=netherlands-vs-nepal "  },
 
-{ "name": " Link 7 - Netherlands vs Nepal ",       
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex8051941 "  }
+{ "name": " PC/Android - Netherlands vs Nepal ",       
+"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex8051941 "  },
   
+{ "name": " PC/Android - Netherlands vs Nepal ",       
+"link": "https://yosintv2.github.io/ads/cric.html?url=https://enz.gdplayertv.to/embed/willow-xtra/ "  }
 
+  
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
