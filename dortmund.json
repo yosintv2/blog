@@ -1,28 +1,59 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": " Leverkusen vs Dortmund ",
-      "links": [
+{"events": [
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=dazn1  ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=336303 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=406865 ",
-        " https://yosintv2.github.io/tv/ads.html",
+{ "name": " Join YoSinTV Telegram For Links  ",
+ "link": "https://t.me/yosintvlive " },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium3[Serbia] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN1Deutschland[Germany] ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport3[Romania] "        
-      
-      ]
-    }
+{ "name": " PC & Mob - Fluminense vs Dortmund ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=club "  },
+
+{ "name": " PC & Mob - Fluminense vs Dortmund ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+ 
+{ "name": " PC & Mob - Fluminense vs Dortmund ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=club3 "  },
+ 
+
+{ "name": " PC & Mob - Fluminense vs Dortmund ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+ 
+ { "name": " No Lag - Fluminense vs Dortmund ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=139384 "  },
+
+{ "name": " No Lag - Fluminense vs Dortmund ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " No Lag - Fluminense vs Dortmund ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=118206 "  },
+ 
+ 
+{ "name": " No Lag - Fluminense vs Dortmund ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=494201 "  },
+ 
+ 
+{ "name": " PC & Mob - Fluminense vs Dortmund ",      
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC & Mob - Fluminense vs Dortmund ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TBS[USA] "  },
+ 
+{ "name": " PC & Mob - Fluminense vs Dortmund ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TUDN[USA] "  },
+
+{ "name": " PC & Mob - Fluminense vs Dortmund ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/Channel5[UK] "  },
+
+{ "name": " PC & Mob - Fluminense vs Dortmund  ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica] "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
