@@ -1,26 +1,46 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": "  Fulham vs Man City ",
-      "links": [
+{"events": [
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid?id=4140083 ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=139384 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=327159 ",
-        " https://yosintv2.github.io/tv/ads.html",
+{ "name": " Join YoSinTV Telegram For Links  ",
+ "link": "https://t.me/yosintvlive " },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports6[Greece] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport4[Romania] ",
-       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport3[Serbia] "        
-      
-      ]
-    }
+
+{ "name": " PC & Mob -Man City vs Wydad ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=club "  },
+
+{ "name": " PC & Mob -Man City vs Wydad ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+ 
+{ "name": " PC & Mob -Man City vs Wydad ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=mancity "  },
+ 
+
+{ "name": " PC & Mob -Man City vs Wydad ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " No Lag -Man City vs Wydad ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=118206 "  },
+ 
+ 
+{ "name": " No Lag -Man City vs Wydad ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=494201 "  },
+ 
+ 
+{ "name": " PC & Mob -Man City vs Wydad ",      
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC & Mob -Man City vs Wydad ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha?mid=manchester-city-vs-wydad-ac  "  },
+ 
+{ "name": " PC & Mob -Man City vs Wydad ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2?mid=manchester-city-vs-wydad-ac  "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
