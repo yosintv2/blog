@@ -1,27 +1,50 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": " Sevilla vs Real Madrid  ",
-      "links": [
-        
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/live/ct.html?id=realmadrid ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=135966 ",
-        " https://yosintv2.github.io/tv/ads.html",
+{"events": [
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid.html?id=4140516 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/LaLigaTV[UK] ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports2[Greece] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportVariety3[SouthAfrica] ",
-       " https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/live/ct.html?id=realmadrid "        
-      
-      ]
-    }
+{ "name": " Join YoSinTV Telegram For Links  ",
+ "link": "https://t.me/yosintvlive " },
+
+
+{ "name": " PC & Mob - Real Madrid vs Al Hilal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=club "  },
+
+{ "name": " PC & Mob - Real Madrid vs Al Hilal ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+ 
+{ "name": " PC & Mob - Real Madrid vs Al Hilal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=club2 "  },
+ 
+
+{ "name": " PC & Mob - Real Madrid vs Al Hilal ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+ 
+{ "name": " No Lag - Real Madrid vs Al Hilal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=club3 "  },
+
+
+{ "name": " No Lag - Real Madrid vs Al Hilal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=139384 "  },
+ 
+ 
+{ "name": " No Lag - Real Madrid vs Al Hilal ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=494201 "  },
+ 
+ 
+{ "name": " PC & Mob - Real Madrid vs Al Hilal ",      
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC & Mob - Real Madrid vs Al Hilal ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha?mid=real-madrid-vs-al-hilal "  },
+ 
+{ "name": " PC & Mob - Real Madrid vs Al Hilal ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2?mid=real-madrid-vs-al-hilal "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
