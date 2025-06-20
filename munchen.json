@@ -1,27 +1,61 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": " Hoffenheim vs Bayern München ",
-      "links": [
+{"events": [
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/tv/ft.html?id=bein5  ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=139384 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=434982 ",
-        " https://yosintv2.github.io/tv/ads.html",
+{ "name": " Join YoSinTV Telegram For Links  ",
+ "link": "https://t.me/yosintvlive " },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex7499501 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportsFootball[UK] ",
-        " https://yosintv2.github.io/tv/ads.html",
-       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportTopEvent[Germany] "        
-      
-      ]
-    }
+
+{ "name": " PC & Mob - Bayern vs Boca  ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/tim?id=76614fbeee7590b092be2eae99704e87 "  },
+
+{ "name": " PC & Mob - Bayern vs Boca  ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+ 
+{ "name": " PC & Mob - Bayern vs Boca  ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=1313 "  },
+ 
+
+{ "name": " PC & Mob - Bayern vs Boca  ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+ 
+ { "name": " No Lag - Bayern vs Boca  ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=118206 "  },
+
+
+{ "name": " No Lag - Bayern vs Boca  ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=414317 "  },
+ 
+ 
+{ "name": " No Lag - Bayern vs Boca  ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=168740 "  },
+ 
+ 
+ { "name": " Android - Bayern vs Boca  ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=bayern-munich-vs-boca-juniors "  },
+
+ { "name": " Android - Bayern vs Boca  ",       
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=bayern-munich-vs-boca-juniors "  },
+
+
+{ "name": " PC & Mob - Bayern vs Boca  ",      
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC & Mob - Bayern vs Boca  ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/Nevena2[S7] "  },
+ 
+{ "name": " PC & Mob - Bayern vs Boca  ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNT[USA]  "  },
+
+
+{ "name": " PC & Mob - Bayern vs Boca   ",      
+"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica] "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
