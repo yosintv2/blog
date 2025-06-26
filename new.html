@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Match Highlights</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .yosintv-container {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    .league-title {
+      font-size: 24px;
+      font-weight: bold;
+      background-color: #d10000;
+      color: white;
+      border-radius: 5px;
+      text-align: center;
+      padding: 10px;
+    }
+    .event {
+      margin-top: 20px;
+      padding: 15px;
+      border: 2px solid #000;
+      border-radius: 5px;
+      background-color: #fff;
+    }
+    .event-name {
+      font-weight: bold;
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    .event-countdown {
+      font-size: 16px;
+    }
+    .event-countdown span {
+      background-color: black;
+      color: white;
+      padding: 2px 5px;
+      border-radius: 3px;
+      margin: 0 2px;
+    }
+    .live-now {
+      color: red;
+      font-weight: bold;
+    }
+    .blink {
+      animation: blink-animation 1s linear infinite;
+    }
+    @keyframes blink-animation {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .error-message {
+      font-size: 20px;
+      color: tomato;
+      font-weight: bold;
+      text-align: center;
+      padding: 20px;
+      border: 2px dashed tomato;
+      border-radius: 5px;
+      background-color: #fef8f6;
+      max-width: 500px;
+      margin: 50px auto;
+    }
+  </style>
+</head>
+<body>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const matchId = params.get('yosintv');
+
+    const leagueFiles = [
+      'cricket.json', 'cleague.json', 'npl.json', 'ucl.json',
+      'football.json', 'epl.json', 'laliga.json',
+      'seriea.json', 'ligue1.json', 'bundesliga.json'
+    ];
+
+    let matchData = null;
+
+    async function loadMatchData() {
+      for (const file of leagueFiles) {
+        try {
+          const response = await fetch(file);
+          const data = await response.json();
+          const found = data.matches.find(m => m.id === matchId);
+          if (found) {
+            matchData = found;
+            renderMatchCard(found);
+            return;
+          }
+        } catch (error) {
+          console.error(`Error loading ${file}:`, error);
+        }
+      }
+
+      // If not found
+      document.body.innerHTML = `<div class="error-message">Match Not Found</div>`;
+    }
+
+    function renderMatchCard(match) {
+      const container = document.createElement('div');
+      container.classList.add('yosintv-container');
+
+      const title = document.createElement('div');
+      title.classList.add('league-title');
+      title.textContent = match.name;
+      container.appendChild(title);
+
+      const eventBox = document.createElement('div');
+      eventBox.classList.add('event');
+
+      const name = document.createElement('div');
+      name.classList.add('event-name');
+      name.textContent = `Kickoff Time: ${new Date(match.start).toLocaleString()}`;
+
+      const countdown = document.createElement('div');
+      countdown.classList.add('event-countdown');
+      countdown.id = 'countdown';
+
+      eventBox.appendChild(name);
+      eventBox.appendChild(countdown);
+      container.appendChild(eventBox);
+
+      document.body.appendChild(container);
+
+      updateCountdown();
+      setInterval(updateCountdown, 1000);
+    }
+
+    function updateCountdown() {
+      if (!matchData) return;
+
+      const start = new Date(matchData.start).getTime();
+      const duration = parseFloat(matchData.duration) * 60 * 60 * 1000;
+      const end = start + duration;
+      const now = new Date().getTime();
+      const countdownBox = document.getElementById('countdown');
+
+      if (!countdownBox) return;
+
+      if (now < start) {
+        const diff = start - now;
+        const hours = Math.floor(diff / (1000 * 60 * 60));
+        const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+
+        countdownBox.innerHTML = `Starts in <span>${hours}h</span> <span>${minutes}m</span> <span>${seconds}s</span>`;
+      } else if (now >= start && now <= end) {
+        countdownBox.innerHTML = `<div class="live-now blink">Live Now</div>`;
+      } else {
+        countdownBox.textContent = 'Match Ended';
+      }
+    }
+
+    loadMatchData();
+  </script>
+</body>
+</html>
