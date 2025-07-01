@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const iframe = document.createElement('iframe');
     iframe.src = `https://widgets-livetracker.nami.com/en/football?profile=g9rzlugz3uxie81&trend=0&id=${matchId}`;
     iframe.style.width = '100%';
-    iframe.style.height = '250px';
+    iframe.style.height = '300px';
     iframe.style.border = 'none';
     iframe.onerror = () => console.error('Error: Failed to load iframe content');
     liveTrackerDiv.appendChild(iframe);
