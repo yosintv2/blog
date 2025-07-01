@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   const fileParam = getQueryParam('yosintv');
-  const jsonFile = fileParam ? `https://yosintv11.pages.dev/${fileParam}.json` : 'https://yosintv11.pages.dev/default.json';
+const jsonFile = fileParam ? `${fileParam}.json` : 'default.json';
 
   fetch(jsonFile)
     .then(res => {
