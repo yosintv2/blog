@@ -1,49 +1,26 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Montréal vs Inter Miami ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=291277 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=500605 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " All -  PSG vs Inter Miami    ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=club "  },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=513394 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=513394 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " All -  PSG vs Inter Miami    ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All -  PSG vs Inter Miami    ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=1314 "  },
-
-{ "name": " All -  PSG vs Inter Miami    ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206 "  },
-
-{ "name": " All -  PSG vs Inter Miami    ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All -  PSG vs Inter Miami    ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=135966 "  },
- 
- 
-{ "name": " Android -  PSG vs Inter Miami    ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=paris-saint-germain-vs-inter-miami-cf "  },
-
-{ "name": " Android -  PSG vs Inter Miami    ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=paris-saint-germain-vs-inter-miami-cf "  },
-
-{ "name": " PC/Android -  PSG vs Inter Miami    ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android -  PSG vs Inter Miami    ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica] "  },
- 
-{ "name": " PC/Android -  PSG vs Inter Miami    ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DirecTVSports[Argentina] "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=513394 "
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
