@@ -1,45 +1,27 @@
 {
   "events": [
-    
     {
-      "name": "Smooth 1 - Sri lanka vs Bangladesh ",
-      "link": "https://yosintv2.github.io/ads/cric.html?id=https://linnk.pages.dev/cricket?id=ten2 "
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
     },
-    
     {
-      "name": "Smooth 2 - Sri lanka vs Bangladesh ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-    
-    {
-      "name": "Link 1 - Sri lanka vs Bangladesh",
-      "link": "https://yosintv2.github.io/ads/cric.html?id=https://linnk.pages.dev/cricket?id=ten2 "
-    },
-    
-    {
-      "name": "Link 2 - Sri lanka vs Bangladesh ",
-      "link": "https://yosintv2.github.io/ads/adsense.html"
-    },
-
-    {
-      "name": "Link 3 - Sri lanka vs Bangladesh ",
-      "link": "https://yosintv2.github.io/ads/cric.html?id=https://linnk.pages.dev/cricket?id=ten2 "
-    },
+      "name": " Sri Lanka vs Bangladesh ",
+      "links": [
 
 
-        {
-      "name": "Link 4 - Sri lanka vs Bangladesh ",
-      "link": "https://yosintv2.github.io/ads/cric.html?id=https://linnk.pages.dev/cricket?id=ten2 "
-    },
+        " https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/cricket?id=ten2  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/cricket?id=ten2  ",
+        " https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/cricket?id=ten2  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-        {
-      "name": "Link 5 - Sri lanka vs Bangladesh ",
-      "link": "https://yosintv2.github.io/ads/cric.html?id=https://linnk.pages.dev/cricket?id=ten2 "
+        " https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/cricket?id=ten2  ",
+        " https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/cricket?id=ten2  ",
+        " https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/cricket?id=ten2  "
+
+      ]
     }
-
-
-    
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
