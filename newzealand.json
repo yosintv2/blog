@@ -1,45 +1,25 @@
 {
   "events": [
-    
     {
-      "name": "Smooth 1 - TeamName ",
-      "link": "https://yosintv2.github.io/ads/cric.html?id=_________"
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
     },
-    
     {
-      "name": "Smooth 2 - TeamName ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-    
-    {
-      "name": "Link 1 - TeamName",
-      "link": "https://yosintv2.github.io/ads/cric.html?id=_________"
-    },
-    
-    {
-      "name": "Link 2 - TeamName ",
-      "link": "https://yosintv2.github.io/ads/adsense.html"
-    },
+      "name": " New Zealand vs S. Africa ",
+      "links": [
 
-    {
-      "name": "Link 3 - TeamName ",
-      "link": "https://yosintv2.github.io/ads/cric.html?id=_________"
-    },
+        " https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha?mid=ew-zealand-vs-south-africa  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
+        " https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha2?mid=ew-zealand-vs-south-africa  ",
+        " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/TNTSports3[UK]  ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-        {
-      "name": "Link 4 - TeamName ",
-      "link": "https://yosintv2.github.io/ads/cric.html?id=_________"
-    },
+        " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SuperSportGrandstand[SouthAfrica]  ",
+        " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SuperSportCricket[SouthAfrica]  "
 
-
-        {
-      "name": "Link 5 - TeamName ",
-      "link": "https://yosintv2.github.io/ads/cric.html?id=_________"
+      ]
     }
-
-
-    
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
