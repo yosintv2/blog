@@ -12,11 +12,6 @@
         " https://yosintv2.github.io/tv/ads.html",
 
         " https://yosintv2.github.io/ads/cric.html?url=_________  ",
-        " https://yosintv2.github.io/ads/cric.html?url=_________  ",
-        " https://yosintv2.github.io/tv/ads.html",
-
-        " https://yosintv2.github.io/ads/cric.html?url=_________  ",
-        " https://yosintv2.github.io/ads/cric.html?url=_________  ",
         " https://yosintv2.github.io/tv/ads.html",
 
         " https://yosintv2.github.io/ads/cric.html?url=_________  ",
