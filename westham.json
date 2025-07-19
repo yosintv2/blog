@@ -1,35 +1,26 @@
-{ "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Grasshopper vs West Ham ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha?mid=grasshoppers-vs-west-ham ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha?mid=grasshoppers-vs-west-ham ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2?mid=grasshoppers-vs-west-ham ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-
-{ "name": " All - West Ham vs Bournemouth ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=170430 "  },
-
-
- { "name": " Android - West Ham vs Bournemouth ",    
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - West Ham vs Bournemouth ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=235232 "  },
-
-
-{ "name": " Android - West Ham vs Bournemouth ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=west-ham-united-vs-afc-bournemouth "  },
-
-
-{ "name": " Android - West Ham vs Bournemouth ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=west-ham-united-vs-afc-bournemouth "  },
-
-
- { "name": " IOS - West Ham vs Bournemouth ",      
- "link": " https://yosintv2.github.io/tv/ads.html" }
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8226953 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] ",
+       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/exgrassham "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
