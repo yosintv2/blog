@@ -1,25 +1,50 @@
-{
-  "events": [
-    {
-      "name": " Join YoSinTV Telegram Live Links ",
-      "link": "https://t.me/yosintvlive"
-    },
-    {
-      "name": " _______ ",
-      "links": [
+{"events": [
 
-        " https://yosintv2.github.io/ads/cric.html?url=_________  ",
-        " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/cric.html?url=_________  ",
-        " https://yosintv2.github.io/tv/ads.html",
+{ "name": " Join YoSinTV Telegram For Links  ",
+ "link": "https://t.me/yosintvlive " },
 
-        " https://yosintv2.github.io/ads/cric.html?url=_________  ",
-        " https://yosintv2.github.io/ads/cric.html?url=_________  ",
-        " https://yosintv2.github.io/ads/cric.html?url=_________  "
 
-      ]
-    }
+{ "name": " Mob Only - TeamName ",       
+"link": "https://yosintv2.github.io/ads/cric.html?url=______ "  },
+
+{ "name": " Mob Only - TeamName ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+ 
+{ "name": " Mob Only - TeamName ",       
+"link": "https://yosintv2.github.io/ads/cric.html?url=______ "  },
+ 
+  
+{ "name": " All - TeamName ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+
+ 
+{ "name": " All - TeamName ",       
+"link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha.html?mid=______ "  },
+
+{ "name": " All - TeamName ",       
+"link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=______ "  },
+
+{ "name": " All - TeamName ",       
+"link": " https://yosintv2.github.io/tv/ads.html" },
+
+
+{ "name": " PC & Mob - TeamName ",      
+"link": "https://yosintv2.github.io/ads/cric.html?url=______ "  },
+
+
+{ "name": " PC & Mob - TeamName ",      
+"link": "https://yosintv2.github.io/ads/cric.html?url=______ "  },
+
+{ "name": " PC & Mob - TeamName  ",      
+"link": "https://yosintv2.github.io/ads/cric.html?url=______ "  }
+
+
+
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
