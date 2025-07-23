@@ -1,6 +1,5 @@
 {"events": [
 
-
 { "name": " Join YoSinTV Telegram For Links  ",
  "link": "https://t.me/yosintvlive " },
 
@@ -11,10 +10,9 @@
 { "name": " Mob Only - TeamName ",       
 "link": " https://yosintv2.github.io/tv/ads.html" },
 
- 
+
 { "name": " Mob Only - TeamName ",       
 "link": "https://yosintv2.github.io/ads/cric.html?url=______ "  },
- 
   
 { "name": " All - TeamName ",       
 "link": " https://yosintv2.github.io/tv/ads.html" },
@@ -34,7 +32,6 @@
 
 { "name": " PC & Mob - TeamName ",      
 "link": "https://yosintv2.github.io/ads/cric.html?url=______ "  },
-
 
 { "name": " PC & Mob - TeamName ",      
 "link": "https://yosintv2.github.io/ads/cric.html?url=______ "  },
