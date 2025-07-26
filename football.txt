@@ -11,7 +11,7 @@
         " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=_____ ",
         " https://yosintv2.github.io/tv/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=_____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=_____ ",
         " https://yosintv2.github.io/tv/ads.html",
 
         " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ ",
