@@ -1,27 +1,26 @@
-{ "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Everton vs Bournemouth ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=642 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-{ "name": " All - Everton vs West Ham ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/flv.html?m=78951465 "  },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=285067 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=308080 ",
+        " https://yosintv2.github.io/tv/ads.html",
 
-
-{ "name": " Android - Everton vs West Ham ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=everton-vs-west-ham-united "  },
-
-
- { "name": " Android - Everton vs West Ham ",    
-"link": " https://yosintv2.github.io/ads/promote.html" },
-
-
-{ "name": " Android - Everton vs West Ham ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=everton-vs-west-ham-united "  },
-
-
- { "name": " IOS - Everton vs West Ham ",      
- "link": " https://yosintv2.github.io/tv/ads.html" }
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=everton-vs-afc-bournemouth ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=everton-vs-afc-bournemouth ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportsPremierLeague[UK] "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
