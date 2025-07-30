@@ -1,43 +1,25 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " K-League vs Newcastle ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=139384 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=479849 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=122774 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-
-{ "name": " Mob Only - Newcastle vs Crystal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://cr7tv.github.io/livee/live.html?id=ppvnewcastle "  },
-
-
-{ "name": " All - Newcastle vs Crystal ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Newcastle vs Crystal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=109053"  },
-
-
-{ "name": " All - Newcastle vs Crystal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=187579"  },
-
-
- { "name": " Android - Newcastle vs Crystal ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Newcastle vs Crystal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=newcastle-united-vs-crystal-palace "  },
-
-
- { "name": " Android - Newcastle vs Crystal ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=newcastle-united-vs-crystal-palace "  },
-
-
-{ "name": " PC/Android - Newcastle vs Crystal ",      
-"link": " https://yosintv2.github.io/tv/ads.html" }
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.pages.dev/alpha.html?mid=k-league-stars-vs-newcastle-united ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.pages.dev/alpha2.html?mid=k-league-stars-vs-newcastle-united ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=479849 "      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
