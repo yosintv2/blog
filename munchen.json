@@ -1,30 +1,25 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Bayern München vs Lyon ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=49 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=18 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-
-{ "name": " PC & Mob - Flamengo vs Bayern ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://a.shoope.live/albaplayer/ben1/ "  },
-
-{ "name": " PC & Mob - Flamengo vs Bayern ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
- 
-{ "name": " PC & Mob - Flamengo vs Bayern ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://a.shoope.live/albaplayer/ben1/ "  },
- 
-
-{ "name": " PC & Mob - Flamengo vs Bayern ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
- 
- { "name": " No Lag - Flamengo vs Bayern ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://a.shoope.live/albaplayer/ben1/ "  }
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=18 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=18 ",
+        " https://yosintv2.pages.dev/ads.html"     
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
