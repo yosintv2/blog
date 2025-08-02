@@ -1,50 +1,25 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Juventus vs Reggiana ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=877 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=877 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=877 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-
-{ "name": " PC & Mob - Juventus vs Wydad ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid.html?id=4249041 "  },
-
-{ "name": " PC & Mob - Juventus vs Wydad ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
- 
-{ "name": " PC & Mob - Juventus vs Wydad ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/tim?id=29f80fe360ea09758cda99ec2eb61fd2 "  },
- 
-
-{ "name": " PC & Mob - Juventus vs Wydad ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
- 
-{ "name": " No Lag - Juventus vs Wydad ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=118206 "  },
-
-
-{ "name": " No Lag - Juventus vs Wydad ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=414317 "  },
- 
- 
-{ "name": " No Lag - Juventus vs Wydad ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=494201 "  },
- 
- 
-{ "name": " PC & Mob - Juventus vs Wydad ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC & Mob - Juventus vs Wydad ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha?mid=juventus-vs-wydad-ac "  },
- 
-{ "name": " PC & Mob - Juventus vs Wydad ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2?mid=juventus-vs-wydad-ac "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.pages.dev/alpha.html?mid=juventus-vs-reggiana ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.pages.dev/alpha2.html?mid=juventus-vs-reggiana "      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
