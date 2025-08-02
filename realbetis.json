@@ -1,50 +1,20 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Sunderland vs Real Betis ",
+      "links": [
 
-
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
-
-
-{ "name": " All - Real Betis vs Chelsea ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv1.github.io/link/football.html?id=chelsea1 "  },
-
-{ "name": " All - Real Betis vs Chelsea ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Real Betis vs Chelsea ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv1.github.io/link/football.html?id=chelsea2 "  },
-
-
-{ "name": " All - Real Betis vs Chelsea ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid.html?id=4329502"  },
-
-{ "name": " All - Real Betis vs Chelsea ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=414317 "  },
-
-
-{ "name": " PC/Android - Real Betis vs Chelsea ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-{ "name": " All - Real Betis vs Chelsea ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206 "  },
- 
- 
- { "name": " PC/Android - Real Betis vs Chelsea ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSports1[UK] "  },
-
-{ "name": " PC/Android - Real Betis vs Chelsea ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSportsUltimate[UK] "  },
-
-{ "name": " PC/Android - Real Betis vs Chelsea ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina] "  },
-  
-{ "name": " PC/Android - Real Betis vs Chelsea ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport1[Greece] "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=26 ",
+        " https://yosintv2.pages.dev/ads.html",
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=26 ",
+        " https://yosintv2.pages.dev/ads.html"     
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
