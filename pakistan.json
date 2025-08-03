@@ -1,40 +1,32 @@
-{ "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Live Links ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " WI vs Pakistan ",
+      "links": [
 
+        "https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/back?id=32",
+        " https://yosintv2.pages.dev/ads.html",
 
-    
- { "name": "Smooth 1 - Live Now  ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/back?id=32" },
+        "https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/back?id=32",
+        " https://yosintv2.pages.dev/ads.html",
 
-    
- { "name": "Smooth 2 - Live Now  ",
- "link": "https://yosintv2.github.io/tv/ads.html" },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ ",
+        " https://yosintv2.pages.dev/ads.html",
 
-    
- { "name": "Link 1 - Live Now ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://linnk.pages.dev/back?id=32" },
-
-
- { "name": "Link 2 - Live Now ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/Fox501[Australia] " },
-
-
- { "name": "Link 3 - Live Now  ",
-"link": "https://yosintv2.github.io/tv/ads.html" },
-
-
- { "name": "PC/Laptop - Live Now  ",
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/TNTSports1[UK]" },
-
-
- { "name": "PC/Laptop - Live Now  ",
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SuperSportCricket[SouthAfrica]" }
-
-
-
-],
-
-"styles": {
-"livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.pages.dev/alpha.html?mid=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.pages.dev/alpha2.html?mid=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ "        
+      
+      ]
+    }
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
