@@ -1,49 +1,26 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Channel ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Monaco vs Inter Milan",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=414317 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=387694 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=356042 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " All - Inter vs Fluminense  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid.html?id=4249738 "  },
-
-{ "name": " All - Inter vs Fluminense  ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Inter vs Fluminense  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=499765 "  },
-
-{ "name": " All - Inter vs Fluminense  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=187579 "  },
-
-{ "name": " All - Inter vs Fluminense  ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Inter vs Fluminense  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=515900 "  },
- 
- 
-{ "name": " Android - Inter vs Fluminense  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=internazionale-vs-fluminense "  },
-
-{ "name": " Android - Inter vs Fluminense  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=internazionale-vs-fluminense "  },
-
-{ "name": " PC/Android - Inter vs Fluminense  ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Inter vs Fluminense  ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica] "  },
- 
-{ "name": " PC/Android - Inter vs Fluminense  ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DirecTVSports[Argentina] "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8389879 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8389879 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8389879 "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
