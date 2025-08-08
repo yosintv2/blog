@@ -12,14 +12,12 @@
         " https://yosintv2.pages.dev/ads.html",
 
         " https://yosintv2.github.io/ads/foot.html?url=_____ ",
-        " https://yosintv2.pages.dev/ads.html",
-
         " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ ",
         " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=_____ ",
         " https://yosintv2.pages.dev/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.pages.dev/alpha.html?mid=______ ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.pages.dev/alpha2.html?mid=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
+        " https://yosintv2.github.io/ads/foot.html?url=______ ",
         " https://yosintv2.github.io/ads/foot.html?url=______ "        
       
       ]
