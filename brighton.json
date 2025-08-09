@@ -1,52 +1,29 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Channel ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Brighton vs Wolfsburg ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=25 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=556 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=290928 ",
+        " https://yosintv2.pages.dev/ads.html",
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=285067 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=372746 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " All - Brighton vs Nottingham ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=118206"  },
-
-
-{ "name": " All - Brighton vs Nottingham ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Brighton vs Nottingham ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=123226"  },
-
-
-{ "name": " All - Brighton vs Nottingham ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=327159"  },
-
-
- { "name": " Android - Brighton vs Nottingham ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Brighton vs Nottingham ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=brighton-hove-albion-vs-nottingham-forest "  },
-
-
- { "name": " Android - Brighton vs Nottingham ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=brighton-hove-albion-vs-nottingham-forest "  },
-
-
-{ "name": " PC/Android - Brighton vs Nottingham ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/BBCOne[UK] "  },
-
-
-{ "name": " PC/Android - Brighton vs Nottingham ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] "  },
-
-
-{ "name": " PC/Android - Brighton vs Nottingham ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV5[Portugal] "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8332180 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8332180 "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
