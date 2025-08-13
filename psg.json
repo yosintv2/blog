@@ -1,56 +1,33 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Channel ",
+      "link": "https://t.me/abclive"
+    },
+    {
+      "name": " PSG vs Tottenham ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=31 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=365 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=771 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " All - Chelsea vs PSG  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=psg"  },
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=308 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=414317 ",
+        " https://yosintv2.pages.dev/ads.html",
+       
+       " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=135966 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=168740 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " All - Chelsea vs PSG  ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Chelsea vs PSG  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=psg1 "  },
-
-{ "name": " All - Chelsea vs PSG  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=psg2"  },
-
-{ "name": " All - Chelsea vs PSG  ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Chelsea vs PSG  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=113906 "  },
- 
- 
-{ "name": " All - Chelsea vs PSG  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=113906 "  },
- 
- 
- { "name": " Android - Chelsea vs PSG  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=fifa-club-world-cup-final-chelsea-vs-paris-saint-germain "  },
-
-{ "name": " Android - Chelsea vs PSG  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=fifa-club-world-cup-final-chelsea-vs-paris-saint-germain "  },
-
-{ "name": " PC/Android - Chelsea vs PSG  ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Chelsea vs PSG  ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://mpdd.pages.dev/club1 "  },
- 
- { "name": " PC/Android - Chelsea vs PSG  ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtpglobal.com/global1.php?stream=telefe "  },
- 
-{ "name": " PC/Android - Chelsea vs PSG  ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://streamtpglobal.com/global1.php?stream=disney7 "  }
-
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=260 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=889 "
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
