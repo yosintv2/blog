@@ -1,28 +1,27 @@
 {
   "events": [
-
-    
-    { 
-      "name": "  YoSinTV Telegram Channel ",
-      "link": "https://t.me/yosintvlive ", 
-      "note": " Join Now "
-      },
-    
     {
-      "name": " Finland vs Netherlands ",
-      "link": " https://example.com/link1 ",
-      "note": " Mobile & PC "
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
     },
     {
-      "name": " Finland vs Netherlands ",
-      "link": " https://example.com/link2 ",
-      "note": " Mobile only "
+      "name": "Mob Live _______",
+      "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=_____",
+        "https://yosintv2.pages.dev/ads.html"
+      ]
+    },
+    {
+      "name": "PC Live _______",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=______"
+      ]
     }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;",
-    "livenote": "background-color: white; color: black; padding: 4px 8px; text-align: center; border-left: 2px solid #000; border-right: 2px solid #000; border-bottom: 2px solid #000; border-radius: 0 0 5px 5px; font-size: 14px; margin-bottom: 10px;"
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
 }
