@@ -12,6 +12,8 @@
         "https://yosintv2.pages.dev/ads.html",
         "https://yosintv2.github.io/ads/foot.html?url=_____",
         "https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=_____",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=_____"
 
 
       ]
@@ -21,9 +23,8 @@
       "name": " 💻 ______ ",
       "links": [
         "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/alpha?mid=______",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=______"
+        "https://yosintv2.github.io/ads/foot.html?url=______",
+        "https://yosintv2.github.io/ads/foot.html?url=______",
         "https://yosintv2.github.io/ads/foot.html?url=______"
       ]
     }
