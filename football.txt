@@ -6,7 +6,7 @@
     },
 
     {
-      "name": "📱/💻 _______ ",
+      "name": "📱|💻 _______ ",
       "links": [
         "https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=_____",
         "https://yosintv2.pages.dev/ads.html",
