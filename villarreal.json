@@ -1,35 +1,26 @@
-{ "events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Channel ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " Villarreal vs Real Oviedo ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=550 ",
+        " https://yosintv2.pages.dev/ads.html" ,
 
- { "name": "Smooth 1 - Villarreal vs Real Valladolid ",    
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/30450 "  },
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=550 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=415 ",
+        " https://yosintv2.pages.dev/ads.html" ,
 
-
- { "name": "Smooth 2 - Villarreal vs Real Valladolid ",    
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 1 - Villarreal vs Real Valladolid ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=4140378 "  },
-
-
-{ "name": "  Link 2 - Villarreal vs Real Valladolid ",   
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/30860 "  },
-
-
- { "name": "Link 3 - Villarreal vs Real Valladolid ",      
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": "PC/Laptop - Villarreal vs Real Valladolid ",      
-"link": " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ESPNDeportes[USA] "  },
-
-
-{ "name": "PC/Laptop - Villarreal vs Real Valladolid ",      
-"link": " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica] "  }
-
-
-
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=187579 ",
+        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=528758 ",
+        " https://yosintv2.pages.dev/ads.html"      
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
