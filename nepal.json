@@ -1,25 +1,27 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": " Join YoSinTV Telegram Channel ",
+      "link": "https://t.me/yosintvlive"
+    },
+    {
+      "name": " NT Strike vs Nepal ",
+      "links": [
 
+        " https://yosintv2.github.io/ads/cric.html?url=https://abclive.pages.dev/back?id=269 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
-"link": "https://t.me/yosintvlive " },
+        " https://yosintv2.github.io/ads/cric.html?url=https://tinyurl.com/2ank8q5b ",
+        " https://yosintv2.pages.dev/ads.html",
 
+        " https://yosintv2.github.io/ads/cric.html?url=https://abclive.pages.dev/back?id=269 ",
+        " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex8363411 ",
+        " https://yosintv2.pages.dev/ads.html",
 
-{ "name": " Link 1 - Rabindra Dhant vs Chungreng Koren ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://nirutv.online/Player/yt?id=z4GYwK4TMsE "  },
-
-{ "name": " Link 2 - Rabindra Dhant vs Chungreng Koren ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-{ "name": " Link 3 - Rabindra Dhant vs Chungreng Koren ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://nirutv.online/Player/yt?id=z4GYwK4TMsE "  },
-
-{ "name": " Link 4 - Rabindra Dhant vs Chungreng Koren ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-  
-{ "name": " Link 5 - Rabindra Dhant vs Chungreng Koren ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://nirutv.online/Player/yt?id=z4GYwK4TMsE "  }
-  
+        " https://yosintv2.github.io/ads/cric.html?url=https://abclive.pages.dev/alpha?mid=nt-strike-vs-nepal "        
+      
+      ]
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
