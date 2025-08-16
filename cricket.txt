@@ -8,7 +8,7 @@
     {
       "name": " 📲|💻 _______ ",
       "links": [
-        "https://yosintv2.github.io/ads/cric.html?url=https://abclive.pages.dev/back?id=_____",
+        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/back?id=_____",
         "https://yosintv2.pages.dev/ads.html",
         "https://yosintv2.github.io/ads/cric.html?url=_____",
         "https://yosintv2.github.io/ads/cric.html?url=_____",
@@ -22,7 +22,7 @@
       "name": " 💻 ______ ",
       "links": [
         "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/cric.html?url=https://abclive.pages.dev/alpha?mid=______",
+        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/alpha?mid=______",
         "https://yosintv2.github.io/ads/cric.html?url=______",
         "https://yosintv2.github.io/ads/cric.html?url=______"
       ]
