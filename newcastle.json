@@ -1,32 +1,36 @@
 {
   "events": [
     {
-      "name": " Join YoSinTV Telegram Channel ",
+      "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
+
     {
-      "name": " Newcastle vs Espanyol ",
+      "name": " 📲|💻 Aston Villa vs Newcastle ",
       "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/back?id=343",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/back?id=845",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=414317",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=147801"
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=12 ",
-        " https://yosintv2.pages.dev/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=289 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=479849 ",
-        " https://yosintv2.pages.dev/ads.html",
+      ]
+    },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=525113 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] ",
-        " https://yosintv2.pages.dev/ads.html",
-
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV4[Portugal] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportPremierLeague[SouthAfrica] "        
-      
+    {
+      "name": " 💻 Aston Villa vs Newcastle ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSports1[UK]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/USANetwork[USA]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium1[Serbia]"
       ]
     }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
