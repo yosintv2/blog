@@ -1,28 +1,36 @@
 {
   "events": [
     {
-      "name": " Join YoSinTV Telegram Channel ",
+      "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
+
     {
-      "name": " Nice vs Benfica ",
+      "name": " 📲|💻 Amadora vs Benfica ",
       "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=336303",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=285067",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=525113",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=515900"
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=49 ",
-        " https://yosintv2.pages.dev/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=135 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=18 ",
+      ]
+    },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=500605 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=513979 ",
-        " https://yosintv2.pages.dev/ads.html"
-      
+    {
+      "name": " 💻 Amadora vs Benfica ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport7[Greece]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV1[Portugal]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8232074"
       ]
     }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
