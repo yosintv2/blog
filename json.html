@@ -1,179 +1,280 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Github JSON Links </title>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gray-100 font-sans min-h-screen">
-  <div class="container mx-auto p-6">
-    <h1 class="text-3xl font-bold text-center mb-4 text-gray-800">JSON File Links</h1>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>JSON Github - Links</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
 
-    <!-- Search Bar -->
-    <div class="mb-6">
-      <input 
-        type="text" 
-        id="search" 
-        placeholder="Search JSON files..." 
-        class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring focus:border-blue-300"
-      />
+    <style>
+        .sitemap-link:hover {
+            color: #dc2626;
+        }
+        .sitemap-category {
+            transition: all 0.3s ease;
+        }
+        .sitemap-category.hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 font-inter min-h-screen flex flex-col items-center justify-center p-4 sm:p-6 md:p-8">
+    <div class="bg-white rounded-xl shadow-lg p-4 sm:p-6 md:p-8 w-full max-w-4xl">
+        <!-- Header Section -->
+        <header class="text-center mb-6 sm:mb-8">
+            <div class="flex items-center justify-center mb-4">
+                <i class="fas fa-sitemap text-red-600 text-2xl sm:text-3xl md:text-4xl mr-3"></i>
+                <h1 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-800">All Teams/Cliubs</h1>
+            </div>
+        </header>
+
+        <!-- Search Bar -->
+        <div class="mb-6">
+            <div class="relative">
+                <input
+                    type="text"
+                    id="sitemap-search"
+                    placeholder="Search teams (e.g., Arsenal, Real Madrid, IPL)..."
+                    class="w-full p-3 pl-10 text-sm sm:text-base text-gray-800 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-600 bg-gray-50"
+                >
+                <i class="fas fa-search absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"></i>
+            </div>
+        </div>
+
+        <!-- Sitemap List Section -->
+        <section class="mb-6 sm:mb-8" id="sitemap-section">
+            <!-- Country Teams -->
+            <div class="mb-6 sitemap-category">
+                <h2 class="text-base sm:text-lg md:text-xl font-semibold text-gray-800 mb-4 text-center bg-gray-100 py-2 rounded-lg">Country Teams</h2>
+                <ul class="list-none text-sm sm:text-base text-gray-600">
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/afghanistan.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Afghanistan</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/argentina.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Argentina</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/australia.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Australia</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/bangladesh.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Bangladesh</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/belgium.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Belgium</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/brazil.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Brazil</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/colombia.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Colombia</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/croatia.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Croatia</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/england.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>England</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/france.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>France</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/germany.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Germany</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/hungary.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Hungary</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/india.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>India</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/indonesia.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Indonesia</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/ireland.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Ireland</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/italy.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Italy</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/japan.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Japan</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/korea.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Korea</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/mexico.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Mexico</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/morocco.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Morocco</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/nepal.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Nepal</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/nepal2.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Nepal 2</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/netherlands.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Netherlands</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/newzealand.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>New Zealand</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/norway.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Norway</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/oman.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Oman</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/pakistan.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Pakistan</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/poland.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Poland</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/portugal.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Portugal</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/senegal.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Senegal</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/southafrica.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>South Africa</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/spain.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Spain</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/srilanka.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Sri Lanka</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/sweden.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Sweden</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/switzerland.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Switzerland</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/thailand.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Thailand</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/turkey.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Turkey</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/uae.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>UAE</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/uruguay.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Uruguay</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/usa.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>USA</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/venezuela.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Venezuela</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/vietnam.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>Vietnam</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/windies.json" class="sitemap-link hover:text-red-600"><i class="fas fa-flag mr-2"></i>West Indies</a></li>
+                </ul>
+            </div>
+
+            <!-- EPL Teams -->
+            <div class="mb-6 sitemap-category">
+                <h2 class="text-base sm:text-lg md:text-xl font-semibold text-gray-800 mb-4 text-center bg-gray-100 py-2 rounded-lg">EPL Teams</h2>
+                <ul class="list-none text-sm sm:text-base text-gray-600">
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/arsenal.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Arsenal</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/astonvilla.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Aston Villa</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/bournemouth.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Bournemouth</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/brentford.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Brentford</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/brighton.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Brighton</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/chelsea.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Chelsea</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/crystal.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Crystal Palace</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/everton.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Everton</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/fulham.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Fulham</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/liverpool.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Liverpool</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/lutontown.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Luton Town</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/mancity.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Man City</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/manunited.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Man United</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/newcastle.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Newcastle</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/nottingham.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Nottingham Forest</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/sheffield.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Sheffield United</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/southampton.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Southampton</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/tottenham.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Tottenham</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/westham.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>West Ham</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/wolves.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Wolves</a></li>
+                </ul>
+            </div>
+
+            <!-- La Liga Teams -->
+            <div class="mb-6 sitemap-category">
+                <h2 class="text-base sm:text-lg md:text-xl font-semibold text-gray-800 mb-4 text-center bg-gray-100 py-2 rounded-lg">La Liga Teams</h2>
+                <ul class="list-none text-sm sm:text-base text-gray-600">
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/athletic.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Athletic Club</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/atletico.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Atlético Madrid</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/barcelona.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Barcelona</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/celta.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Celta Vigo</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/deportivo.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Deportivo Alavés</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/espanyol.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Espanyol</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/getafe.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Getafe</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/girona.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Girona</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/laspalmas.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Las Palmas</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/leganes.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Leganés</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/mallorca.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Mallorca</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/osasuna.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Osasuna</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/realbetis.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Real Betis</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/realmadrid.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Real Madrid</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/sevilla.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Sevilla</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/sociedad.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Real Sociedad</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/valencia.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Valencia</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/villarreal.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Villarreal</a></li>
+                </ul>
+            </div>
+
+            <!-- Serie A Teams -->
+            <div class="mb-6 sitemap-category">
+                <h2 class="text-base sm:text-lg md:text-xl font-semibold text-gray-800 mb-4 text-center bg-gray-100 py-2 rounded-lg">Serie A Teams</h2>
+                <ul class="list-none text-sm sm:text-base text-gray-600">
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/acmilan.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>AC Milan</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/atalanta.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Atalanta</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/bologna.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Bologna</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/cagliari.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Cagliari</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/como.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Como</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/empoli.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Empoli</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/fiorentina.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Fiorentina</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/intermilan.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Inter Milan</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/juventus.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Juventus</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/lazio.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Lazio</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/monza.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Monza</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/napoli.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Napoli</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/parma.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Parma</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/roma.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Roma</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/venezia.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Venezia</a></li>
+                </ul>
+            </div>
+
+            <!-- Bundesliga Teams -->
+            <div class="mb-6 sitemap-category">
+                <h2 class="text-base sm:text-lg md:text-xl font-semibold text-gray-800 mb-4 text-center bg-gray-100 py-2 rounded-lg">Bundesliga Teams</h2>
+                <ul class="list-none text-sm sm:text-base text-gray-600">
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/bochum.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Bochum</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/dortmund.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Dortmund</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/hoffenheim.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Hoffenheim</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/leipzig.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Leipzig</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/leverkusen.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Leverkusen</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/munchen.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Bayern München</a></li>
+                </ul>
+            </div>
+
+            <!-- MLS Teams -->
+            <div class="mb-6 sitemap-category">
+                <h2 class="text-base sm:text-lg md:text-xl font-semibold text-gray-800 mb-4 text-center bg-gray-100 py-2 rounded-lg">MLS Teams</h2>
+                <ul class="list-none text-sm sm:text-base text-gray-600">
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/intermiami.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Inter Miami</a></li>
+                </ul>
+            </div>
+
+            <!-- Saudi Pro League Teams -->
+            <div class="mb-6 sitemap-category">
+                <h2 class="text-base sm:text-lg md:text-xl font-semibold text-gray-800 mb-4 text-center bg-gray-100 py-2 rounded-lg">Saudi Pro League Teams</h2>
+                <ul class="list-none text-sm sm:text-base text-gray-600">
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/alhilal.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Al Hilal</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/alittihad.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Al Ittihad</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/alnassr.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Al Nassr</a></li>
+                </ul>
+            </div>
+
+            <!-- Cricket Teams -->
+            <div class="mb-6 sitemap-category">
+                <h2 class="text-base sm:text-lg md:text-xl font-semibold text-gray-800 mb-4 text-center bg-gray-100 py-2 rounded-lg">Cricket Teams/Leagues</h2>
+                <ul class="list-none text-sm sm:text-base text-gray-600">
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/bbl.json" class="sitemap-link hover:text-red-600"><i class="fas fa-cricket mr-2"></i>BBL</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/ipl11.json" class="sitemap-link hover:text-red-600"><i class="fas fa-cricket mr-2"></i>IPL 11</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/ipl7.json" class="sitemap-link hover:text-red-600"><i class="fas fa-cricket mr-2"></i>IPL 7</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/nzsmash.json" class="sitemap-link hover:text-red-600"><i class="fas fa-cricket mr-2"></i>NZ Smash</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/sa20.json" class="sitemap-link hover:text-red-600"><i class="fas fa-cricket mr-2"></i>SA20</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/wpl.json" class="sitemap-link hover:text-red-600"><i class="fas fa-cricket mr-2"></i>WPL</a></li>
+                </ul>
+            </div>
+
+            <!-- Other Teams/Leagues -->
+            <div class="mb-6 sitemap-category">
+                <h2 class="text-base sm:text-lg md:text-xl font-semibold text-gray-800 mb-4 text-center bg-gray-100 py-2 rounded-lg">Other Teams/Leagues</h2>
+                <ul class="list-none text-sm sm:text-base text-gray-600">
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/benfica.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Benfica</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/brest.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Brest</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/celtic.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Celtic</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/club.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Club</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/coma.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Coma</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/ct2025.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>CT 2025</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/extra1.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Extra 1</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/football.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Football</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/genzai.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Genzai</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/ilt.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>ILT</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/laligatv.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>LaLiga TV</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/leeds.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Leeds</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/lille.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Lille</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/monaco.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Monaco</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/npl-d.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>NPL-D</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/npl-m.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>NPL-M</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/npl.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>NPL</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/porto.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Porto</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/psg.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>PSG</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/santos.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Santos</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/serieatv.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Serie A TV</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/sporting.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Sporting CP</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/test.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>Test</a></li>
+                    <li class="mb-2"><a href="https://github.com/yosintv2/blog/edit/main/ufc.json" class="sitemap-link hover:text-red-600"><i class="fas fa-futbol mr-2"></i>UFC</a></li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Footer Section -->
+        <footer class="text-center text-gray-600 text-xs sm:text-sm md:text-base">
+            <p>&copy; 2025 livematches.net. All rights reserved.</p>
+            <div class="mt-2">
+                <a href="/about" class="sitemap-link text-gray-600 hover:text-red-600 mx-2">About</a>
+                <a href="/privacy" class="sitemap-link text-gray-600 hover:text-red-600 mx-2">Privacy Policy</a>
+                <a href="/contact" class="sitemap-link text-gray-600 hover:text-red-600 mx-2">Contact</a>
+            </div>
+        </footer>
     </div>
 
-    <!-- Links List -->
-    <ul id="links" class="space-y-2">
-      <li><a href="https://github.com/yosintv2/blog/edit/main/acmilan.json" class="text-blue-500 hover:underline" target="_blank">AC Milan</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/afghanistan.json" class="text-blue-500 hover:underline" target="_blank">Afghanistan</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/alhilal.json" class="text-blue-500 hover:underline" target="_blank">Al Hilal</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/alittihad.json" class="text-blue-500 hover:underline" target="_blank">Al Ittihad</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/alnassr.json" class="text-blue-500 hover:underline" target="_blank">Al Nassr</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/argentina.json" class="text-blue-500 hover:underline" target="_blank">Argentina</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/arsenal.json" class="text-blue-500 hover:underline" target="_blank">Arsenal</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/astonvilla.json" class="text-blue-500 hover:underline" target="_blank">Aston Villa</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/atalanta.json" class="text-blue-500 hover:underline" target="_blank">Atalanta</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/athletic.json" class="text-blue-500 hover:underline" target="_blank">Athletic</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/atletico.json" class="text-blue-500 hover:underline" target="_blank">Atletico</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/australia.json" class="text-blue-500 hover:underline" target="_blank">Australia</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/bangladesh.json" class="text-blue-500 hover:underline" target="_blank">Bangladesh</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/barcelona.json" class="text-blue-500 hover:underline" target="_blank">Barcelona</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/bbl.json" class="text-blue-500 hover:underline" target="_blank">BBL</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/belgium.json" class="text-blue-500 hover:underline" target="_blank">Belgium</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/benfica.json" class="text-blue-500 hover:underline" target="_blank">Benfica</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/bochum.json" class="text-blue-500 hover:underline" target="_blank">Bochum</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/bologna.json" class="text-blue-500 hover:underline" target="_blank">Bologna</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/bournemouth.json" class="text-blue-500 hover:underline" target="_blank">Bournemouth</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/brazil.json" class="text-blue-500 hover:underline" target="_blank">Brazil</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/brentford.json" class="text-blue-500 hover:underline" target="_blank">Brentford</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/brest.json" class="text-blue-500 hover:underline" target="_blank">Brest</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/brighton.json" class="text-blue-500 hover:underline" target="_blank">Brighton</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/cagliari.json" class="text-blue-500 hover:underline" target="_blank">Cagliari</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/celta.json" class="text-blue-500 hover:underline" target="_blank">Celta</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/celtic.json" class="text-blue-500 hover:underline" target="_blank">Celtic</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/chelsea.json" class="text-blue-500 hover:underline" target="_blank">Chelsea</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/club.json" class="text-blue-500 hover:underline" target="_blank">Club</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/colombia.json" class="text-blue-500 hover:underline" target="_blank">Colombia</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/coma.json" class="text-blue-500 hover:underline" target="_blank">Coma</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/como.json" class="text-blue-500 hover:underline" target="_blank">Como</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/croatia.json" class="text-blue-500 hover:underline" target="_blank">Croatia</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/crystal.json" class="text-blue-500 hover:underline" target="_blank">Crystal</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/ct2025.json" class="text-blue-500 hover:underline" target="_blank">CT 2025</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/deportivo.json" class="text-blue-500 hover:underline" target="_blank">Deportivo</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/dortmund.json" class="text-blue-500 hover:underline" target="_blank">Dortmund</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/empoli.json" class="text-blue-500 hover:underline" target="_blank">Empoli</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/england.json" class="text-blue-500 hover:underline" target="_blank">England</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/espanyol.json" class="text-blue-500 hover:underline" target="_blank">Espanyol</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/everton.json" class="text-blue-500 hover:underline" target="_blank">Everton</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/extra1.json" class="text-blue-500 hover:underline" target="_blank">Extra 1</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/fiorentina.json" class="text-blue-500 hover:underline" target="_blank">Fiorentina</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/football.json" class="text-blue-500 hover:underline" target="_blank">Football</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/france.json" class="text-blue-500 hover:underline" target="_blank">France</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/fulham.json" class="text-blue-500 hover:underline" target="_blank">Fulham</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/genzai.json" class="text-blue-500 hover:underline" target="_blank">Genzai</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/germany.json" class="text-blue-500 hover:underline" target="_blank">Germany</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/getafe.json" class="text-blue-500 hover:underline" target="_blank">Getafe</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/girona.json" class="text-blue-500 hover:underline" target="_blank">Girona</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/hoffenheim.json" class="text-blue-500 hover:underline" target="_blank">Hoffenheim</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/hungary.json" class="text-blue-500 hover:underline" target="_blank">Hungary</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/ilt.json" class="text-blue-500 hover:underline" target="_blank">ILT</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/india.json" class="text-blue-500 hover:underline" target="_blank">India</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/indonesia.json" class="text-blue-500 hover:underline" target="_blank">Indonesia</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/intermiami.json" class="text-blue-500 hover:underline" target="_blank">Inter Miami</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/intermilan.json" class="text-blue-500 hover:underline" target="_blank">Inter Milan</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/ipl11.json" class="text-blue-500 hover:underline" target="_blank">IPL 11</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/ipl7.json" class="text-blue-500 hover:underline" target="_blank">IPL 7</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/ireland.json" class="text-blue-500 hover:underline" target="_blank">Ireland</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/italy.json" class="text-blue-500 hover:underline" target="_blank">Italy</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/japan.json" class="text-blue-500 hover:underline" target="_blank">Japan</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/juventus.json" class="text-blue-500 hover:underline" target="_blank">Juventus</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/korea.json" class="text-blue-500 hover:underline" target="_blank">Korea</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/laligatv.json" class="text-blue-500 hover:underline" target="_blank">LaLiga TV</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/laspalmas.json" class="text-blue-500 hover:underline" target="_blank">Las Palmas</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/lazio.json" class="text-blue-500 hover:underline" target="_blank">Lazio</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/leeds.json" class="text-blue-500 hover:underline" target="_blank">Leeds</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/leganes.json" class="text-blue-500 hover:underline" target="_blank">Leganes</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/leipzig.json" class="text-blue-500 hover:underline" target="_blank">Leipzig</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/leverkusen.json" class="text-blue-500 hover:underline" target="_blank">Leverkusen</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/lille.json" class="text-blue-500 hover:underline" target="_blank">Lille</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/liverpool.json" class="text-blue-500 hover:underline" target="_blank">Liverpool</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/lutontown.json" class="text-blue-500 hover:underline" target="_blank">Luton Town</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/mallorca.json" class="text-blue-500 hover:underline" target="_blank">Mallorca</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/mancity.json" class="text-blue-500 hover:underline" target="_blank">Man City</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/manunited.json" class="text-blue-500 hover:underline" target="_blank">Man United</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/marseille.json" class="text-blue-500 hover:underline" target="_blank">Marseille</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/matches.json" class="text-blue-500 hover:underline" target="_blank">Matches</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/mexico.json" class="text-blue-500 hover:underline" target="_blank">Mexico</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/monaco.json" class="text-blue-500 hover:underline" target="_blank">Monaco</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/monza.json" class="text-blue-500 hover:underline" target="_blank">Monza</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/morocco.json" class="text-blue-500 hover:underline" target="_blank">Morocco</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/munchen.json" class="text-blue-500 hover:underline" target="_blank">Munchen</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/napoli.json" class="text-blue-500 hover:underline" target="_blank">Napoli</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/nepal.json" class="text-blue-500 hover:underline" target="_blank">Nepal</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/nepal2.json" class="text-blue-500 hover:underline" target="_blank">Nepal 2</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/netherlands.json" class="text-blue-500 hover:underline" target="_blank">Netherlands</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/newcastle.json" class="text-blue-500 hover:underline" target="_blank">Newcastle</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/newzealand.json" class="text-blue-500 hover:underline" target="_blank">New Zealand</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/nice.json" class="text-blue-500 hover:underline" target="_blank">Nice</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/norway.json" class="text-blue-500 hover:underline" target="_blank">Norway</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/nottingham.json" class="text-blue-500 hover:underline" target="_blank">Nottingham</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/npl-d.json" class="text-blue-500 hover:underline" target="_blank">NPL-D</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/npl-m.json" class="text-blue-500 hover:underline" target="_blank">NPL-M</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/npl.json" class="text-blue-500 hover:underline" target="_blank">NPL</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/nzsmash.json" class="text-blue-500 hover:underline" target="_blank">NZ Smash</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/oman.json" class="text-blue-500 hover:underline" target="_blank">Oman</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/osasuna.json" class="text-blue-500 hover:underline" target="_blank">Osasuna</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/pakistan.json" class="text-blue-500 hover:underline" target="_blank">Pakistan</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/parma.json" class="text-blue-500 hover:underline" target="_blank">Parma</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/poland.json" class="text-blue-500 hover:underline" target="_blank">Poland</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/porto.json" class="text-blue-500 hover:underline" target="_blank">Porto</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/portugal.json" class="text-blue-500 hover:underline" target="_blank">Portugal</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/psg.json" class="text-blue-500 hover:underline" target="_blank">PSG</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/realbetis.json" class="text-blue-500 hover:underline" target="_blank">Real Betis</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/realmadrid.json" class="text-blue-500 hover:underline" target="_blank">Real Madrid</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/roma.json" class="text-blue-500 hover:underline" target="_blank">Roma</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/sa20.json" class="text-blue-500 hover:underline" target="_blank">SA20</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/santos.json" class="text-blue-500 hover:underline" target="_blank">Santos</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/senegal.json" class="text-blue-500 hover:underline" target="_blank">Senegal</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/serieatv.json" class="text-blue-500 hover:underline" target="_blank">Serie A TV</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/sevilla.json" class="text-blue-500 hover:underline" target="_blank">Sevilla</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/sheffield.json" class="text-blue-500 hover:underline" target="_blank">Sheffield</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/sociedad.json" class="text-blue-500 hover:underline" target="_blank">Sociedad</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/southafrica.json" class="text-blue-500 hover:underline" target="_blank">South Africa</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/southampton.json" class="text-blue-500 hover:underline" target="_blank">Southampton</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/spain.json" class="text-blue-500 hover:underline" target="_blank">Spain</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/sporting.json" class="text-blue-500 hover:underline" target="_blank">Sporting</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/srilanka.json" class="text-blue-500 hover:underline" target="_blank">Sri Lanka</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/sweden.json" class="text-blue-500 hover:underline" target="_blank">Sweden</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/switzerland.json" class="text-blue-500 hover:underline" target="_blank">Switzerland</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/test.json" class="text-blue-500 hover:underline" target="_blank">Test</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/thailand.json" class="text-blue-500 hover:underline" target="_blank">Thailand</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/tottenham.json" class="text-blue-500 hover:underline" target="_blank">Tottenham</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/turkey.json" class="text-blue-500 hover:underline" target="_blank">Turkey</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/uae.json" class="text-blue-500 hover:underline" target="_blank">UAE</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/ufc.json" class="text-blue-500 hover:underline" target="_blank">UFC</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/uruguay.json" class="text-blue-500 hover:underline" target="_blank">Uruguay</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/usa.json" class="text-blue-500 hover:underline" target="_blank">USA</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/valencia.json" class="text-blue-500 hover:underline" target="_blank">Valencia</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/venezia.json" class="text-blue-500 hover:underline" target="_blank">Venezia</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/venezuela.json" class="text-blue-500 hover:underline" target="_blank">Venezuela</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/vietnam.json" class="text-blue-500 hover:underline" target="_blank">Vietnam</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/villarreal.json" class="text-blue-500 hover:underline" target="_blank">Villarreal</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/westham.json" class="text-blue-500 hover:underline" target="_blank">West Ham</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/windies.json" class="text-blue-500 hover:underline" target="_blank">Windies</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/wolves.json" class="text-blue-500 hover:underline" target="_blank">Wolves</a></li>
-      <li><a href="https://github.com/yosintv2/blog/edit/main/wpl.json" class="text-blue-500 hover:underline" target="_blank">WPL</a></li>
-    </ul>
-  </div>
+    <!-- Search Functionality Script -->
+    <script>
+        document.getElementById('sitemap-search').addEventListener('input', function(e) {
+            const searchTerm = e.target.value.toLowerCase();
+            const sitemapLinks = document.querySelectorAll('.sitemap-link');
+            
+            sitemapLinks.forEach(link => {
+                const linkText = link.textContent.toLowerCase();
+                link.parentElement.style.display = linkText.includes(searchTerm) ? 'list-item' : 'none';
+            });
 
-  <script>
-    const links = Array.from(document.querySelectorAll('#links li'));
-    
-    document.getElementById('search').addEventListener('input', e => {
-      const query = e.target.value.toLowerCase();
-      links.forEach(link => {
-        const text = link.textContent.toLowerCase();
-        link.style.display = text.includes(query) ? '' : 'none';
-      });
-    });
-  </script>
+            // Show/hide category sections based on visible links
+            const categories = document.querySelectorAll('.sitemap-category');
+            categories.forEach(category => {
+                const visibleLinks = category.querySelectorAll('li:not([style*="display: none"])');
+                category.style.display = visibleLinks.length > 0 ? 'block' : 'none';
+            });
+        });
+    </script>
 </body>
 </html>
