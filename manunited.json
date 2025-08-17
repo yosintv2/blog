@@ -1,32 +1,36 @@
 {
   "events": [
     {
-      "name": " Join YoSinTV Telegram Channel ",
+      "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
+
     {
-      "name": " Man United vs Fiorentina ",
+      "name": " 📲|💻 Man United vs Arsenal ",
       "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/plyrr?id=manunited",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/back?id=38",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=147801",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=168740"
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=377 ",
-        " https://yosintv2.pages.dev/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=55 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=499765 ",
-        " https://yosintv2.pages.dev/ads.html",
+      ]
+    },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=327159 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=118206 ",
-        " https://yosintv2.pages.dev/ads.html",
-
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/MUTV[UK] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/MUTV[UK] "        
-      
+    {
+      "name": " 💻 Man United vs Arsenal ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/29c9onk6",
+        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/28fumeew",
+        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/28fumeew"
       ]
     }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
