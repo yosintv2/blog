@@ -1,32 +1,36 @@
 {
   "events": [
     {
-      "name": " Join YoSinTV Telegram Channel ",
+      "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
+
     {
-      "name": " Chelsea vs AC Milan ",
+      "name": " 📲|💻 Chelsea vs Crystal Palace ",
       "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/back?id=343",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/back?id=446",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=168740",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=360663"
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=355 ",
-        " https://yosintv2.pages.dev/ads.html",
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=845 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/back?id=4 ",
-        " https://yosintv2.pages.dev/ads.html",
+      ]
+    },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintvlive.pages.dev/ak?m=356042 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintvlive.pages.dev/ak?m=484845 ",
-        " https://yosintv2.pages.dev/ads.html",
-
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportsGolf[UK] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8273703 "        
-      
+    {
+      "name": " 💻 Chelsea vs Crystal Palace ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://rzn076.github.io/blogs/list3.html?id=USANETWORK",
+        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/2bs2hdt3",
+        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/2bs2hdt3 "
       ]
     }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
