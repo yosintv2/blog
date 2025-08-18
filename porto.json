@@ -1,48 +1,33 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
+    },
+
+    {
+      "name": " 📲|💻 Vicente vs Porto ",
+      "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=120778",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=235232"
 
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+      ]
+    },
 
-{ "name": " All - Porto v Al Ahly  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/mid.html?id=4249019 "  },
-
-{ "name": " All - Porto v Al Ahly  ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - Porto v Al Ahly  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=132343 "  },
-
-{ "name": " All - Porto v Al Ahly  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=132343 "  },
-
-{ "name": " Android - Porto v Al Ahly  ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Android - Porto v Al Ahly  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=fc-porto-vs-al-ahly "  },
-
-{ "name": " Android - Porto v Al Ahly  ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=fc-porto-vs-al-ahly "  },
-
-{ "name": " PC/Android - Porto v Al Ahly  ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC/Android - Porto v Al Ahly  ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica] "  },
- 
-{ "name": " PC/Android - Porto v Al Ahly  ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DirecTVSports[Argentina] "  }
-
-
-
-
+    {
+      "name": " 💻 Vicente vs Porto ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/2artebwc",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport2[Serbia]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV1[Portugal]"
+      ]
+    }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
