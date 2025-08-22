@@ -108,14 +108,14 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       });
     })
-    .catch(err => {
-      console.error('Error fetching JSON:', err);
-      const container = document.getElementById('live-container');
-      if (container) {
-        const errorDiv = document.createElement('div');
-        errorDiv.className = 'error-message';
-        errorDiv.textContent = "Please Check Later, Match Not Started!";
-        container.appendChild(errorDiv);
-      }
+  //  .catch(err => {
+   //   console.error('Error fetching JSON:', err);
+   //   const container = document.getElementById('live-container');
+  //    if (container) {
+    //    const errorDiv = document.createElement('div');
+    //    errorDiv.className = 'error-message';
+   //     errorDiv.textContent = "Please Check Later, Match Not Started!";
+    //    container.appendChild(errorDiv);
+// }
     });
 });
