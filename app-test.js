@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // --- Determine JSON file ---
   const fileParam = getQueryParam('yosintv');
-  const jsonFile = fileParam ? `${fileParam}.json` : 'default.json';
+  const jsonFile = fileParam ? `https://blog.cricfoot.net/${fileParam}.json` : 'https://blog.cricfoot.net/default.json';
 
   // --- Fetch JSON ---
   fetch(jsonFile)
