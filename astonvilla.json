@@ -1,28 +1,34 @@
 {
   "events": [
     {
-      "name": " Join YoSinTV Telegram Channel ",
-      "link": "https://t.me/abclive"
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
     },
+
     {
-      "name": " Villarreal vs Aston Villa ",
+      "name": " 📲|💻 Brentford vs Aston Villa ",
       "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=147801",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=168740",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=123226",
+        "https://yosintv2.pages.dev/ads.html"
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=421651 ",
-        " https://yosintv2.pages.dev/ads.html",
+      ]
+    },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=122774 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=144861 ",
-        " https://yosintv2.pages.dev/ads.html",
-
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPNDeportes[USA] ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] "        
-      
+    {
+      "name": " 💻 Brentford vs Aston Villa ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/2anglbxm",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/USANetwork[USA]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium1[Serbia]"
       ]
     }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
