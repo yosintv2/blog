@@ -1,38 +1,34 @@
-{ "events": [
+{
+  "events": [
+    {
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
+    },
 
+    {
+      "name": " 📲|💻 Bournemouth vs Brentford ",
+      "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=387694",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=351530",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=434982",
+        "https://yosintv2.pages.dev/ads.html"
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
+      ]
+    },
 
-
-{ "name": " All - Bournemouth vs Ipswich ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=459401 "  },
-
-
- { "name": " Android - Bournemouth vs Ipswich ",    
- "link": " https://yosintv2.github.io/tv/ads.html" }
-
-
-{ "name": " All - Bournemouth vs Ipswich ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak.html?m=251797 "  },
-
-
-{ "name": " Android - Bournemouth vs Ipswich ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=afc-bournemouth-vs-ipswich-town" "  },
-
-
-{ "name": " Android - Bournemouth vs Ipswich ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=afc-bournemouth-vs-ipswich-town" "  },
-
-
- { "name": " IOS - Bournemouth vs Ipswich ",      
- "link": " https://yosintv2.github.io/tv/ads.html" }
-
-
-
+    {
+      "name": " 💻 Bournemouth vs Brentford ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/2y9rhgq7",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8439941",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8439941"
+      ]
+    }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
