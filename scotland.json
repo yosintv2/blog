@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
+    },
+
+    {
+      "name": " 📲|💻 Namibia vs Scotland ",
+      "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://www.bdixtv24.xyz/play.php?id=133760",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/cric.html?url=https://www.bdixtv24.xyz/play.php?id=133760",
+        "https://yosintv2.github.io/ads/cric.html?url=https://www.bdixtv24.xyz/play.php?id=133760",
+        "https://yosintv2.pages.dev/ads.html"
+
+
+      ]
+    },
+
+    {
+      "name": " 💻 Namibia vs Scotland ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex8508507",
+        "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex8508507",
+        "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex8508507"
+      ]
+    }
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
