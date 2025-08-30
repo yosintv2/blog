@@ -11,19 +11,11 @@
   <meta name="twitter:title" id="twitter-title" content="YoSinTV - Live Sports Streaming">
   <meta name="twitter:description" id="twitter-description" content="Watch live sports matches and highlights on YoSinTV.">
   <link rel="canonical" id="canonical-url" href="">
- <title>YoSinTV - Cricket | Football | Playing XI | Match Preview</title>
  <link href='https://web.cricfoot.net/favico.png' rel='icon' type='image/x-icon' />
  <link href='https://web.cricfoot.net/player.css' rel='stylesheet' />
+ <title>YoSinTV - Cricket | Football | Playing XI | Match Preview</title>
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    main:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 6px 24px rgba(0, 0, 0, 0.15);
-    }
+    
     #match-info {
       text-align: left;
     }
@@ -383,11 +375,9 @@
         const content = document.createElement('div');
         content.className = 'match-card';
         content.innerHTML = `
-          <h3 class="text-3xl font-bold mb-4">${name}</h3>
-          <p class="text-sm text-gray-600 mb-1">League: ${leagueTitle}</p>
+          <h3 class="text-3xl font-bold mb-4">${name} - Match Details</h3>
           <p class="text-sm text-gray-600 mb-1">Start: ${startTime}</p>
           <div class="flex justify-center my-4">
-            <a href="${link}" target="_blank" class="watch-btn">Watch Live Stream</a>
           </div>
           <h3 class="text-2xl font-bold mt-8 mb-4 border-b-2 pb-2 border-gray-200">Frequently Asked Questions</h3>
           <div class="faq space-y-4">
