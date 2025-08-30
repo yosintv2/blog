@@ -235,7 +235,7 @@
           found.sort((a, b) => new Date(a.match.start || 0) - new Date(b.match.start || 0));
           found.forEach(item => renderMatchCard(item.match, item.league));
         } else {
-          matchInfoContainer.innerHTML = '<p class="text-red-500">Match does not exist right now.</p>';
+          matchInfoContainer.innerHTML = '<p class="text-red-500">This Match is Not Live Right Now</p>';
         }
       }
     });
