@@ -104,6 +104,22 @@
         $('#fixedban').hide(90);
       });
     });
+
+// Domain restriction check
+(function() {
+  const allowedDomains = ['ww.yosintvlive.com', 'tv.getemoji.online', 'dplayerr.blogspot.com' ]; // Added 'localhost' for testing
+  const currentDomain = window.location.hostname.toLowerCase().split(':')[0]; // Normalize domain, remove port
+
+  if (!allowedDomains.includes(currentDomain)) {
+    // Redirect to the main allowed domain
+    window.location.replace('https://www.yosin-tv.net/');
+  } else {
+    // Allowed domain - place your code here
+    console.log('Domain allowed:', currentDomain);
+    // Your main code logic can go here
+  }
+})();
+
   </script>
 
   <!-- BEGIN: Powered by Supercounters.com -->
