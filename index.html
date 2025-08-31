@@ -107,7 +107,7 @@
 
 // Domain restriction check
 (function() {
-  const allowedDomains = ['ww.yosintvlive.com', 'tv.getemoji.online', 'dplayerr.blogspot.com' ]; // Added 'localhost' for testing
+  const allowedDomains = ['https://blog.cricfoot.net' ]; // Added 'localhost' for testing
   const currentDomain = window.location.hostname.toLowerCase().split(':')[0]; // Normalize domain, remove port
 
   if (!allowedDomains.includes(currentDomain)) {
