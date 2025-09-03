@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (container) {
         const errorDiv = document.createElement('div');
         errorDiv.className = 'error-message';
-        errorDiv.textContent = "Please Check Later, Match Not Started!";
+        errorDiv.textContent = '';
         container.appendChild(errorDiv);
       }
     });
