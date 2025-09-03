@@ -108,14 +108,52 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       });
     })
-  .catch(err => {
-     console.error('Error fetching JSON:', err);
-     const container = document.getElementById('live-container');
+    .catch(err => {
+      console.error('Error fetching JSON:', err);
+      const container = document.getElementById('live-container');
       if (container) {
-      const errorDiv = document.createElement('div');
+        const errorDiv = document.createElement('div');
         errorDiv.className = 'error-message';
         errorDiv.textContent = "Please Check Later, Match Not Started!";
         container.appendChild(errorDiv);
- }
+      }
+    });
+
+  // --- Fetch and Render Commentary ---
+  const urlParams = new URLSearchParams(window.location.search);
+  const matchIdCommentary = urlParams.get('id') || '105786';
+  const apiUrl = `https://corsproxy.io/?url=https://www.cricbuzz.com/api/cricket-match/commentary/${matchId}`;
+
+  fetch(apiUrl)
+    .then(res => {
+      if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
+      return res.json();
+    })
+    .then(data => {
+      const commentaryContainer = document.getElementById('commentary-container');
+      if (!commentaryContainer) {
+        console.error('Error: <div id="commentary-container"> not found in the DOM');
+        return;
+      }
+      commentaryContainer.innerHTML = '';
+
+      // Assuming data.commentary is an array of commentary entries
+      (data.commentary || []).forEach(comment => {
+        const commentDiv = document.createElement('div');
+        commentDiv.className = 'commentary';
+        commentDiv.style.cssText = 'margin: 10px 0; padding: 10px; background: #f0f0f0; border-radius: 5px; color: #333;';
+        commentDiv.innerHTML = `<div class="comment-text">${comment.text || 'No commentary text available'}</div>`;
+        commentaryContainer.appendChild(commentDiv);
+      });
+    })
+    .catch(err => {
+      console.error('Error fetching commentary:', err);
+      const commentaryContainer = document.getElementById('commentary-container');
+      if (commentaryContainer) {
+        const errorDiv = document.createElement('div');
+        errorDiv.className = 'error-message';
+        errorDiv.textContent = 'Unable to load commentary. Please try again later.';
+        commentaryContainer.appendChild(errorDiv);
+      }
     });
 });
