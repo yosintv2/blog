@@ -1,28 +1,35 @@
 {
   "events": [
     {
-      "name": " Join YoSinTV Telegram Live Links ",
+      "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
+
     {
-      "name": " Hungary vs Sweden ",
+      "name": " 📱💻 Slovenia vs Sweden ",
       "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=slovenia-vs-sweden",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=144861",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=472241",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=380460"
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=250874 ",
-        " https://yosintv2.github.io/tv/ads.html",
+      ]
+    },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/ak?m=421651 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV2[Portugal] ",
-        " https://yosintv2.github.io/tv/ads.html",
-
-        " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV2[Portugal] ",
-       " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV2[Portugal] "        
-      
+    {
+      "name": " 💻 Slovenia vs Sweden ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/FoxSoccerPlus[US]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/Sportklub1[Serbia]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport5[NewZealand]"
       ]
     }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
