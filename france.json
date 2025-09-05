@@ -1,63 +1,35 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
+    },
 
+    {
+      "name": " 📱💻 Ukraine vs France ",
+      "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=ukraine-vs-france",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=484845",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=360663",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=321443"
 
-{ "name": " Join YoSinTV Telegram For Links  ",
- "link": "https://t.me/yosintvlive " },
+      ]
+    },
 
-
-{ "name": " PC & Mob - Germany vs France | Link 1 ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=france1 "  },
-
-{ "name": " PC & Mob - Germany vs France | Link 2 ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC & Mob - Germany vs France | Link 3 ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=france2 "  },
-
-{ "name": " PC & Mob - Germany vs France | Link 4 ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=france3 "  },
-
-
-{ "name": " PC & Mob - Germany vs France | Link 5 ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC & Mob - Germany vs France | Link 6 ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/2ypk65j3 "  },
- 
-{ "name": " Android - Germany vs France | Link 7 ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=uefa-nations-league-third-place-germany-vs-france "  },
-
- { "name": " Android - Germany vs France | Link 8 ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=uefa-nations-league-third-place-germany-vs-france "  },
-
-
-{ "name": " PC & Mob - Germany vs France | Link 9 ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC & Mob - Germany vs France | Link 10 ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium1[Serbia] "  },
-
-{ "name": " PC & Mob - Germany vs France  | Link 11 ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN1Deutschland[Germany] "  },
- 
-{ "name": " PC & Mob - Germany vs France | Link 12 ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina] "  },
-
-{ "name": " PC & Mob - Germany vs France | Link 13 ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport1[Romania] "  },
-
-{ "name": " PC & Mob - Germany vs France | Link 14  ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV1[Portugal] "  }
-
-
-
-
+    {
+      "name": " 💻 Ukraine vs France ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/FOXSports2[USA]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport1[NewZealand]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN1Deutschland[Germany]"
+      ]
+    }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
