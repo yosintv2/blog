@@ -1,76 +1,35 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
+    },
 
+    {
+      "name": " 📱💻 Armenia vs Portugal ",
+      "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/stream?id=portugal",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=499765",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=327159",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=118206"
 
-{ "name": " Join YoSinTV Telegram For Links  ",
- "link": "https://t.me/yosintvlive " },
+      ]
+    },
 
-
-{ "name": " PC & Mob - Spain vs Portugal | Smooth ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=portugal1 "  },
-
-{ "name": " PC & Mob - Spain vs Portugal | Smooth ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
- 
-{ "name": " PC & Mob - Spain vs Portugal | Smooth ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=portugal2 "  },
- 
-
-
-{ "name": " PC & Mob - Spain vs Portugal | Link 1 ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
- 
-{ "name": " Mob Only - Spain vs Portugal | Link 2 ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=portugal3 "  },
- 
- 
- { "name": " Mob Only - Spain vs Portugal | English ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://linnk.pages.dev/football?id=portugal4 "  },
- 
- 
- { "name": " No Lag - Spain vs Portugal | Link 4 ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco?m=9912096 "  },
-
-{ "name": " No Lag - Spain vs Portugal | Link 5 ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " No Lag - Spain vs Portugal | Link 6 ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco?m=9912060 "  },
- 
-{ "name": " Android - Spain vs Portugal | Link 7",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha.html?mid=uefa-nations-league-final-portugal-vs-spain "  },
-
- { "name": " Android - Spain vs Portugal | Link 8 ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=uefa-nations-league-final-portugal-vs-spain "  },
-
-
-{ "name": " PC & Mob - Spain vs Portugal | Link 9 ",      
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " PC & Mob - Spain vs Portugal | Link 10 ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/yosintv/jwplayers.html?src=https://cheapmarket.blog/idea/?id=1 "  },
-
-{ "name": " PC & Mob - Spain vs Portugal  | Link 11 ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] "  },
- 
-{ "name": " PC & Mob - Spain vs Portugal | Link 12 ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina] "  },
-
-{ "name": " PC & Mob - Spain vs Portugal | Link 13 ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport1[Romania] "  },
-
-{ "name": " PC & Mob - Spain vs Portugal | Link 13  ",      
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV1[Portugal] "  }
-
-
-
-
+    {
+      "name": " 💻 Armenia vs Portugal ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=armenia-vs-portugal",
+        "https://yosintv2.github.io/ads/foot.html?url=https://streamtp11.com/global1.php?stream=espn"
+      ]
+    }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
