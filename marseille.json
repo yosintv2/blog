@@ -1,29 +1,35 @@
 {
   "events": [
     {
-      "name": " Join YoSinTV Telegram Channel ",
-      "link": "https://t.me/abclive"
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
     },
+
     {
-      "name": " Rennes vs Marseille ",
+      "name": " 📱💻 Marseille vs Lorient ",
       "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=marseille-vs-lorient",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=106737",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=283501",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=527384"
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=69 ",
-        " https://yosintv2.pages.dev/ads.html",
+      ]
+    },
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=425 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=372 ",
-        " https://yosintv2.pages.dev/ads.html",
-
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=291277 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=532081",
-        " https://yosintv2.pages.dev/ads.html"  
-      
+    {
+      "name": " 💻 Marseille vs Lorient ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/beINSPORTSUSA[USA]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV3[Portugal]",
+        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8196126"
       ]
     }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
