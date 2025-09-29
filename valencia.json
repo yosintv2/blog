@@ -1,35 +1,35 @@
-{ "events": [
+{
+  "events": [
+    {
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
+    },
 
+    {
+      "name": " 📱💻 Valencia vs Real Oviedo ",
+      "links": [
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/stw?m=6 ",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=valencia-vs-real-oviedo-postponed ",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=527383 ",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=144861 "
 
+      ]
+    },
 
-{ "name": " Link 1 - Villarreal vs Valencia ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://streamtp3.com/global1.php?stream=espnplus2 "  },
-
-
- { "name": " Link 2 - Villarreal vs Valencia ",    
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": "  iOS/Mob - Villarreal vs Valencia ",   
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://streamtp3.com/global1.php?stream=dsports "  },
-
-
- { "name": "Link 3 - Villarreal vs Valencia ",      
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": "PC/Laptop - Villarreal vs Valencia ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/LaLigaTV[UK] "  },
-
-
-{ "name": "PC/Laptop - Villarreal vs Valencia ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica] "  }
-
-
-
+    {
+      "name": " 💻 Valencia vs Real Oviedo ",
+      "links": [
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=valencia-vs-real-oviedo-postponed ",
+        "https://yosintv2.github.io/ads/foot.html?url=https://embednow.top/embed/laliga/2025-09-29/val-ovi ",
+        "https://yosintv2.github.io/ads/foot.html?url=https://embednow.top/embed/laliga/2025-09-29/val-ovi "
+      ]
+    }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
