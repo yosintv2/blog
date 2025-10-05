@@ -1,14 +1,20 @@
-name: Auto Reset All JSON Files Every 6 Hours
+name: Reset all JSON files 6 hours after update
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
-  workflow_dispatch:         # Optional: manual run
+  push:
+    paths:
+      - "*.json"   # triggers when any JSON file changes
+  workflow_dispatch:         # allows manual trigger too
 
 jobs:
-  reset:
+  wait_and_reset:
     runs-on: ubuntu-latest
     steps:
+      - name: Wait 6 hours before resetting
+        run: |
+          echo "Waiting for 6 hours before reset..."
+          sleep $((6 * 60 * 60))  # 6 hours = 21600 seconds
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -40,5 +46,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add *.json
-          git commit -m "Auto reset all JSON files to base template (6-hour schedule)" || echo "No changes to commit"
+          git commit -m "Auto reset all JSON files to base template (6 hours after update)" || echo "No changes to commit"
           git push
