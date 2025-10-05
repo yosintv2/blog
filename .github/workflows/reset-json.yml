@@ -1,0 +1,41 @@
+name: Reset JSON to base template
+
+on:
+  push:
+    paths:
+      - "data.json"   # 👈 change to your JSON file name
+jobs:
+  reset:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Replace JSON with base template
+        run: |
+          cat > data.json <<'EOF'
+          [
+            {
+              "events": [
+                {
+                  "name": "Join YoSinTV Telegram Channel",
+                  "link": "https://t.me/yosintvlive"
+                }
+
+              ],
+              "styles": {
+                "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+                "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+                "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+              }
+            }
+          ]
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data.json
+          git commit -m "Reset JSON to base template after update" || echo "No changes to commit"
+          git push
