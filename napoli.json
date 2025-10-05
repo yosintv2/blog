@@ -6,27 +6,29 @@
     },
 
     {
-      "name": " 📱💻 Napoli vs Sporting ",
+      "name": " 📱💻 Napoli vs Genoa ",
       "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/bty?m=6MvXMfc4A1rUXqGZsM",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/sc?id=____ ",
         "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://streamcenter.pro/embed/ch5.php",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=532257 ",
+        "https://yosintv2.github.io/ads/foot.html?url=_____ ",
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=_____ ",
         "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=336303 "
+        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=_____ "
 
       ]
     },
 
-    {
-      "name": " 💻 Napoli vs Sporting ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=napoli-vs-sporting-cp ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport5[Greece] ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ZiggoSport3[Netherlands] "
-      ]
-    }
+{
+  "name": "💻 Napoli vs Genoa",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport2[Greece]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ZiggoSport[Netherlands]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ZiggoSport2[Netherlands]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV6[Portugal]"
+  ]
+}
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
