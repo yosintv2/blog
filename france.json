@@ -5,28 +5,26 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 France vs Iceland ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=france-vs-iceland",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=484845",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=187579",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=519740"
+{
+  "name": "📱💻 Japan U20 vs France U20",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=japan-u20-vs-france-u20",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=japan-u20-vs-france-u20",
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=313971",
+   "https://yosintv2.pages.dev/ads.html",
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=308080"
+  ]
+},
 
-      ]
-    },
+{
+  "name": "💻 Japan U20 vs France U20",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DirecTVSports[Argentina]"
+  ]
+}
 
-    {
-      "name": " 💻 France vs Iceland ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/FOXSports2[USA]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium3[Serbia]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DiemaSport2[Bulgaria]"
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
