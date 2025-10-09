@@ -5,28 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📲|💻 England vs  S.Africa ",
-      "links": [
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/alpha?mid=england-vs-south-africa",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK]",
-        "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SuperSportCricket[SouthAfrica]",
-        "https://yosintv2.pages.dev/ads.html"
+{
+  "name": "📱💻 England vs Wales",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=england-vs-wales",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=england-vs-wales",
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=494201",
+   "https://yosintv2.github.io/ads.html", 
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=484845" 
+  ]
+} ,
 
+{
+  "name": "💻 England vs Wales",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/FOXSports2[USA]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DiemaSport2[Bulgaria]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport2[Romania]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/S4C[UK]"
+  ]
+}
 
-      ]
-    },
-
-    {
-      "name": " 💻 England vs  S.Africa ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK]",
-        "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SuperSportCricket[SouthAfrica]",
-        "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/exenglaica"
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
