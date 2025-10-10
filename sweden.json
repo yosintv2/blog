@@ -5,28 +5,28 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Slovenia vs Sweden ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=slovenia-vs-sweden",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=144861",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=472241",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=380460"
+{
+  "name": "📱💻 Sweden vs Switzerland",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=sweden-vs-switzerland",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=sweden-vs-switzerland",
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=479849",
+   "https://yosintv2.github.io/ads.html", 
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=472241" 
+  ]
+} ,
 
-      ]
-    },
-
-    {
-      "name": " 💻 Slovenia vs Sweden ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/FoxSoccerPlus[US]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/Sportklub1[Serbia]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport5[NewZealand]"
-      ]
-    }
+{
+  "name": "💻 Sweden vs Switzerland",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN2[Argentina]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport5[NewZealand]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV3[Portugal]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport4[Romania]"
+  ]
+}
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
