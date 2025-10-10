@@ -5,28 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Germany vs N.Ireland ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/2xjemskw",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=germany-vs-northern-ireland",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=519740",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=414317"
+{
+  "name": "📱💻 Germany vs Luxembourg",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=germany-vs-luxembourg",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=germany-vs-luxembourg",
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=187579",
+   "https://yosintv2.github.io/ads.html", 
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=321443" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Germany vs Luxembourg",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports2[Greece]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ZiggoSport2[Netherlands]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport4[NewZealand]"
+  ]
+}
 
-    {
-      "name": " 💻 Germany vs N.Ireland ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/FOXSports1[USA]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium3[Serbia]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/BBCTwo[UK]"
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
