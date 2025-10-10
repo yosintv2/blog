@@ -5,27 +5,27 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📲|💻 Sudan vs Senegal ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/274nbqp7",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/274nbqp7",
-        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/274nbqp7",
-        "https://yosintv2.pages.dev/ads.html"
+{
+  "name": "📱💻 Sudan vs Senegal",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=south-sudan-vs-senegal",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=south-sudan-vs-senegal",
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=485739",
+   "https://yosintv2.github.io/ads.html", 
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=532999" 
+  ]
+} ,
 
-      ]
-    },
-
-    {
-      "name": " 💻 Sudan vs Senegal ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8514469",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8514469",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8514469"
-      ]
-    }
+{
+  "name": "💻 Sudan vs Senegal",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium3[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/Sportklub2[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8664481"
+  ]
+}
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
