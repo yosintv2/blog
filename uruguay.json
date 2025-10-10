@@ -5,28 +5,28 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Uruguay vs Peru ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=uruguay-vs-peru",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=532257",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=344370",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=534867"
+{
+  "name": "📱💻 Uruguay vs Dominican ",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=uruguay-vs-dominican-republic",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=uruguay-vs-dominican-republic",
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=380460",
+   "https://yosintv2.github.io/ads.html", 
+   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=414317" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Uruguay vs Republica ",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8717523",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8717523",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8717523"
+  ]
+}
 
-    {
-      "name": " 💻 Uruguay vs Peru ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=______",
-        "https://yosintv2.github.io/ads/foot.html?url=______",
-        "https://yosintv2.github.io/ads/foot.html?url=______"
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
