@@ -5,28 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Turkey vs Spain ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/2ylxb2jh",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=turkey-vs-spain",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=113906",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=135966"
+{
+  "name": "📱💻 Spain vs Georgia",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=spain-vs-georgia",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=spain-vs-georgia",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=344370",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=135966" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Spain vs Georgia",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN2[Argentina]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports1[Greece]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ZiggoSport2[Netherlands]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport4[NewZealand]"
+  ]
+}
 
-    {
-      "name": " 💻 Turkey vs Spain ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN2[Argentina]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN1Deutschland[Germany]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports1[Greece]"
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
