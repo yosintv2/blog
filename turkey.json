@@ -5,27 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Georgia vs Turkey ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/2cd547vv",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=122774",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=308080",
-        "https://yosintv2.pages.dev/ads.html"
+{
+  "name": "📱💻 Bulgaria vs Turkey",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=bulgaria-vs-turkey",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=bulgaria-vs-turkey",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=290928",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=120778" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Bulgaria vs Turkey",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports4[Greece]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport5[NewZealand]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV6[Portugal]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DigiSport4[Romania]"
+  ]
+}
 
-    {
-      "name": " 💻 Georgia vs Turkey ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/FOXSports2[USA]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport2[NewZealand]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN1Deutschland[Germany]"
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
