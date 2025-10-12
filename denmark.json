@@ -6,27 +6,28 @@
     },
 
 {
-  "name": "📱💻 Belarus vs Denmark",
+  "name": "📱💻 Denmark vs Greece",
   "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=belarus-vs-denmark",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=denmark-vs-greece",
     "https://yosintv2.pages.dev/ads.html",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=belarus-vs-denmark",
-   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=120778",
-   "https://yosintv2.github.io/ads.html", 
-   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=536185" 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=denmark-vs-greece",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=344370",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=387694" 
   ]
 } ,
 
 {
-  "name": "💻 Belarus vs Denmark",
+  "name": "💻 Denmark vs Greece",
   "links": [
     "https://yosintv2.pages.dev/ads.html",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports3[Greece]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportSelect[NewZealand]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV4[Portugal]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport5[Serbia]"
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium1[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport1[Romania]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport2[NewZealand]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV1[Portugal]"
   ]
 }
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
