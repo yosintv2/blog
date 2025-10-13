@@ -5,28 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Switzerland vs Kosovo ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=switzerland-vs-kosovo",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=122774",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=304148",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=122774"
+{
+  "name": "📱💻 Slovenia vs Switzerland",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=slovenia-vs-switzerland",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=slovenia-vs-switzerland",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=290928",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=120778" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Slovenia vs Switzerland",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/FoxSoccerPlus[US]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports2[Greece]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport4[NewZealand]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportVariety2[SouthAfrica]"
+  ]
+}
 
-    {
-      "name": " 💻 Switzerland vs Kosovo ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportSelect[NewZealand]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports4[Greece]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica]"
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
