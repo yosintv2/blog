@@ -6,27 +6,28 @@
     },
 
 {
-  "name": "📱💻 Sweden vs Switzerland",
+  "name": "📱💻 Sweden vs Kosovo",
   "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=sweden-vs-switzerland",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=sweden-vs-kosovo",
     "https://yosintv2.pages.dev/ads.html",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=sweden-vs-switzerland",
-   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=479849",
-   "https://yosintv2.github.io/ads.html", 
-   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=472241" 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=sweden-vs-kosovo",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=525090",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=235232" 
   ]
 } ,
 
 {
-  "name": "💻 Sweden vs Switzerland",
+  "name": "💻 Sweden vs Kosovo",
   "links": [
     "https://yosintv2.pages.dev/ads.html",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN2[Argentina]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports5[Greece]",
     "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport5[NewZealand]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV3[Portugal]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport4[Romania]"
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportVariety3[SouthAfrica]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/exxpl261051"
   ]
 }
+
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
