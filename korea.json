@@ -1,27 +1,35 @@
-{"events": [
+{
+  "events": [
+    {
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
+    },
 
+{
+  "name": "📱💻 South Korea vs Paraguay ",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=239275",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=109053",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=122774",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=109053" 
+  ]
+} ,
 
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
-
-
-{ "name": " All - S.Korea vs Kuwait ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco?m=351530 "  },
-
-
-{ "name": " All - S.Korea vs Jordan ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - S.Korea vs Jordan ",       
-"link": "https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/ads/soco?m=9912015 "  }
-
-
-
+{
+  "name": "💻 South Korea vs Paraguay ",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8732737",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8732737",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8732737"
+  ]
+}
 
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
