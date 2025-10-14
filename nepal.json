@@ -5,28 +5,28 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📲|💻 Nepal vs Qatar ",
-      "links": [
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/stream?id=nepal ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/stream?id=nepal ",
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/stream?id=nepal ",
-        "https://yosintv2.pages.dev/ads.html"
+{
+  "name": "📱💻 Nepal vs Vietnam",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=113906",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=147801",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=nepal-vs-vietnam",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=nepal-vs-vietnam"
+  ]
+} ,
 
+{
+  "name": "💻 Nepal vs Vietnam",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8711897",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8711897",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8711897"
+  ]
+}
 
-      ]
-    },
-
-    {
-      "name": " 💻 Nepal vs Qatar ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-       "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex8794612",
-       "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex8794612",
-       "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex8794612"
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
