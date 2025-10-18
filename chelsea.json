@@ -5,28 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Chelsea vs Liverpool ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://yosintv.github.io/player/1m.html?url=https://storage.googleapis.com/zxcvbunixetrong1/mux_video_ts/index-1.m3u8 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/sc?id=1 ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=113906 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=118206 "
+{
+  "name": "📱💻 Nottingham  vs Chelsea",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=nottingham-forest-vs-chelsea",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=nottingham-forest-vs-chelsea",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=113906",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=118206" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Nottingham vs Chelsea",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/USANetwork[USA]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium1[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN1[Spain]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DiemaSport2[Bulgaria]"
+  ]
+}
 
-    {
-      "name": " 💻 Chelsea vs Liverpool ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=chelsea-vs-liverpool ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportsMainEvent[UK] ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportsPremierLeague[UK] "
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
