@@ -5,28 +5,28 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Zawraa vs Al Nassr ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/bty?m=6MvXc3qB3ViWbNK6Zm ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=zawra-vs-al-nassr ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=122774 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=144861 "
+{
+  "name": "📱💻 Al Nassr vs Al Fateh",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=al-nassr-vs-al-fateh",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=al-nassr-vs-al-fateh",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=122774",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=344370" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Al Nassr vs Al Fateh",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/FoxSoccerPlus[US]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/exxpl230237",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/exxpl230239"
+  ]
+}
 
-    {
-      "name": " 💻 Zawraa vs Al Nassr ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8459854 ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8459854 ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8459854 "
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
