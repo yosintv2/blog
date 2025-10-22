@@ -5,28 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Marseille vs Lorient ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=marseille-vs-lorient",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=106737",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=283501",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=527384"
+{
+  "name": "📱💻 Sporting CP vs Marseille",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=512649",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=sporting-cp-u19-vs-marseille-u19",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=512649",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=459401" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Sporting vs Marseille",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport5[Greece]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV5[Portugal]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport2[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportVariety2[SouthAfrica]"
+  ]
+}
 
-    {
-      "name": " 💻 Marseille vs Lorient ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/beINSPORTSUSA[USA]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV3[Portugal]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8196126"
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
