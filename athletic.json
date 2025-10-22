@@ -1,38 +1,36 @@
-{ "events": [
+{
+  "events": [
+    {
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
+    },
 
+{
+  "name": "📱💻 Athletic vs Qarabag",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=athletic-club-vs-fk-qarabag",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=athletic-club-vs-fk-qarabag",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=387694",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=351530" 
+  ]
+} ,
 
- { "name": "Smooth 1 - Real Betis vs Athletic ",    
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv2.github.io/tv/midd.html?mid=4140372 "  },
-
-
- { "name": "Smooth 2 - Real Betis vs Athletic ",    
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " Link 1 - Real Betis vs Athletic ",      
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/24510 "  },
-
-
-{ "name": "  Link 2 - Real Betis vs Athletic ",   
-"link": " https://yosintv2.github.io/ads/foot.html?url=https://go.xib.cc/live/11500 "  },
-
-
- { "name": "Link 3 - Real Betis vs Athletic ",      
- "link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": "PC/Laptop - Real Betis vs Athletic ",      
-"link": " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ArenaSport2[Serbia] "  },
-
-
-{ "name": "PC/Laptop - Real Betis vs Athletic ",      
-"link": " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/LaLigaTV[UK] "  }
-
-
+{
+  "name": "💻 Athletic Bilbao vs Qarabag",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSports4[UK]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport2[Greece]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ZiggoSport3[Netherlands]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport1[Romania]"
+  ]
+}
 
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
