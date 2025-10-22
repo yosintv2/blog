@@ -5,28 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Frankfurt vs Bayern ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/sc?id=3 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=eintracht-frankfurt-vs-bayern-munich ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=122774 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=250874 "
+{
+  "name": "📱💻 Bayern vs Brugge ",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/sc?id=7 ",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=bayern-u19-vs-club-brugge-u19",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=290928",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=525090" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Bayern vs Club Brugge ",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport7[Greece]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DigiSport4[Romania]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport3[Romania]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CBSSportsNetwork[USA]"
+  ]
+}
 
-    {
-      "name": " 💻 Frankfurt vs Bayern ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=eintracht-frankfurt-vs-bayern-munich ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia] ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DigiSport4[Romania] "
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
