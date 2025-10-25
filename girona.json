@@ -1,29 +1,36 @@
 {
   "events": [
     {
-      "name": " Join YoSinTV Telegram Channel ",
-      "link": "https://t.me/abclive"
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
     },
-    {
-      "name": " Girona vs Rayo Vallecano ",
-      "links": [
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=84 ",
-        " https://yosintv2.pages.dev/ads.html",
+{
+  "name": "📱💻 Girona vs Real Oviedo",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=girona-vs-real-oviedo",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=girona-vs-real-oviedo",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=531989",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=187579" 
+  ]
+} ,
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=415 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/back?id=276 ",
-        " https://yosintv2.pages.dev/ads.html",
+{
+  "name": "💻 Girona vs Real Oviedo",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPNDeportes[USA]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium3[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DigiSport2[Romania]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina]"
+  ]
+}
 
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=351530 ",
-        " https://yosintv2.github.io/ads/foot.html?url=https://abclive.pages.dev/ak?m=434982 ",
-        " https://yosintv2.pages.dev/ads.html"
-      
-      ]
-    }
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
