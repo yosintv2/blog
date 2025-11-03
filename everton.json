@@ -5,28 +5,28 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Everton vs Crystal ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/sc?id=2 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=everton-vs-crystal-palace ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=334434 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=532999 "
+{
+  "name": "📱💻 Sunderland vs Everton",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/admin?mid=ppv-sunderland-vs-everton",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=291277",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=484845" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Sunderland vs Everton",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/USANetwork[USA]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportsPremierLeague[UK]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportsMainEvent[UK]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN2[Argentina]"
+  ]
+}
 
-    {
-      "name": " 💻 Everton vs Crystal ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=everton-vs-crystal-palace ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySportsPremierLeague[UK] ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport6[Germany] "
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
