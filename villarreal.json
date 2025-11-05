@@ -5,28 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Villarreal vs Athletic ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/stw?m=6 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=villarreal-vs-athletic-club ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=285067 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=235232 "
+{
+  "name": "📱💻 Pafos  vs Villarreal ",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=513394",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=132343",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=513394",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=132343" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Pafos vs Villarreal",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/TNTSports3[UK]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN2Deutschland[Germany]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport2[Greece]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ZiggoSport3[Netherlands]"
+  ]
+}
 
-    {
-      "name": " 💻 Villarreal vs Athletic ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=villarreal-vs-athletic-club ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPNDeportes[USA] ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium3[Serbia] "
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
