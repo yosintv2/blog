@@ -5,28 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Bournemouth vs Brighton ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/sc?id=2 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=afc-bournemouth-vs-brighton-hove-albion ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=387694 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=494201 "
+{
+  "name": "📱💻 Crystal vs Brighton ",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/admin?mid=ppv-crystal-palace-vs-brighton-and-hove-albion ",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/admin?mid=ppv-crystal-palace-vs-brighton-and-hove-albion ",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=187579",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=344370" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Crystal vs Brighton ",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport4[NewZealand]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport6[Germany]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8424116"
+  ]
+}
 
-    {
-      "name": " 💻 Bournemouth vs Brighton ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport7[Serbia] ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports6[Greece] ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport7[NewZealand] "
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
