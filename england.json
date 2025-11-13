@@ -5,30 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📲|💻 Australia vs India ",
-      "links": [
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/stream?id=tnt3 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/plyrr?id=Fox ",
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/stream?id=willow",
-        "https://yosintv2.pages.dev/ads.html"
-
-
-      ]
-    },
+{
+  "name": "📱💻 England vs Serbia",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/admin?mid=ppv-england-vs-serbia ",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/admin?mid=ppv-england-vs-serbia ",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=511367",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=387694" 
+  ]
+} ,
 
 {
-  "name": "💻 Australia vs India",
+  "name": "💻 England vs Serbia",
   "links": [
     "https://yosintv2.pages.dev/ads.html",
-    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/TNTSports3[UK]",
-    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/TNTSports3[UK]",
-    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/TNTSports3[UK]"
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport4[NewZealand]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV3[Portugal]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/PrimaSport3[Romania]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia]"
   ]
 }
 
-    
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
