@@ -5,28 +5,29 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Club Brugge vs Monaco ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/stream?id=sports5 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/su?m=club-brugge-vs-as-monaco ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=132343 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=414317 "
+{
+  "name": "Pafos vs Monaco",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=484845",
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=pafos-vs-as-monaco",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=484845",
+    "https://yosintv2.github.io/ads.html", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=187579" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Paphos vs Monaco",
+  "links": [
+    "https://yosintv2.pages.dev/ads.html",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport3[Greece]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DigiSport1[Romania]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/OkkoSport[Russia]"
+  ]
+}
 
-    {
-      "name": " 💻 Club Brugge vs Monaco ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=club-brugge-vs-as-monaco ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium1[Serbia] ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport6[Greece] "
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
