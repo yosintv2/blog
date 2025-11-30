@@ -97,12 +97,6 @@
     </div>
   </div>
 
-  <script type='text/javascript'>
-    $(document).ready(function() {
-      $('#close-fixedban').click(function() { $('#fixedban').hide(90); });
-    });
-  </script>
-
   <div style="position:fixed;top:0;left:0;width:100%;height:1px;overflow:hidden;visibility:hidden;z-index:9999;">
     <script id="_wauxdl">var _wau = _wau || []; _wau.push(["dynamic", "2rzlwew51p", "xdl", "c4302bffffff", "small"]);</script>
     <script async src="//waust.at/d.js"></script>
@@ -113,6 +107,13 @@
   
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <!-- FIX: Moved ad close script here to ensure it runs AFTER jQuery is loaded. -->
+  <script type='text/javascript'>
+    $(document).ready(function() {
+      $('#close-fixedban').click(function() { $('#fixedban').hide(90); });
+    });
+  </script>
 
   <script>
   document.addEventListener('DOMContentLoaded', () => {
