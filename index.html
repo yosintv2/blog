@@ -43,11 +43,15 @@
         <!-- Match Name -->
         <h3 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900" id="match-name"></h3>
 
-        <!-- Match Date/Time - Now used for prominent time display -->
-        <p class="text-base sm:text-lg font-semibold text-blue-600 mb-4" id="match-date-time"></p>
+        <!-- Match Date/Time - Uses text-sm/text-base and mb-2 for smaller display -->
+        <p class="text-sm sm:text-base font-semibold text-blue-600 mb-2" id="match-date-time"></p>
 
         <p>● Watch the live of this match in HD Quality, Scroll down to check out every link for Smooth Live Stream of this match.</p>
         <p>● Predicted lineups are available for the match a few days in advance while the actual lineup will be available about an hour ahead of the match.</p>
+        
+        <!-- Lineup Image Placeholder (Added in the last step) -->
+        <div id="lineup-image-container" class="my-4"></div> 
+        <!-- End Lineup Image Placeholder -->
 
         <div class="adspos">
           <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5525538810839147" data-ad-slot="4345862479" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -205,7 +209,7 @@
           return;
         }
 
-        const { team1, team2, start, duration, details_url } = match;
+        const { team1, team2, start, duration, details_url, lineup_image_url } = match; // <-- Extracted lineup_image_url
         const matchName = `${team1.trim()} vs ${team2.trim()}`;
         const startTimeFull = formatTime(start, 'full');
         
@@ -219,10 +223,27 @@
         // Display Match Name
         document.getElementById('match-name').textContent = `${matchName} - Live Details`;
 
-        // --- START: ADD PROMINENT MATCH TIME (Label changed to "Match Time") ---
+        // --- START: ADD PROMINENT MATCH TIME ---
         document.getElementById('match-date-time').textContent = `Match Time: ${startTimeFull}`;
         // --- END: ADD PROMINENT MATCH TIME ---
         
+        // --- START: Lineup Image Logic ---
+        const lineupImageContainer = document.getElementById('lineup-image-container');
+        if (lineup_image_url) {
+          lineupImageContainer.innerHTML = `
+            <div class="bg-gray-50 p-3 rounded-lg shadow-sm border border-gray-200">
+              <p class="text-center text-sm text-gray-700 font-semibold mb-2">Predicted Lineup/Preview Image</p>
+              <img src="${lineup_image_url}" 
+                   alt="${matchName} Lineup Preview" 
+                   class="w-full h-auto object-cover rounded-md border border-gray-300"
+                   onerror="this.onerror=null; this.src='https://placehold.co/600x400/ccc/000?text=Lineup+Image+Not+Available';" />
+            </div>
+          `;
+        } else {
+            // Clear container if no URL is provided
+            lineupImageContainer.innerHTML = '';
+        }
+        // --- END: Lineup Image Logic ---
 
         // Load real stream JSON
         const streamUrl = `https://blog.cricfoot.net/${slug}.json`;
@@ -247,7 +268,7 @@
               a.style.cssText = baseStyle;
               a.onmouseover = () => a.style.cssText = baseStyle + hoverStyle;
               a.onmouseout = () => a.style.cssText = baseStyle;
-              a.innerHTML = `${event.name.replace(matchName)} - Link ${i+1}`;
+              a.innerHTML = `${event.name.replace(/India vs SA|IND vs SA/g, matchName)} - Link ${i+1}`;
               liveContainer.appendChild(a);
             });
           });
@@ -285,7 +306,7 @@
             const h = Math.floor(diff/3600000);
             const m = String(Math.floor((diff%3600000)/60000)).padStart(2,'0');
             const s = String(Math.floor((diff%60000)/1000)).padStart(2,'0');
-            progText.textContent = `Match Playing Time: ${h}:${m}:${s} / ${duration}:00 hours`;
+            progText.textContent = `Match Playing Time: ${h}:${m}:${s} / ${duration}:00`;
             progBar.className = 'h-6 rounded-full bg-red-600 text-white text-center font-bold';
             progBar.style.width = perc + '%';
           }
