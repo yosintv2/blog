@@ -40,15 +40,20 @@
   <main class="container mx-auto max-w-4xl px-4 py-8">
     <section class="bg-white rounded-lg shadow-md p-4 sm:p-6 mb-6">
       <div class="space-y-4" id="cricket-matches">
+        <!-- Match Name -->
         <h3 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900" id="match-name"></h3>
-        <p class="text-sm font-bold text-blue-600" id="match-date-time"></p>
-        <div id="match-table-container"></div>
+
+        <!-- Match Date/Time - Now used for prominent time display -->
+        <p class="text-base sm:text-lg font-semibold text-blue-600 mb-4" id="match-date-time"></p>
+
         <p>● Watch the live of this match in HD Quality, Scroll down to check out every link for Smooth Live Stream of this match.</p>
         <p>● Predicted lineups are available for the match a few days in advance while the actual lineup will be available about an hour ahead of the match.</p>
+
         <div class="adspos">
           <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5525538810839147" data-ad-slot="4345862479" data-ad-format="auto" data-full-width-responsive="true"></ins>
           <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
+
         <div id="live-tracker"></div>
         <p>● If the first link stops working, freezes, or won’t open, try the second or third link to keep watching without trouble.</p>
         <div id="live-container"></div>
@@ -81,8 +86,6 @@
       <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
   </div>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
   <div id='fixedban' class='fixed bottom-0 left-1/2 -translate-x-1/2 z-[999]'>
     <div class='relative w-[300px] h-[250px] bg-white rounded-lg shadow-xl border border-gray-200'>
@@ -93,6 +96,7 @@
       </div>
     </div>
   </div>
+
   <script type='text/javascript'>
     $(document).ready(function() {
       $('#close-fixedban').click(function() { $('#fixedban').hide(90); });
@@ -106,25 +110,36 @@
     <script type="text/javascript">sc_online_i(1703308,"ffffff","e61c1c");</script>
     <br><noscript><a href="https://www.supercounters.com/">free online counter</a></noscript>
   </div>
+  
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
   <script>
   document.addEventListener('DOMContentLoaded', () => {
     setTimeout(() => {
       requestAnimationFrame(async () => {
-
         const normalize = s => s.toString().toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/&/g,'and').replace(/[^a-z0-9]/g,'');
-        
-        // --- formatTime FUNCTION (Unchanged) ---
+
+        // --- formatTime FUNCTION (MODIFIED for 'full' type) ---
         const formatTime = (iso, type) => {
           try {
             const d = new Date(iso);
-            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true };
-
-            if (type === 'full') {
-              return d.toLocaleString(undefined, options);
-            }
             
-            // Format for table
+            if (type === 'full') {
+              // Options to show Month, Day, Year, and Time, but exclude Weekday and Timezone Name
+              const options = { 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric', 
+                hour: '2-digit', 
+                minute: '2-digit', 
+                second: '2-digit', 
+                hour12: true 
+              };
+              return d.toLocaleString(undefined, options);
+            }                        
+            
+            // Format for table (left for utility but table is removed)
             return {
                 day: d.toLocaleString(undefined, { weekday: 'long' }),
                 date: d.toLocaleString(undefined, { year: 'numeric', month: 'long', day: 'numeric' }),
@@ -132,7 +147,7 @@
             };
 
           } catch(e) { 
-            return type === 'full' ? 'Invalid Time' : { day: 'N/A', date: 'N/A', time: 'N/A' };
+             return type === 'full' ? 'Invalid Time' : { day: 'N/A', date: 'N/A', time: 'N/A' };
           }
         };
         // ------------------------------------
@@ -159,21 +174,21 @@
             const res = await fetch(api);
             if (!res.ok) continue;
             const json = await res.json();
-            
+
             // Search Logic
             const foundMatch = (json.matches || []).find(m => {
               const fullMatchName = normalize(m.team1 + 'vs' + m.team2);
               const team1Name = normalize(m.team1);
               const team2Name = normalize(m.team2);
-              
+
               const isDetailsUrlMatch = m.details_url && normalize(m.details_url).includes(`yosintv${searchKey}`);
 
-              return fullMatchName.includes(searchKey) || 
-                     team1Name.includes(searchKey) || 
-                     team2Name.includes(searchKey) ||
+              return fullMatchName.includes(searchKey) ||
+                      team1Name.includes(searchKey) ||
+                      team2Name.includes(searchKey) ||
                      isDetailsUrlMatch;
             });
-            
+
             if (foundMatch) {
               match = foundMatch;
               category = api.includes('cricket') ? 'Cricket' : 'Football'; // Determine category
@@ -192,9 +207,7 @@
         const { team1, team2, start, duration, details_url } = match;
         const matchName = `${team1.trim()} vs ${team2.trim()}`;
         const startTimeFull = formatTime(start, 'full');
-        const startTimeParts = formatTime(start);
-
-
+        
         // SEO
         document.title = `YoSinTV - ${matchName} Live Stream`;
         document.getElementById('meta-description').content = `Watch ${matchName} live stream on YoSinTV`;
@@ -203,56 +216,12 @@
         document.getElementById('canonical-url').href = location.href;
 
         // Display Match Name
-        const matchNameElement = document.getElementById('match-name');
-        matchNameElement.textContent = `${matchName} - Live Details`;
+        document.getElementById('match-name').textContent = `${matchName} - Live Details`;
+
+        // --- START: ADD PROMINENT MATCH TIME (Label changed to "Match Time") ---
+        document.getElementById('match-date-time').textContent = `Match Time: ${startTimeFull}`;
+        // --- END: ADD PROMINENT MATCH TIME ---
         
-        // --- CHANGE: REMOVE REDUNDANT MATCH TIME LINE ---
-        document.getElementById('match-date-time').textContent = ''; 
-        // --- CHANGE: REMOVE REDUNDANT MATCH TIME LINE ---
-
-
-        // Match Details Table Generation (Unchanged)
-        const tableHTML = `
-          <div class="overflow-x-auto my-4">
-            <table class="min-w-full bg-gray-50 border border-gray-200 rounded-lg shadow-sm">
-              <thead class="bg-gray-200">
-                <tr>
-                  <th class="px-3 py-2 text-left text-sm font-semibold text-gray-700 uppercase tracking-wider border-b">Detail</th>
-                  <th class="px-3 py-2 text-left text-sm font-semibold text-gray-700 uppercase tracking-wider border-b">Value</th>
-                </tr>
-              </thead>
-              <tbody class="divide-y divide-gray-200">
-                <tr class="bg-white">
-                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Match Name</td>
-                  <td class="px-3 py-2 text-sm text-gray-700">${matchName}</td>
-                </tr>
-                <tr class="bg-gray-50">
-                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Category</td>
-                  <td class="px-3 py-2 text-sm text-gray-700">${category}</td>
-                </tr>
-                <tr class="bg-white">
-                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Day</td>
-                  <td class="px-3 py-2 text-sm text-gray-700">${startTimeParts.day}</td>
-                </tr>
-                <tr class="bg-gray-50">
-                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Date</td>
-                  <td class="px-3 py-2 text-sm text-gray-700">${startTimeParts.date}</td>
-                </tr>
-                <tr class="bg-white">
-                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Time (Local)</td>
-                  <td class="px-3 py-2 text-sm text-gray-700">${startTimeParts.time}</td>
-                </tr>
-                <tr class="bg-gray-50">
-                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Expected Duration</td>
-                  <td class="px-3 py-2 text-sm text-gray-700">${duration} Hours</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        `;
-        document.getElementById('match-table-container').innerHTML = tableHTML;
-        // --- END: Match Details Table Generation ---
-
 
         // Load real stream JSON
         const streamUrl = `https://blog.cricfoot.net/${slug}.json`;
@@ -301,6 +270,7 @@
           const startMs = new Date(start).getTime();
           const endMs = startMs + duration * 3600000;
           const diff = now - startMs;
+
           if (diff < 0) {
             const m = Math.abs(Math.floor(diff / 60000));
             progText.textContent = `Starts in: ${Math.floor(m/60)}h ${m%60}m`;
@@ -319,14 +289,15 @@
             progBar.style.width = perc + '%';
           }
         };
+
         updateProgress();
         setInterval(updateProgress, 1000);
 
-        // FULL ORIGINAL FAQ (time display kept inside FAQ for context)
+        // FULL ORIGINAL FAQ (time display updated to use startTimeFull)
         const faqHTML = `
           <div class="space-y-4 text-left overflow-visible break-words">
             <h3 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900">${matchName} - Match Details</h3>
-            
+
             <h3 class="text-2xl font-bold border-b-2 border-gray-200 pb-2 text-gray-900">Frequently Asked Questions</h3>
             <div class="space-y-4">
               <div class="bg-gray-50 p-4 rounded-lg">
@@ -372,14 +343,14 @@
         }
         const others = allMatches.filter(m => normalize(m.team1 + m.team2) !== normalize(team1 + team2))
                                  .sort(() => 0.5 - Math.random()).slice(0,6);
+
         if (others.length === 0) {
           document.getElementById('no-matches').classList.remove('hidden');
         } else {
           others.forEach(m => {
             // Determine the slug for the 'More Matches' link
             let otherMatchSlug;
-            
-            if (m.details_url) {
+                        if (m.details_url) {
                 try {
                   const matchUrlParams = new URLSearchParams(m.details_url.split('?')[1]);
                   otherMatchSlug = matchUrlParams.get('yosintv');
@@ -401,7 +372,6 @@
             more.appendChild(card);
           });
         }
-
       });
     }, 0);
   });
