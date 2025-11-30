@@ -18,8 +18,6 @@
 </head>
 <body class="bg-gray-100 font-sans text-gray-900">
   <div id="fb-root"></div>
-
-  <!-- Header -->
   <header class="bg-white shadow-sm">
     <div class="container mx-auto max-w-4xl px-4 py-4 flex items-center justify-between">
       <div class="flex items-center">
@@ -31,7 +29,6 @@
     </div>
   </header>
 
-  <!-- Ads -->
   <div class="container mx-auto max-w-4xl px-4 py-4">
     <div class="adspos">
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -40,12 +37,12 @@
     </div>
   </div>
 
-  <!-- Main Content -->
   <main class="container mx-auto max-w-4xl px-4 py-8">
     <section class="bg-white rounded-lg shadow-md p-4 sm:p-6 mb-6">
       <div class="space-y-4" id="cricket-matches">
         <h3 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900" id="match-name"></h3>
         <p class="text-sm font-bold text-blue-600" id="match-date-time"></p>
+        <div id="match-table-container"></div>
         <p>Watch the live of this match in HD Quality, Scroll down to check out every link for Smooth Live Stream of this match.</p>
         <p>Predicted lineups are available for the match a few days in advance while the actual lineup will be available about an hour ahead of the match.</p>
         <div class="adspos">
@@ -70,7 +67,6 @@
     </section>
   </main>
 
-  <!-- Footer -->
   <footer class="bg-white shadow-inner py-6 mt-8">
     <div class="container mx-auto max-w-4xl px-4">
       <ul class="flex flex-wrap justify-center space-x-4">
@@ -79,7 +75,6 @@
     </div>
   </footer>
 
-  <!-- Ads -->
   <div class="container mx-auto max-w-4xl px-4 py-4">
     <div class="adspos">
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147" crossorigin="anonymous"></script>
@@ -87,7 +82,6 @@
       <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
   </div>
-
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
@@ -100,14 +94,12 @@
       </div>
     </div>
   </div>
-
   <script type='text/javascript'>
     $(document).ready(function() {
       $('#close-fixedban').click(function() { $('#fixedban').hide(90); });
     });
   </script>
 
-  <!-- BEGIN: Powered by Supercounters.com -->
   <div style="position:fixed;top:0;left:0;width:100%;height:1px;overflow:hidden;visibility:hidden;z-index:9999;">
     <script id="_wauxdl">var _wau = _wau || []; _wau.push(["dynamic", "2rzlwew51p", "xdl", "c4302bffffff", "small"]);</script>
     <script async src="//waust.at/d.js"></script>
@@ -116,20 +108,35 @@
     <br><noscript><a href="https://www.supercounters.com/">free online counter</a></noscript>
   </div>
 
-  <!-- FINAL WORKING SCRIPT - FULL ORIGINAL FAQ + REAL STREAMS + "Team vs Team - Link 1" -->
   <script>
   document.addEventListener('DOMContentLoaded', () => {
     setTimeout(() => {
       requestAnimationFrame(async () => {
 
         const normalize = s => s.toString().toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/&/g,'and').replace(/[^a-z0-9]/g,'');
-
-        const formatTime = iso => {
+        
+        // --- formatTime FUNCTION (Unchanged) ---
+        const formatTime = (iso, type) => {
           try {
             const d = new Date(iso);
-            return d.toLocaleString(undefined, {weekday:'long', year:'numeric', month:'long', day:'numeric', hour:'2-digit', minute:'2-digit', hour12:true});
-          } catch(e) { return 'Invalid Time'; }
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true };
+
+            if (type === 'full') {
+              return d.toLocaleString(undefined, options);
+            }
+            
+            // Format for table
+            return {
+                day: d.toLocaleString(undefined, { weekday: 'long' }),
+                date: d.toLocaleString(undefined, { year: 'numeric', month: 'long', day: 'numeric' }),
+                time: d.toLocaleString(undefined, { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true })
+            };
+
+          } catch(e) { 
+            return type === 'full' ? 'Invalid Time' : { day: 'N/A', date: 'N/A', time: 'N/A' };
+          }
         };
+        // ------------------------------------
 
         const mainApis = [
           'https://www.yosintv.link/api/cricket.json',
@@ -146,14 +153,34 @@
 
         const searchKey = normalize(slug);
         let match = null;
+        let category = 'Unknown'; // Initialize category
 
         for (const api of mainApis) {
           try {
             const res = await fetch(api);
             if (!res.ok) continue;
             const json = await res.json();
-            match = (json.matches || []).find(m => normalize(m.team1 + 'vs' + m.team2).includes(searchKey));
-            if (match) break;
+            
+            // Search Logic
+            const foundMatch = (json.matches || []).find(m => {
+              const fullMatchName = normalize(m.team1 + 'vs' + m.team2);
+              const team1Name = normalize(m.team1);
+              const team2Name = normalize(m.team2);
+              
+              const isDetailsUrlMatch = m.details_url && normalize(m.details_url).includes(`yosintv${searchKey}`);
+
+              return fullMatchName.includes(searchKey) || 
+                     team1Name.includes(searchKey) || 
+                     team2Name.includes(searchKey) ||
+                     isDetailsUrlMatch;
+            });
+            
+            if (foundMatch) {
+              match = foundMatch;
+              category = api.includes('cricket') ? 'Cricket' : 'Football'; // Determine category
+              break;
+            }
+
           } catch(e) {}
         }
 
@@ -163,9 +190,11 @@
           return;
         }
 
-        const { team1, team2, team1_logo, team2_logo, start, duration } = match;
+        const { team1, team2, start, duration, details_url } = match;
         const matchName = `${team1.trim()} vs ${team2.trim()}`;
-        const startTime = formatTime(start);
+        const startTimeFull = formatTime(start, 'full');
+        const startTimeParts = formatTime(start);
+
 
         // SEO
         document.title = `YoSinTV - ${matchName} Live Stream`;
@@ -174,12 +203,57 @@
         document.getElementById('og-url').content = location.href;
         document.getElementById('canonical-url').href = location.href;
 
-// Find this block in your script (around line ~140):
-// document.getElementById('match-name').innerHTML = `...logos...`;
+        // Display Match Name
+        const matchNameElement = document.getElementById('match-name');
+        matchNameElement.textContent = `${matchName} - Live Details`;
+        
+        // --- CHANGE: REMOVE REDUNDANT MATCH TIME LINE ---
+        document.getElementById('match-date-time').textContent = ''; 
+        // --- CHANGE: REMOVE REDUNDANT MATCH TIME LINE ---
 
-// REPLACE IT WITH THESE TWO LINES ONLY:
-const matchNameElement = document.getElementById('match-name');
-matchNameElement.textContent = `${team1.trim()} vs ${team2.trim()} - Live Details`;
+
+        // Match Details Table Generation (Unchanged)
+        const tableHTML = `
+          <div class="overflow-x-auto my-4">
+            <table class="min-w-full bg-gray-50 border border-gray-200 rounded-lg shadow-sm">
+              <thead class="bg-gray-200">
+                <tr>
+                  <th class="px-3 py-2 text-left text-sm font-semibold text-gray-700 uppercase tracking-wider border-b">Detail</th>
+                  <th class="px-3 py-2 text-left text-sm font-semibold text-gray-700 uppercase tracking-wider border-b">Value</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-gray-200">
+                <tr class="bg-white">
+                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Match Name</td>
+                  <td class="px-3 py-2 text-sm text-gray-700">${matchName}</td>
+                </tr>
+                <tr class="bg-gray-50">
+                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Category</td>
+                  <td class="px-3 py-2 text-sm text-gray-700">${category}</td>
+                </tr>
+                <tr class="bg-white">
+                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Day</td>
+                  <td class="px-3 py-2 text-sm text-gray-700">${startTimeParts.day}</td>
+                </tr>
+                <tr class="bg-gray-50">
+                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Date</td>
+                  <td class="px-3 py-2 text-sm text-gray-700">${startTimeParts.date}</td>
+                </tr>
+                <tr class="bg-white">
+                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Time (Local)</td>
+                  <td class="px-3 py-2 text-sm text-gray-700">${startTimeParts.time}</td>
+                </tr>
+                <tr class="bg-gray-50">
+                  <td class="px-3 py-2 whitespace-nowrap text-sm font-medium text-gray-900">Expected Duration</td>
+                  <td class="px-3 py-2 text-sm text-gray-700">${duration} Hours</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        `;
+        document.getElementById('match-table-container').innerHTML = tableHTML;
+        // --- END: Match Details Table Generation ---
+
 
         // Load real stream JSON
         const streamUrl = `https://blog.cricfoot.net/${slug}.json`;
@@ -212,7 +286,7 @@ matchNameElement.textContent = `${team1.trim()} vs ${team2.trim()} - Live Detail
           liveContainer.innerHTML = '<p class="text-center text-orange-600 font-bold">Stream links loading soon...</p>';
         }
 
-        // Progress bar (exact same as original)
+        // Progress bar (code unchanged)
         const progContainer = document.createElement('div');
         progContainer.className = 'w-full bg-gray-200 rounded-full h-6 mb-4';
         const progBar = document.createElement('div');
@@ -249,11 +323,11 @@ matchNameElement.textContent = `${team1.trim()} vs ${team2.trim()} - Live Detail
         updateProgress();
         setInterval(updateProgress, 1000);
 
-        // FULL ORIGINAL FAQ
+        // FULL ORIGINAL FAQ (time display kept inside FAQ for context)
         const faqHTML = `
           <div class="space-y-4 text-left overflow-visible break-words">
             <h3 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900">${matchName} - Match Details</h3>
-            <p class="text-sm text-gray-600">Match Time: ${startTime}</p>
+            
             <h3 class="text-2xl font-bold border-b-2 border-gray-200 pb-2 text-gray-900">Frequently Asked Questions</h3>
             <div class="space-y-4">
               <div class="bg-gray-50 p-4 rounded-lg">
@@ -262,7 +336,7 @@ matchNameElement.textContent = `${team1.trim()} vs ${team2.trim()} - Live Detail
               </div>
               <div class="bg-gray-50 p-4 rounded-lg">
                 <h4 class="text-lg font-semibold text-gray-900 break-words">When is the ${matchName} match happening?</h4>
-                <p class="text-gray-600 break-words">The match starts at ${startTime}. Check official sources for venue details.</p>
+                <p class="text-gray-600 break-words">The match starts at ${startTimeFull}. Check official sources for venue details.</p>
               </div>
               <div class="bg-gray-50 p-4 rounded-lg">
                 <h4 class="text-lg font-semibold text-gray-900 break-words">How long will the ${matchName} match last?</h4>
@@ -285,7 +359,7 @@ matchNameElement.textContent = `${team1.trim()} vs ${team2.trim()} - Live Detail
         `;
         document.getElementById('match-info').innerHTML = faqHTML;
 
-        // More Matches (same style as original)
+        // More Matches (code unchanged)
         const more = document.getElementById('more-matches');
         const allMatches = [];
         for (const api of mainApis) {
@@ -303,8 +377,24 @@ matchNameElement.textContent = `${team1.trim()} vs ${team2.trim()} - Live Detail
           document.getElementById('no-matches').classList.remove('hidden');
         } else {
           others.forEach(m => {
+            // Determine the slug for the 'More Matches' link
+            let otherMatchSlug;
+            
+            if (m.details_url) {
+                try {
+                  const matchUrlParams = new URLSearchParams(m.details_url.split('?')[1]);
+                  otherMatchSlug = matchUrlParams.get('yosintv');
+                } catch(e) {
+                  otherMatchSlug = normalize(m.team1 + 'vs' + m.team2).replace(/vs/g,'');
+                }
+            } else {
+                otherMatchSlug = normalize(m.team1 + 'vs' + m.team2).replace(/vs/g,'');
+            }
+
+            if (!otherMatchSlug) return;
+
             const card = document.createElement('a');
-            card.href = `?yosintv=${normalize(m.team1 + 'vs' + m.team2).replace(/vs/g,'')}`;
+            card.href = `?yosintv=${otherMatchSlug}`;
             card.target = "_blank";
             card.className = 'bg-gray-50 p-4 rounded-lg flex justify-between items-center block hover:bg-gray-100';
             card.innerHTML = `<span class="font-medium">${m.team1} vs ${m.team2}</span>
