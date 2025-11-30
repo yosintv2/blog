@@ -247,7 +247,7 @@
               a.style.cssText = baseStyle;
               a.onmouseover = () => a.style.cssText = baseStyle + hoverStyle;
               a.onmouseout = () => a.style.cssText = baseStyle;
-              a.innerHTML = `${event.name.replace(/India vs SA|IND vs SA/g, matchName)} - Link ${i+1}`;
+              a.innerHTML = `${event.name.replace(matchName)} - Link ${i+1}`;
               liveContainer.appendChild(a);
             });
           });
