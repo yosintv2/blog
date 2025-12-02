@@ -9,10 +9,10 @@
       "name": " NPL 2 Live ",
       "links": [
         "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/stream?id=npl ",
-        "https://yosintv-api.pages.dev/ads.html",
+        "yosintv-api.pages.dev/api/ads",
         "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/stream?id=npl ",
-        "https://yosintv-api.pages.dev/ads.html",
-        "https://yosintv-api.pages.dev/ads.html"
+        "yosintv-api.pages.dev/api/ads",
+        "yosintv-api.pages.dev/api/ads"
 
       ]
     },
@@ -21,7 +21,7 @@
   "name": "💻 NPL 2 Live ",
   "links": [
     "https://yosintv2.github.io/ads/cric.html?url=https://player.kick.com/teamspjinda ",
-    "https://yosintv-api.pages.dev/ads.html",
+    "hyosintv-api.pages.dev/api/ads",
     "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/mpd/mpdtv?id=fancode ",
     "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex11389130"
   ]
