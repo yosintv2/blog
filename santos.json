@@ -5,28 +5,28 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📱💻 Santos vs São Paulo ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=santos-vs-sao-paulo ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=308080 ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=525090 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=356042 "
+{
+  "name": " Juventude vs Santos",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=372746",
+    "http://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/admin?mid=ppv-arsenal-vs-brentford ",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=372746",
+    "https://yosintv-api.pages.dev/api/ads", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=522086" 
+  ]
+} ,
 
-      ]
-    },
+{
+  "name": "💻 Juventude vs Santos",
+  "links": [
+    "http://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8634551",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8634551",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8634551"
+  ]
+}
 
-    {
-      "name": " 💻 Santos vs São Paulo ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8170194 ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://streamtp22.com/global1.php?stream=premiere1 ",
-        "https://yosintv2.github.io/ads/foot.html?url=https://streamtp22.com/global1.php?stream=premiere1 "
-      ]
-    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
