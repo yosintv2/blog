@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
+    },
+
+{
+  "name": " Burnley vs Crystal ",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=485739",
+    "http://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/admin?mid=ppv-burnley-vs-crystal-palace ",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=485739",
+    "https://yosintv-api.pages.dev/api/ads", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=321443" 
+  ]
+} ,
+
+{
+  "name": "💻 Burnley vs Crystal ",
+  "links": [
+    "http://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport3[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/NovaSports6[Greece]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport10[Germany]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SkySport5[NewZealand]"
+  ]
+}
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
