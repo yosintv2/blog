@@ -1,38 +1,34 @@
 {
   "events": [
-
-
-        {
-      "name": "Link 1 - Mallorca vs Valencia ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4140316"
+    {
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
     },
 
-    
+{
+  "name": " Real Oviedo vs Mallorca",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=283501",
+    "https://yosintv-api.pages.dev/api/ads", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=406865",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/mpd/mpdtv?id=skylaliga"
+  ]
+} ,
 
-        {
-      "name": "Link 1 - Mallorca vs Valencia ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
+{
+  "name": "💻 Real Oviedo vs Mallorca",
+  "links": [
+    "http://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPNDeportes[USA]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport4[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN2Deutschland[Germany]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/LaLigaTV[UK]"
+  ]
+}
 
-    
-
-        {
-      "name": "Link 3 - Mallorca vs Valencia ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4140316"
-    },
-
-
-
-        {
-      "name": "Link 4 - Mallorca vs Valencia ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    }
-
-
-   
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
