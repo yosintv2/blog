@@ -158,8 +158,8 @@
         // ------------------------------------
 
         const mainApis = [
-          'https://www.yosintv.link/api/cricket.json',
-          'https://www.yosintv.link/api/football.json'
+          'https://yosintv-api.pages.dev/api/cricket.json',
+          'https://yosintv-api.pages.dev/api/football.json'
         ];
 
         const urlParams = new URLSearchParams(window.location.search);
@@ -246,7 +246,7 @@
         // --- END: Lineup Image Logic ---
 
         // Load real stream JSON
-        const streamUrl = `https://blog.cricfoot.net/${slug}.json`;
+        const streamUrl = `https://yosintv-apii.pages.dev/${slug}.json`;
         let streamJson = null;
         try {
           const r = await fetch(streamUrl);
