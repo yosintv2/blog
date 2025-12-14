@@ -6,28 +6,16 @@
     },
 
 {
-  "name": " Basel vs Aston Villa",
+  "name": "West Ham vs Aston Villa",
   "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=291277",
-    "http://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://playembed.top/embed/uel/2025-12-11/bsl-avl", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=291277",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/play7?m=4316056 ",
+    "https://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://playembed.top/embed/epl/2025-12-14/whu-avl",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=472241",
     "https://yosintv-api.pages.dev/api/ads", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=387694" 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=380460" 
   ]
-} ,
-
-{
-  "name": "💻 Basel vs Aston Villa",
-  "links": [
-    "http://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport7[Serbia]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport7[Greece]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DigiSport3[Romania]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina]"
-  ]
-}
-
+} 
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
