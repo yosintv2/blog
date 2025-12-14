@@ -1,62 +1,37 @@
 {
   "events": [
-
-
-    
     {
-      "name": "Smooth 1 - BBL Live ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha.html?mid=big-bash-league-final-hobart-hurricanes-vs-sydney-thunder"
+      "name": "Join YoSinTV Telegram Channel",
+      "link": "https://t.me/yosintvlive"
     },
-
-
-    
-    {
-      "name": "Smooth 2 - BBL Live ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-
-
-    
-    {
-      "name": "Link 1 - BBL Live",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySport1[NewZealand]"
-    },
-
-
-    
-    {
-      "name": "Link 2 - BBL Live ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-
-
 
     {
-      "name": "Link 3 - BBL Live ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/Fox501[Australia]"
+      "name": " BBL Live ",
+      "links": [
+        "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/mpd?id=willow",
+        "https://yosintv2.pages.dev/ads.html",
+        "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/mpd?id=willow",
+        "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/mpd?id=willow",
+        "https://yosintv2.pages.dev/ads.html"
+
+
+      ]
     },
 
-
-
-        {
-      "name": "Link 4 - BBL Live ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/Fox501[Australia]"
-    },
-
-
-
-        {
-      "name": "Link 5 - BBL Live ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/Fox501[Australia]"
-    }
-
-
-
+{
+  "name": "💻 BBL Live ",
+  "links": [
+    "http://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK]",
+    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK]",
+    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK]"
+  ]
+}
 
 
   ],
   "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
