@@ -6,31 +6,31 @@
     },
 
 {
-  "name": "Rayo Vallecano vs Valencia",
+  "name": "Valencia vs. Mallorca",
   "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=547345",
-    "https://yosintv2.pages.dev/ads.html",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/mpd/mpdtv?id=skylaliga ",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=547345",
-    "https://yosintv2.github.io/ads.html", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=109053" 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/play7c?m=4317408 ",
+    "https://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/play7?m=4317408 ",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=336303",
+    "https://yosintv-api.pages.dev/api/ads", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=283501" 
   ]
-}
-    ,
+} ,
 
 {
-  "name": "💻 Rayo Vallecano vs Valencia",
+  "name": "💻 Valencia vs Mallorca",
   "links": [
-    "https://yosintv2.pages.dev/ads.html",
+    "http://yosintv-api.pages.dev/api/ads",
     "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPNDeportes[USA]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium1[Serbia]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DAZN1Deutschland[Germany]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DigiSport2[Romania]"
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport3[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DigiSport4[Romania]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/LaLigaTV[UK]"
   ]
 }
+
   ],
   "styles": {
-    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
