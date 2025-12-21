@@ -6,21 +6,31 @@
     },
 
 {
-  "name": "Atlético vs Baleares ",
+  "name": "Girona vs. Atlético Madrid",
   "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/play7c?m=4746200 ",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/play7c?m=______ ",
+    "https://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://pooembed.top/embed/laliga/2025-12-21/gir-atm",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=532999",
     "https://yosintv-api.pages.dev/api/ads", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/zhi?m=6ba79bff2478cbd28a8ddc62d0abcef1 ",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=235232",
-    "https://yosintv-api.pages.dev/api/ads", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=532081" 
-
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=414317" 
   ]
-} 
+} ,
+
+{
+  "name": "💻 Girona vs Atletico Madrid",
+  "links": [
+    "http://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPNDeportes[USA]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/DigiSport2[Romania]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ESPN[Argentina]"
+  ]
+}
 
   ],
   "styles": {
-    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
