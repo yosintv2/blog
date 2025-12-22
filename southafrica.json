@@ -5,34 +5,32 @@
       "link": "https://t.me/yosintvlive"
     },
 
-    {
-      "name": " 📲|💻 India W vs SAfrica W ",
-      "links": [
-        "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/dmca?url=https://live-en.aisports.cc/moviebox/device02/playlist.m3u8",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/dmca?url=https://live-en.aisports.cc/moviebox/device02/playlist.m3u8",
-        "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/dmca?url=https://live-en.aisports.cc/moviebox/device02/playlist.m3u8",
-        "https://yosintv2.pages.dev/ads.html"
-
-
-      ]
-    },
+{
+  "name": "South Africa vs. Angola",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=500605",
+    "https://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=501412",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=500605",
+    "https://yosintv-api.pages.dev/api/ads", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=501412" 
+  ]
+} ,
 
 {
-  "name": "💻 India W vs SAfrica W",
+  "name": "💻 South Africa vs Angola",
   "links": [
-    "https://yosintv2.pages.dev/ads.html",
-    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK]",
-    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsMainEvent[UK]",
-    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SuperSportCricket[SouthAfrica]",
-    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SuperSportGrandstand[SouthAfrica]"
+    "http://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/beINSPORTSUSA[USA]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV3[Portugal]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportGrandstand[SouthAfrica]"
   ]
 }
 
-
   ],
   "styles": {
-    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
