@@ -6,32 +6,31 @@
     },
 
 {
-  "name": "Egypt vs Kuwait",
+  "name": "Egypt vs. Zimbabwe",
   "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=egypt-vs-kuwait",
-    "http://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=egypt-vs-kuwait",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=387694",
-    "https://yosintv2.github.io/ads.html", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=351530" 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/play7c?m=4471404 ",
+    "https://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/play7?m=4471404 ",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=235232",
+    "https://yosintv-api.pages.dev/api/ads", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=532081" 
   ]
-} 
-,
+} ,
+
 {
-  "name": "Egypt vs Kuwait",
+  "name": "💻 Egypt vs Zimbabwe",
   "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=egypt-vs-kuwait",
     "http://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=egypt-vs-kuwait",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=387694",
-    "https://yosintv2.github.io/ads.html", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=351530" 
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/beINSPORTSUSA[USA]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaSport1[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV3[Portugal]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/Sportklub2[Serbia]"
   ]
-} 
+}
 
   ],
   "styles": {
-    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
