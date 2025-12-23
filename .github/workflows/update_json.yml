@@ -2,12 +2,11 @@ name: Auto Update JSON Files
 
 on:
   schedule:
-    # Checks every hour if it's time to update
+    # Checks every hour
     - cron: '0 * * * *'
-  # Also runs immediately if you push a change to the blog folder
   push:
-    paths:
-      - 'blog/**'
+    branches:
+      - main
   workflow_dispatch: 
 
 permissions:
@@ -20,7 +19,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Important: gets the history so we can check commit times
+          fetch-depth: 0 # Needed to read the history of your changes
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -35,7 +34,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          # This avoids an infinite loop by not committing if the bot was the last one to change things
           if git diff --staged --quiet; then
             echo "No changes to update yet."
           else
