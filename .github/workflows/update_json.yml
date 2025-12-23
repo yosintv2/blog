@@ -2,6 +2,7 @@ name: Auto Update JSON Files
 
 on:
   schedule:
+    # Runs roughly every 30 hours (Adjusted to daily for reliability)
     - cron: '0 0 */1 * *' 
   workflow_dispatch: 
 
@@ -12,46 +13,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
       - name: Run Update Script
-        shell: python
-        run: |
-          import os
-          import json
-
-          # Configuration
-          exclude_files = ["bbl.json" "ilt20.json" "drcongo.json" senegal.json" "nigeria.json" "tunisia.json" "arsenal.json"]
-          
-          # The exact JSON structure you requested
-          template_data = [
-              {
-                  "events": [
-                      {
-                          "name": "Join YoSinTV Telegram Channel",
-                          "link": "https://t.me/yosintvlive"
-                      },
-                      "___sulist___",
-                      "___topembed___"
-                  ],
-                  "styles": {
-                      "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
-                      "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-                      "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
-                  }
-              }
-          ]
-
-          # Find all .json files in the root directory
-          updated_count = 0
-          for filename in os.listdir('.'):
-              if filename.endswith('.json') and filename not in exclude_files:
-                  with open(filename, 'w') as f:
-                      json.dump(template_data, f, indent=2)
-                  print(f"Successfully updated: {filename}")
-                  updated_count += 1
-              elif filename in exclude_files:
-                  print(f"Skipped: {filename}")
-
-          print(f"Total files updated: {updated_count}")
+        run: python update_json.py
 
       - name: Commit and Push Changes
         run: |
