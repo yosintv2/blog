@@ -42,6 +42,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m " API Updated - OTUA "
+            git commit -m " Enter Match Link | Refreshed  "
             git push
           fi
