@@ -1,32 +1,28 @@
 import os
 import json
-import time
 
 def update_files():
+    # This checks the current directory and the 'blog' subdirectory
     target_folder = "blog"
-    timestamp_file = "last_run.txt"
-    interval_hours = 30
     
-    # 1. Check if 30 hours have passed
-    current_time = time.time()
-    if os.path.exists(timestamp_file):
-        with open(timestamp_file, "r") as f:
-            last_run = float(f.read().strip())
-        
-        hours_since_last_run = (current_time - last_run) / 3600
-        if hours_since_last_run < interval_hours:
-            print(f"Skipping: Only {hours_since_last_run:.1f} hours passed. Need {interval_hours}.")
-            return
+    # Check if we are already inside 'blog' or if it's a subfolder
+    if not os.path.exists(target_folder):
+        print(f"Current Directory: {os.getcwd()}")
+        print(f"Contents: {os.listdir('.')}")
+        print(f"Error: Folder '{target_folder}' not found. Trying root...")
+        search_path = "."
+    else:
+        search_path = target_folder
 
-    # 2. Define Exclusions and Template
     exclude_files = [
         "abc.json", "xyz.json", "123.json", "bbl.json", 
         "ilt20.json", "drcongo.json", "senegal.json", 
         "nigeria.json", "tunisia.json", "arsenal.json"
     ]
     
-    template_data = [
-{
+    template_data = 
+
+    {
   "events": [
     {
       "name": "Join YoSinTV Telegram Channel",
@@ -44,26 +40,17 @@ ___topembed___
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
 }
-    ]
-
-    # 3. Update the files
-    if not os.path.exists(target_folder):
-        print(f"Error: Folder '{target_folder}' not found.")
-        return
+    
 
     updated_count = 0
-    for filename in os.listdir(target_folder):
+    for filename in os.listdir(search_path):
         if filename.endswith('.json') and filename not in exclude_files:
-            file_path = os.path.join(target_folder, filename)
+            file_path = os.path.join(search_path, filename)
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(template_data, f, indent=2)
             updated_count += 1
             
-    # 4. Save the new timestamp
-    with open(timestamp_file, "w") as f:
-        f.write(str(current_time))
-        
-    print(f"Success! Updated {updated_count} files. Next update in 30 hours.")
+    print(f"Done! Successfully updated {updated_count} files in '{search_path}'.")
 
 if __name__ == "__main__":
     update_files()
