@@ -1,0 +1,49 @@
+name: Auto Update JSON Files
+
+on:
+  schedule:
+    # This runs roughly every 30 hours
+    - cron: '0 0 */1 * *' 
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update JSON Content
+        run: |
+          # Define the exclusion list
+          EXCLUDE_FILES=("abc.json" "xyz.json" "123.json")
+          
+          # Define the template content
+          TEMPLATE='[ { "events": [ { "name": "Join YoSinTV Telegram Channel", "link": "https://t.me/yosintvlive" }, ___sulist___ , ___topembed___ ], "styles": { "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;", "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);", "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;" } } ]'
+
+          # Loop through all .json files
+          for file in *.json; do
+            # Check if file is in exclusion list
+            skip=false
+            for ex in "${EXCLUDE_FILES[@]}"; do
+              if [[ "$file" == "$ex" ]]; then
+                skip=true
+                break
+              fi
+            done
+
+            if [ "$skip" = false ]; then
+              echo "Updating $file..."
+              echo "$TEMPLATE" > "$file"
+            else
+              echo "Skipping $file"
+            fi
+          done
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Automated JSON update every 30 hours" || echo "No changes to commit"
+          git push
