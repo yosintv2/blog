@@ -2,9 +2,18 @@ import os
 import json
 
 def update_files():
-    # Folder where your JSON files are located
-    target_folder = "blog" 
+    # This checks the current directory and the 'blog' subdirectory
+    target_folder = "blog"
     
+    # Check if we are already inside 'blog' or if it's a subfolder
+    if not os.path.exists(target_folder):
+        print(f"Current Directory: {os.getcwd()}")
+        print(f"Contents: {os.listdir('.')}")
+        print(f"Error: Folder '{target_folder}' not found. Trying root...")
+        search_path = "."
+    else:
+        search_path = target_folder
+
     exclude_files = [
         "abc.json", "xyz.json", "123.json", "bbl.json", 
         "ilt20.json", "drcongo.json", "senegal.json", 
@@ -19,7 +28,6 @@ def update_files():
                     "link": "https://t.me/yosintvlive"
                 },
                 "___sulist___",
-                
                 "___topembed___"
             ],
             "styles": {
@@ -30,21 +38,15 @@ def update_files():
         }
     ]
 
-    if not os.path.exists(target_folder):
-        print(f"Error: Folder '{target_folder}' not found!")
-        return
-
     updated_count = 0
-    # Search inside the 'blog' folder
-    for filename in os.listdir(target_folder):
+    for filename in os.listdir(search_path):
         if filename.endswith('.json') and filename not in exclude_files:
-            file_path = os.path.join(target_folder, filename)
+            file_path = os.path.join(search_path, filename)
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(template_data, f, indent=2)
-            print(f"Updated: {file_path}")
             updated_count += 1
             
-    print(f"Total files updated: {updated_count}")
+    print(f"Done! Successfully updated {updated_count} files in '{search_path}'.")
 
 if __name__ == "__main__":
     update_files()
