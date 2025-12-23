@@ -2,12 +2,11 @@ name: Auto Update JSON Files
 
 on:
   schedule:
-    # Checks every hour
     - cron: '0 * * * *'
+  workflow_dispatch: # This is the manual trigger
   push:
     branches:
       - main
-  workflow_dispatch: 
 
 permissions:
   contents: write
@@ -19,7 +18,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Needed to read the history of your changes
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,7 +26,13 @@ jobs:
           python-version: '3.x'
 
       - name: Run Update Script
-        run: python update_json.py
+        run: |
+          # If triggered manually (workflow_dispatch), use --force
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            python update_json.py --force
+          else
+            python update_json.py
+          fi
 
       - name: Commit and Push Changes
         run: |
@@ -35,8 +40,8 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           if git diff --staged --quiet; then
-            echo "No changes to update yet."
+            echo "No changes to commit."
           else
-            git commit -m "Automated sync (24 hours after manual change)"
+            git commit -m "JSON Sync Update"
             git push
           fi
