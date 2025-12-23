@@ -55,7 +55,6 @@ def update_files():
             { "name": "Join YoSinTV Telegram Channel", "link": "https://t.me/yosintvlive" },
             
             "___sulist_____________________",
-            "",
             "___topembed____________________"
         ],
         "styles": {
