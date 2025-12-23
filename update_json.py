@@ -2,7 +2,7 @@ import os
 import json
 
 def update_files():
-    exclude_files = ["abc.json", "xyz.json", "123.json"]
+    exclude_files = ["bbl.json" "ilt20.json" "drcongo.json" senegal.json" "nigeria.json"  "tunisia.json" "arsenal.json"]
     
     # The JSON structure exactly as you requested
     template_data = [
