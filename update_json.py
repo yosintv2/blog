@@ -4,69 +4,77 @@ import subprocess
 import time
 import sys
 
-def get_last_manual_commit_time():
+def get_last_manual_commit_info():
     try:
-        # Checks for the last commit NOT made by the bot
+        # Gets the timestamp and hash of the last commit NOT made by the bot
         result = subprocess.run(
-            ['git', 'log', '-1', '--perl-regexp', '--author=^((?!github-actions).*)$', '--format=%ct'],
+            ['git', 'log', '-1', '--perl-regexp', '--author=^((?!github-actions).*)$', '--format=%ct|%H'],
             capture_output=True, text=True
         )
-        return int(result.stdout.strip())
+        data = result.stdout.strip().split('|')
+        return int(data[0]), data[1]
     except:
-        return 0
+        return 0, ""
 
 def update_files():
-    # Check if we are forcing the update (manual trigger)
     force_update = len(sys.argv) > 1 and sys.argv[1] == "--force"
+    state_file = "last_sync_hash.txt"
     
-    interval_seconds = 24 * 3600  # 24 hours
-    last_manual_update = get_last_manual_commit_time()
+    last_manual_time, last_manual_hash = get_last_manual_commit_info()
     current_time = int(time.time())
     
-    # Only check the timer if we are NOT forcing the update
-    if not force_update:
-        if (current_time - last_manual_update) < interval_seconds:
-            hours_left = (interval_seconds - (current_time - last_manual_update)) / 3600
-            print(f"Waiting: Last manual change was {24 - hours_left:.1f} hours ago. Auto-update in {hours_left:.1f} hours.")
-            return
-    else:
-        print("Force mode enabled: Ignoring 24-hour timer.")
+    # Check if a state file exists to see if we've already synced this manual change
+    last_synced_hash = ""
+    if os.path.exists(state_file):
+        with open(state_file, 'r') as f:
+            last_synced_hash = f.read().strip()
 
+    # LOGIC: If the last manual change is the same one we already synced, STOP.
+    if not force_update and last_manual_hash == last_synced_hash:
+        print("No new manual changes detected since last sync. Standing by.")
+        return
+
+    # LOGIC: If there IS a new change, wait 24 hours from that change
+    if not force_update:
+        seconds_since_change = current_time - last_manual_time
+        if seconds_since_change < (24 * 3600):
+            hours_left = ( (24 * 3600) - seconds_since_change ) / 3600
+            print(f"Manual change detected ({last_manual_hash[:7]}). Waiting {hours_left:.1f} more hours to sync.")
+            return
+
+    # Configuration
     exclude_files = [
         "abc.json", "xyz.json", "123.json", "bbl.json", 
         "ilt20.json", "drcongo.json", "senegal.json", 
         "nigeria.json", "tunisia.json", "arsenal.json",
-        "package.json", "package-lock.json", "update_json.py"
+        "package.json", "package-lock.json", "update_json.py", state_file
     ]
     
-    template_data = 
-        {
-            "events": [
-                { "name": "Join YoSinTV Telegram Channel", "link": "https://t.me/yosintvlive" },
-                
-                "___sulist___"
-                
-                ,
-                
-                "___topembed___"
-            ],
-            "styles": {
-                "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
-                "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-                "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
-            }
+    template_data = {
+        "events": [
+            { "name": "Join YoSinTV Telegram Channel", "link": "https://t.me/yosintvlive" },
+            "___sulist___",
+            "___topembed___"
+        ],
+        "styles": {
+            "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
+            "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+            "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
         }
-    
+    }
 
     updated_count = 0
     for filename in os.listdir('.'):
         if filename.endswith('.json') and filename not in exclude_files:
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(template_data, f, indent=2)
-            print(f"Updated: {filename}")
             updated_count += 1
+    
+    # Save the hash so we don't update again until you make a NEW change
+    with open(state_file, 'w') as f:
+        f.write(last_manual_hash)
             
-    print(f"Success! Total files updated: {updated_count}")
+    print(f"Success! Synced {updated_count} files based on manual change {last_manual_hash[:7]}.")
 
 if __name__ == "__main__":
     update_files()
