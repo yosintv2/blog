@@ -54,8 +54,9 @@ def update_files():
         "events": [
             { "name": "Join YoSinTV Telegram Channel", "link": "https://t.me/yosintvlive" },
             
-            ___sulist___ ,
-            ___topembed___
+            "___sulist_____________________",
+            "",
+            "___topembed____________________"
         ],
         "styles": {
             "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
