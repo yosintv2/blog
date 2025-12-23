@@ -2,18 +2,13 @@ import os
 import json
 
 def update_files():
-    # Make sure every filename has " " around it and a comma after it
+    # Folder where your JSON files are located
+    target_folder = "blog" 
+    
     exclude_files = [
-        "abc.json", 
-        "xyz.json", 
-        "123.json", 
-        "bbl.json", 
-        "ilt20.json", 
-        "drcongo.json", 
-        "senegal.json", 
-        "nigeria.json", 
-        "tunisia.json", 
-        "arsenal.json"
+        "abc.json", "xyz.json", "123.json", "bbl.json", 
+        "ilt20.json", "drcongo.json", "senegal.json", 
+        "nigeria.json", "tunisia.json", "arsenal.json"
     ]
     
     template_data = [
@@ -24,6 +19,7 @@ def update_files():
                     "link": "https://t.me/yosintvlive"
                 },
                 "___sulist___",
+                
                 "___topembed___"
             ],
             "styles": {
@@ -34,16 +30,18 @@ def update_files():
         }
     ]
 
+    if not os.path.exists(target_folder):
+        print(f"Error: Folder '{target_folder}' not found!")
+        return
+
     updated_count = 0
-    for filename in os.listdir('.'):
+    # Search inside the 'blog' folder
+    for filename in os.listdir(target_folder):
         if filename.endswith('.json') and filename not in exclude_files:
-            # We skip update_json.py itself and the exclude list
-            if filename == "update_json.py":
-                continue
-                
-            with open(filename, 'w', encoding='utf-8') as f:
+            file_path = os.path.join(target_folder, filename)
+            with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(template_data, f, indent=2)
-            print(f"Updated: {filename}")
+            print(f"Updated: {file_path}")
             updated_count += 1
             
     print(f"Total files updated: {updated_count}")
