@@ -1,38 +1,17 @@
-{
-  "events": [
-    {
-      "name": "Join YoSinTV Telegram Channel",
-      "link": "https://t.me/yosintvlive"
-    },
-
-    {
-      "name": " 📲|💻 Asia Cup 2025 Final ",
-      "links": [
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/plyrr?id=S1 ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/mpdtnt2",
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/stream?id=willow ",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/stream?id=final "
-
-
-
-      ]
-    },
-
-    {
-      "name": " 💻 Asia Cup 2025 Final ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/alpha?mid=asia-cup-t20-final-india-vs-pakistan ",
-        "https://yosintv2.github.io/ads/cric.html?url=https://myuser735.ifrem.net/iframe/frame.php",
-        "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/mpdtnt2 "
-      ]
+[
+  {
+    "events": [
+      {
+        "name": "Join YoSinTV Telegram Channel",
+        "link": "https://t.me/yosintvlive"
+      },
+      "___sulist___",
+      "___topembed___"
+    ],
+    "styles": {
+      "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
+      "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+      "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
     }
-  ],
-  "styles": {
-    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
-    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
-}
+]

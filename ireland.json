@@ -1,41 +1,17 @@
-{ "events": [
-
-
-    
- { "name": "Smooth 1 - Zimbabwe vs Ireland ",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha.html?mid=zimbabwe-vs-ireland" },
-
-    
- { "name": "Smooth 2 - Zimbabwe vs Ireland ",
- "link": "https://yosintv2.github.io/tv/ads.html" },
-
-    
- { "name": "Link 1 - Zimbabwe vs Ireland",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha2.html?mid=zimbabwe-vs-ireland" },
-
-
- { "name": "Link 2 - Zimbabwe vs Ireland",
- "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/charlie.html?mid=zimbabwe-vs-ireland-1629425593" },
-
-
- { "name": "Link 3 - Zimbabwe vs Ireland ",
-"link": "https://yosintv2.github.io/tv/ads.html" },
-
-
- { "name": "PC/Laptop - Zimbabwe vs Ireland ",
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex7401037" },
-
-
- { "name": "PC/Laptop - Zimbabwe vs Ireland ",
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/ex7401037" }
-
-
-
-],
-
-"styles": {
-"livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
-    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+[
+  {
+    "events": [
+      {
+        "name": "Join YoSinTV Telegram Channel",
+        "link": "https://t.me/yosintvlive"
+      },
+      "___sulist___",
+      "___topembed___"
+    ],
+    "styles": {
+      "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
+      "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+      "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+    }
   }
-}
+]

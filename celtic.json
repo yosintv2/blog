@@ -1,46 +1,17 @@
-{
-  "events": [
-
-    
-    {
-      "name": "Smooth 1 - Zagreb vs Celtic ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=10520"
-    },
-
-
-    
-    {
-      "name": "Smooth 2 - Zagreb vs Celtic ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-
-
-
-        {
-      "name": "Link 1 - Zagreb vs Celtic ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4205501"
-    },
-
-
-    
-        {
-      "name": "Link 2 - Zagreb vs Celtic ",
-      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4205501"
-    },
-
-
-
-        {
-      "name": "Link 3 - Zagreb vs Celtic ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
+[
+  {
+    "events": [
+      {
+        "name": "Join YoSinTV Telegram Channel",
+        "link": "https://t.me/yosintvlive"
+      },
+      "___sulist___",
+      "___topembed___"
+    ],
+    "styles": {
+      "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
+      "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+      "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
     }
-
-
-
-  ],
-  "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
-    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
-}
+]

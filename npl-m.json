@@ -1,53 +1,17 @@
-{
-  "events": [
-    
-    {
-      "name": "Mobile Only - Chitwan vs Karnali ",
-      "link": "https://www.cricfoot.net/player.html?src=https://tinyurl.com/29rnokqb"
-    },
-    
-    
-    {
-      "name": "Smooth 2 - Chitwan vs Karnali ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-    
-    
-    {
-      "name": "Fancode - Chitwan vs Karnali ",
-      "link": "https://www.cricfoot.net/player.html?src=https://www.youtube.com/embed/bT7kQSuAgso"
-    },
-    
-    
-    {
-      "name": "Link 2 - Chitwan vs Karnali ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
-    },
-
-
-    {
-      "name": "PC Only - Chitwan vs Karnali ",
-      "link": "https://www.cricfoot.net/player.html?src=https://embedme.top/embed/alpha/nepal-premier-league-eliminator/1"
-    },
-
-
-        {
-      "name": "PC Only  - Chitwan vs Karnali ",
-      "link": "https://www.cricfoot.net/player.html?src=https://embedme.top/embed/alpha/nepal-premier-league-eliminator/2"
-    },
-
-
-        {
-      "name": "Link 5 - Chitwan vs Karnali ",
-      "link": "https://yosintv2.github.io/tv/ads.html"
+[
+  {
+    "events": [
+      {
+        "name": "Join YoSinTV Telegram Channel",
+        "link": "https://t.me/yosintvlive"
+      },
+      "___sulist___",
+      "___topembed___"
+    ],
+    "styles": {
+      "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
+      "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+      "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
     }
-
-
-    
-  ],
-  "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
-    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
-}
+]

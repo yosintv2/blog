@@ -1,35 +1,17 @@
-{
-  "events": [
-    {
-      "name": "Join YoSinTV Telegram Channel",
-      "link": "https://t.me/yosintvlive"
-    },
-
-    {
-      "name": " 📲|💻 Al Hilal vs Al Riyadh ",
-      "links": [
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=118206",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=113906",
-        "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=147801",
-        "https://yosintv2.pages.dev/ads.html"
-
-      ]
-    },
-
-    {
-      "name": " 💻 Al Hilal vs Al Riyadh ",
-      "links": [
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/foot.html?url=https://tinyurl.com/2byxwdht",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV1[Portugal]",
-        "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/CosmoteSport7[Greece]"
-      ]
+[
+  {
+    "events": [
+      {
+        "name": "Join YoSinTV Telegram Channel",
+        "link": "https://t.me/yosintvlive"
+      },
+      "___sulist___",
+      "___topembed___"
+    ],
+    "styles": {
+      "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
+      "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+      "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
     }
-  ],
-  "styles": {
-    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
-    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
-}
+]

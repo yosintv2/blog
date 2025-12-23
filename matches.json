@@ -1,28 +1,17 @@
-{
-  "matches": [
-    {
-      "team1": "Man United",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-      "team2": "Liverpool",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png", 
-      "match_time": "2025-05-18T01:50:00+09:00",
-      "details_url": "/match-details/1"
-    },
-    {
-      "team1": "Barcelona",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-      "team2": "Real Madrid",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-      "match_time": "2025-05-18T20:00:00+09:00",
-      "details_url": "/match-details/2"
-    },
-    {
-      "team1": "Bayern Munich",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-      "team2": "Paris Saint-Germain",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-      "match_time": "2025-05-19T18:00:00+09:00",
-      "details_url": "/match-details/3"
+[
+  {
+    "events": [
+      {
+        "name": "Join YoSinTV Telegram Channel",
+        "link": "https://t.me/yosintvlive"
+      },
+      "___sulist___",
+      "___topembed___"
+    ],
+    "styles": {
+      "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
+      "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+      "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
     }
-  ]
-}
+  }
+]

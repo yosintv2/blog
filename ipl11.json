@@ -1,56 +1,17 @@
-{"events": [
-
-
-{ "name": " Join YoSinTV Telegram For Fast Links  ",
- "link": "https://t.me/yosintvlive " },
-
-
-{ "name": " English - PBKS vs RCB, Final ",       
- "link": " https://yosintv2.github.io/ads/cric.html?url=https://yosintv1.github.io/link/cricket.html?id=tsports "  },
-
-{ "name": " Hindi - PBKS vs RCB, Final ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
-
-{ "name": " All - PBKS vs RCB, Final ",       
- "link": " https://yosintv2.github.io/ads/cric.html?url=https://yosintv1.github.io/link/cricket.html?id=fox "  },
-
-{ "name": " All - PBKS vs RCB, Final ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
- 
-{ "name": " Hindi - PBKS vs RCB, Final ",       
- "link": " https://yosintv2.github.io/ads/cric.html?url=https://yosintv1.github.io/link/cricket.html?id=ipl11 "  },
-
- 
- { "name": " PC/Android - PBKS vs RCB, Final ",       
-  "link": " https://yosintv2.github.io/ads/cric.html?url=https://yosintv2.github.io/tv/alpha?mid=ipl-final-royal-challengers-bengaluru-vs-punjab-kings "  },
-
-{ "name": " PC Live - PBKS vs RCB, Final ",       
- "link": " https://yosintv2.github.io/ads/cric.html?url=https://yosintv.github.io/yosintv/jwplayers.html?src=https://enz.gdplayertv.to/embed/willow-xtra/ "  },
-
-{ "name": " PC Live - PBKS vs RCB, Final ",       
- "link": " https://yosintv2.github.io/ads/cric.html?url=https://yosintv.github.io/yosintv/jwplayers.html?src=https://wikisport.best/strm/t11.php "  },
-
-{ "name": " PC Live - PBKS vs RCB, Final ",       
-"link": " https://yosintv2.github.io/tv/ads.html" },
-
- 
- 
-{ "name": " PC Live - PBKS vs RCB, Final ",       
-"link": " https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsMix[UK] "  },
-  
-{ "name": " PC Live - PBKS vs RCB, Final ",       
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySport3[NewZealand] "  },
-
-{ "name": " PC Live - PBKS vs RCB, Final ",       
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SuperSportCricket[SouthAfrica] "  }
-
-
-  ],
-  "styles": {
-    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
-    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+[
+  {
+    "events": [
+      {
+        "name": "Join YoSinTV Telegram Channel",
+        "link": "https://t.me/yosintvlive"
+      },
+      "___sulist___",
+      "___topembed___"
+    ],
+    "styles": {
+      "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
+      "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+      "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+    }
   }
-}
+]
