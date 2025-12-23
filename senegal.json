@@ -6,29 +6,31 @@
     },
 
 {
-  "name": "📱💻 Sudan vs Senegal",
+  "name": "Senegal vs. Botswana",
   "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha?mid=south-sudan-vs-senegal",
-    "https://yosintv2.pages.dev/ads.html",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/alpha2?mid=south-sudan-vs-senegal",
-   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=485739",
-   "https://yosintv2.github.io/ads.html", 
-   "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=532999" 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/play7c?m=4471409 ",
+    "https://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/play7?m=4471409 ",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=118206",
+    "https://yosintv-api.pages.dev/api/ads", 
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=113906" 
   ]
 } ,
 
 {
-  "name": "💻 Sudan vs Senegal",
+  "name": "💻 Senegal vs Botswana",
   "links": [
-    "https://yosintv2.pages.dev/ads.html",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium3[Serbia]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/Sportklub2[Serbia]",
-    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ex8664481"
+    "http://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/beINSPORTSUSA[USA]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/ArenaPremium2[Serbia]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SportTV1[Portugal]",
+    "https://yosintv2.github.io/ads/foot.html?url=https://topembed.pw/channel/SuperSportGrandstand[SouthAfrica]"
   ]
 }
+
   ],
   "styles": {
-    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
