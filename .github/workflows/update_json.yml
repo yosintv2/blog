@@ -1,52 +1,37 @@
-import os
-import json
+name: Auto Update JSON Files
 
-def update_files():
-    # This checks the current directory and the 'blog' subdirectory
-    target_folder = "blog"
-    
-    # Check if we are already inside 'blog' or if it's a subfolder
-    if not os.path.exists(target_folder):
-        print(f"Current Directory: {os.getcwd()}")
-        print(f"Contents: {os.listdir('.')}")
-        print(f"Error: Folder '{target_folder}' not found. Trying root...")
-        search_path = "."
-    else:
-        search_path = target_folder
+on:
+  schedule:
+    # Runs roughly every 30 hours (GitHub cron works on daily cycles)
+    # This is set to run at 00:00 every day.
+    - cron: '0 0 */1 * *' 
+  workflow_dispatch: # Allows you to run this manually from the Actions tab
 
-    exclude_files = [
-        "abc.json", "xyz.json", "123.json", "bbl.json", 
-        "ilt20.json", "drcongo.json", "senegal.json", 
-        "nigeria.json", "tunisia.json", "arsenal.json"
-    ]
-    
-    template_data = [
-        {
-            "events": [
-                {
-                    "name": "Join YoSinTV Telegram Channel",
-                    "link": "https://t.me/yosintvlive"
-                },
-                "___sulist___",
-                "___topembed___"
-            ],
-            "styles": {
-                "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
-                "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
-                "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
-            }
-        }
-    ]
+# This block fixes the "Permission denied to github-actions[bot]" 403 error
+permissions:
+  contents: write
 
-    updated_count = 0
-    for filename in os.listdir(search_path):
-        if filename.endswith('.json') and filename not in exclude_files:
-            file_path = os.path.join(search_path, filename)
-            with open(file_path, 'w', encoding='utf-8') as f:
-                json.dump(template_data, f, indent=2)
-            updated_count += 1
-            
-    print(f"Done! Successfully updated {updated_count} files in '{search_path}'.")
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-if __name__ == "__main__":
-    update_files()
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Update Script
+        # This executes your update_json.py file
+        run: python update_json.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          # The next line prevents the workflow from failing if no files changed
+          git commit -m "Automated JSON update" || echo "No changes to commit"
+          git push
