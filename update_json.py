@@ -53,7 +53,11 @@ def update_files():
     template_data = {
         "events": [
             { "name": "Join YoSinTV Telegram Channel", "link": "https://t.me/yosintvlive" },
-            "___sulist___",
+            
+            "___sulist___"
+            
+            ,
+            
             "___topembed___"
         ],
         "styles": {
