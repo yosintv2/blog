@@ -2,9 +2,20 @@ import os
 import json
 
 def update_files():
-    exclude_files = ["bbl.json" "ilt20.json" "drcongo.json" senegal.json" "nigeria.json"  "tunisia.json" "arsenal.json"]
+    # Make sure every filename has " " around it and a comma after it
+    exclude_files = [
+        "abc.json", 
+        "xyz.json", 
+        "123.json", 
+        "bbl.json", 
+        "ilt20.json", 
+        "drcongo.json", 
+        "senegal.json", 
+        "nigeria.json", 
+        "tunisia.json", 
+        "arsenal.json"
+    ]
     
-    # The JSON structure exactly as you requested
     template_data = [
         {
             "events": [
@@ -24,9 +35,12 @@ def update_files():
     ]
 
     updated_count = 0
-    # Search for all json files in the root directory
     for filename in os.listdir('.'):
         if filename.endswith('.json') and filename not in exclude_files:
+            # We skip update_json.py itself and the exclude list
+            if filename == "update_json.py":
+                continue
+                
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(template_data, f, indent=2)
             print(f"Updated: {filename}")
