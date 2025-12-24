@@ -44,10 +44,11 @@ def update_files():
 
     # Configuration
     exclude_files = [
-        "abc.json", "xyz.json", "123.json", "bbl.json", 
-        "ilt20.json", "drcongo.json", "senegal.json", 
-        "nigeria.json", "tunisia.json", "arsenal.json",
-        "package.json", "package-lock.json", "update_json.py", state_file
+        "abc.json", 
+        "australia.json", #THE ASHES
+        "bbl.json",      #Ongoing BBL
+        "ilt20.json",    # ngling ILT20
+        "update_json.py", state_file
     ]
     
     template_data = {
