@@ -45,9 +45,7 @@ def update_files():
     # Configuration
     exclude_files = [
         "abc.json", 
-        "australia.json", #THE ASHES
-        "bbl.json",      #Ongoing BBL
-        "ilt20.json",    # ngling ILT20
+        "123.json", #Add Upper undeletable json
         "update_json.py", state_file
     ]
     
