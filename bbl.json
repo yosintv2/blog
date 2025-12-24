@@ -4,34 +4,11 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-
-    {
-      "name": " BBL Live ",
-      "links": [
-        "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/mpd?id=ptvsports",
-        "https://yosintv2.pages.dev/ads.html",
-        "https://yosintv2.github.io/ads/cric.html?url=https://me.webcric.com/frame10.htm ",
-        "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/mpd?id=ptvsports",
-        "https://yosintv2.pages.dev/ads.html"
-
-
-      ]
-    },
-
-{
-  "name": "💻 BBL Live ",
-  "links": [
-    "http://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK]",
-    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsMainEvent[UK]",
-    "https://yosintv2.github.io/ads/cric.html?url=https://topembed.pw/channel/SkySportsCricket[UK]"
-  ]
-}
-
-
+    "___sulist_____________________",
+    "___topembed____________________"
   ],
   "styles": {
-    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;font-weight: bold;",
+    "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
   }
