@@ -1,4 +1,4 @@
-name: Auto Update JSON Files
+name: Auto Update JSON Files 
 
 on:
   schedule:
