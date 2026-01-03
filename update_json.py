@@ -55,7 +55,7 @@ def update_files():
         "events": [
             { "name": "Join YoSinTV Telegram Channel", "link": "https://t.me/yosintvlive" },
             
-            "______________________________sulist"
+            "______________________________"
         
         ],
         "styles": {
