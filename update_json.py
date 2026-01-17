@@ -37,8 +37,8 @@ def update_files():
     # LOGIC: If there IS a new change, wait 24 hours from that change
     if not force_update:
         seconds_since_change = current_time - last_manual_time
-        if seconds_since_change < (24 * 3600):
-            hours_left = ( (24 * 3600) - seconds_since_change ) / 3600
+        if seconds_since_change < (12 * 3600):
+            hours_left = ( (12 * 3600) - seconds_since_change ) / 3600
             print(f"Manual change detected ({last_manual_hash[:7]}). Waiting {hours_left:.1f} more hours to sync.")
             return
 
