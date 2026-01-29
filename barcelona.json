@@ -4,19 +4,7 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-{
-  "name": " Barcelona vs FC Copenhagen ",
-  "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/zhi?m=b5665a99f168651a446f65b00a008e5f ",
-    "http://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://hlsplayers.pages.dev/player3?url=https://601.xn--1000-ugoxe8a5a7g4h.com/bein4.m3u8",
-    "https://yosintv-api.pages.dev/api/ads", 
-    "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/player3?url=https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=387694", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=552716", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=548860"
-  ]
-}
+    "______________________________"
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",

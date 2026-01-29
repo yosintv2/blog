@@ -4,19 +4,7 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-{
-  "name": " Liverpool vs Qarabağ ",
-  "links": [
-    "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/player3?url=https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8",
-    "http://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/zhi?m=01e63d69a8825ce5af77049cdd4a7e7b ",
-    "https://yosintv-api.pages.dev/api/ads", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/play7c?m=3960743 ",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=566705", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=581585", 
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=512649"
-  ]
-}
+    "______________________________"
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
