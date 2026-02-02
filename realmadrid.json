@@ -4,18 +4,7 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-{
-  "name": "Real Madrid vs Rayo Vallecano",
-  "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://hlsplayers.pages.dev/player1?url=https://pullkgq721.qmuiw.com/live/hd-zh-1-4358888.m3u8?auth_key=1769950866-0-0-2adbec45bda0003a9f0ae9c48c344a97 ",
-    "https://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/mpdtv?id=bein2aus",
-    "https://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/akk?m=b51c916fa11bc30ccb938d9284310d3a",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/mpdtv?id=skylaliga",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=548860"
-  ]
-}
+    "______________________________"
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
