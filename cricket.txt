@@ -1,10 +1,10 @@
     {
-      "name": " _______ ",
-      "links": [
-        "https://yosintv2.github.io/ads/cric.html?url=_____",
-        "http://yosintv-api.pages.dev/api/ads",
-        "https://yosintv2.github.io/ads/cric.html?url=_____",
-        "https://yosintv2.github.io/ads/cric.html?url=_____",
-        "http://yosintv-api.pages.dev/api/ads"
+  "name": " _______ ",
+  "links": [
+    "https://yosintv2.github.io/ads/cric.html?url=_____",
+    "http://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/cric.html?url=_____",
+    "https://yosintv2.github.io/ads/cric.html?url=_____",
+    "http://yosintv-api.pages.dev/api/ads"
       ]
     }
