@@ -28,6 +28,7 @@
       </div>
     </div>
   </header>
+
   <div class="container mx-auto max-w-4xl px-4 py-4">
     <div class="adspos">
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -39,20 +40,18 @@
   <main class="container mx-auto max-w-4xl px-4 py-8">
     <section class="bg-white rounded-lg shadow-md p-4 sm:p-6 mb-6">
       <div class="space-y-4" id="cricket-matches">
-        <!-- VS BOX WITH LOGOS -->
         <div class="flex flex-col items-center py-6">
           <div class="w-full max-w-3xl">
             <div class="bg-gray-50 rounded-xl shadow-md border border-gray-300 p-6">
               <div class="grid grid-cols-3 items-center gap-4 text-center">
                 <div class="flex flex-col items-center">
-                  <!-- LOGO ONLY - NO SHAPE (as you wanted earlier) -->
                   <img id="team1-logo" alt="" class="w-20 h-20 md:w-28 md:h-28 object-contain">
                   <span id="team1-name" class="mt-3 text-lg md:text-2xl font-bold text-gray-800"></span>
                 </div>
 
                 <div class="flex flex-col items-center">
                   <div class="text-4xl md:text-6xl font-black text-red-600">VS</div>
-                  <!-- DATE & TIME REMOVED — ONLY VS REMAINS -->
+                  <div id="league-display" class="mt-2 text-xs md:text-sm font-bold text-blue-600 uppercase tracking-wide"></div>
                 </div>
 
                 <div class="flex flex-col items-center">
@@ -77,11 +76,9 @@
       </div>
     </section>
 
-    <!-- MATCH INFO + FAQ SECTION -->
     <section class="bg-white rounded-lg shadow-md p-4 sm:p-6 mb-6">
       <div id="match-info" class="space-y-4 min-w-full overflow-visible"></div>
     </section>
-
   </main>
 
   <footer class="bg-white shadow-inner py-6 mt-8">
@@ -92,7 +89,6 @@
     </div>
   </footer>
 
-  <!-- Ads & Fixed Banner (unchanged) -->
   <div class="container mx-auto max-w-4xl px-4 py-4">
     <div class="adspos">
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147" crossorigin="anonymous"></script>
@@ -166,7 +162,7 @@
             } catch(e) {}
           }
           if (!match) return;
-          const { team1, team2, start, duration, lineup_image_url } = match;
+          const { team1, team2, league, start, duration, lineup_image_url } = match;
           const matchName = `${team1.trim()} vs ${team2.trim()}`;
           const startTimeFull = formatTime(start, 'full');
           const dateText = formatDate(start);
@@ -179,9 +175,12 @@
           document.getElementById('og-url').content = location.href;
           document.getElementById('canonical-url').href = location.href;
 
-          // Fill only team names and logos (date/time removed from HTML)
+          // Fill team names, logos, and league
           document.getElementById('team1-name').textContent = team1.trim();
           document.getElementById('team2-name').textContent = team2.trim();
+          if(league) {
+            document.getElementById('league-display').textContent = league;
+          }
 
           document.getElementById('team1-logo').src = match.team1_logo || `https://placehold.co/120x120/3b82f6/ffffff?text=${team1.trim().substring(0,3).toUpperCase()}&font=roboto`;
           document.getElementById('team2-logo').src = match.team2_logo || `https://placehold.co/120x120/dc2626/ffffff?text=${team2.trim().substring(0,3).toUpperCase()}&font=roboto`;
@@ -199,7 +198,7 @@
               </div>`;
           }
 
-          // Stream links (unchanged)
+          // Stream links
           const streamUrl = `https://blog.cricfoot.net/${slug}.json`;
           let streamJson = null;
           try { const r = await fetch(streamUrl); if (r.ok) streamJson = await r.json(); } catch(e) {}
@@ -222,7 +221,7 @@
             liveContainer.innerHTML = '<p class="text-center text-orange-600 font-bold">Stream links loading soon...</p>';
           }
 
-          // FAQ (unchanged)
+          // FAQ
           const faqHTML = `
             <div class="space-y-4 text-left overflow-visible break-words">
               <h3 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900">${matchName} - Match Details</h3>
