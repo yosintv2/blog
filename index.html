@@ -45,16 +45,16 @@
             <div class="bg-gray-50 rounded-xl shadow-md border border-gray-300 p-6">
               <div class="grid grid-cols-3 items-center gap-4 text-center">
                 <div class="flex flex-col items-center">
-                  <img id="team1-logo" alt="" class="w-20 h-20 md:w-28 md:h-28 object-contain">
-                  <span id="team1-name" class="mt-3 text-lg md:text-2xl font-bold text-gray-800"></span>
+                  <img id="team1-logo" alt="" class="w-12 h-12 md:w-16 md:h-16 object-contain">
+                  <span id="team1-name" class="mt-2 text-base md:text-lg font-bold text-gray-800"></span>
                 </div>
                 <div class="flex flex-col items-center">
-                  <div class="text-4xl md:text-6xl font-black text-red-600">VS</div>
-                  <div id="league-display" class="mt-2 text-xs md:text-sm font-bold text-blue-600 uppercase tracking-wide"></div>
+                  <div class="text-3xl md:text-5xl font-black text-red-600">VS</div>
+                  <div id="league-display" class="mt-1 text-xs font-bold text-blue-600 uppercase tracking-wide"></div>
                 </div>
                 <div class="flex flex-col items-center">
-                  <img id="team2-logo" alt="" class="w-20 h-20 md:w-28 md:h-28 object-contain">
-                  <span id="team2-name" class="mt-3 text-lg md:text-2xl font-bold text-gray-800"></span>
+                  <img id="team2-logo" alt="" class="w-12 h-12 md:w-16 md:h-16 object-contain">
+                  <span id="team2-name" class="mt-2 text-base md:text-lg font-bold text-gray-800"></span>
                 </div>
               </div>
             </div>
@@ -64,7 +64,6 @@
         <p class="text-sm sm:text-base font-semibold text-blue-600 mb-2" id="match-date-time"></p>
         <p>● Watch the live of this match in HD Quality, Scroll down to check out every link for Smooth Live Stream of this match.</p>
         <p>● Predicted lineups are available for the match a few days in advance while the actual lineup will be available about an hour ahead of the match.</p>
-        
         <div id="lineup-image-container" class="my-4"></div>
 
         <div class="adspos my-6">
@@ -246,7 +245,6 @@
           updateProgress();
           setInterval(updateProgress, 1000);
 
-          // FULL DETAILED FAQ
           document.getElementById('match-info').innerHTML = `
             <div class="space-y-4 text-left overflow-visible break-words">
               <h3 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900">${matchName} - Match Details</h3>
@@ -298,9 +296,13 @@
       }, 0);
     });
   </script>
-<div style="position:fixed;top:0;left:0;width:100%;height:1px;overflow:hidden;visibility:hidden;z-index:9999;"><script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script>
-<script type="text/javascript">sc_online_i(1719927,"ffffff","ffffff");</script><noscript><a href="https://www.supercounters.com/" style="visibility:hidden;">free online counter</a></noscript>
-<script id="_wauf8n">var _wau = _wau || []; _wau.push(["dynamic", "3h7l6orqla", "f8n", "c4302bffffff", "small"]);</script><script async src="//waust.at/d.js"></script>
-</div>
+
+  <div style="position:fixed;top:0;left:0;width:100%;height:1px;overflow:hidden;visibility:hidden;z-index:9999;">
+    <script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script>
+    <script type="text/javascript">sc_online_i(1719927,"ffffff","ffffff");</script>
+    <noscript><a href="https://www.supercounters.com/" style="visibility:hidden;">free online counter</a></noscript>
+    <script id="_wauf8n">var _wau = _wau || []; _wau.push(["dynamic", "3h7l6orqla", "f8n", "c4302bffffff", "small"]);</script>
+    <script async src="//waust.at/d.js"></script>
+  </div>
 </body>
 </html>
