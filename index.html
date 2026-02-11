@@ -233,11 +233,11 @@
                 liveContainer.innerHTML = ''; 
                 
                 streamJson.events.forEach((event) => {
-                  // FIX: Handle both single 'link' and array 'links'
                   const rawLinks = event.links && Array.isArray(event.links) ? event.links : (event.link ? [event.link] : []);
                   
                   rawLinks.forEach((linkUrl, index) => {
-                    if (!linkUrl || linkUrl.includes("api/ads")) return; // Skip non-stream links
+                    // REMOVED ADS FILTER: Now showing all links
+                    if (!linkUrl) return; 
 
                     const a = document.createElement('a');
                     a.href = linkUrl.trim();
@@ -247,7 +247,7 @@
                     a.onmouseout = () => a.style.cssText = baseStyle;
 
                     let btnText = event.name.replace(/AUS vs IRE|India vs SA|IND vs SA/g, matchName).trim();
-                    // If multiple links exist for one match event, label them
+                    
                     if (rawLinks.length > 1 && !btnText.includes("Telegram")) {
                         btnText += ` - Link ${index + 1}`;
                     }
