@@ -48,12 +48,10 @@
                   <img id="team1-logo" alt="" class="w-20 h-20 md:w-28 md:h-28 object-contain">
                   <span id="team1-name" class="mt-3 text-lg md:text-2xl font-bold text-gray-800"></span>
                 </div>
-
                 <div class="flex flex-col items-center">
                   <div class="text-4xl md:text-6xl font-black text-red-600">VS</div>
                   <div id="league-display" class="mt-2 text-xs md:text-sm font-bold text-blue-600 uppercase tracking-wide"></div>
                 </div>
-
                 <div class="flex flex-col items-center">
                   <img id="team2-logo" alt="" class="w-20 h-20 md:w-28 md:h-28 object-contain">
                   <span id="team2-name" class="mt-3 text-lg md:text-2xl font-bold text-gray-800"></span>
@@ -62,7 +60,6 @@
             </div>
           </div>
         </div>
-
         <p>● Watch the live of this match in HD Quality, Scroll down to check out every link for Smooth Live Stream of this match.</p>
         <p>● Predicted lineups are available for the match a few days in advance while the actual lineup will be available about an hour ahead of the match.</p>
         <div id="lineup-image-container" class="my-4"></div>
@@ -75,7 +72,6 @@
         <div id="live-container" class="space-y-4 my-8"></div>
       </div>
     </section>
-
     <section class="bg-white rounded-lg shadow-md p-4 sm:p-6 mb-6">
       <div id="match-info" class="space-y-4 min-w-full overflow-visible"></div>
     </section>
@@ -89,14 +85,6 @@
     </div>
   </footer>
 
-  <div class="container mx-auto max-w-4xl px-4 py-4">
-    <div class="adspos">
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147" crossorigin="anonymous"></script>
-      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5525538810839147" data-ad-slot="4345862479" data-ad-format="auto" data-full-width-responsive="true"></ins>
-      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-    </div>
-  </div>
-
   <div id='fixedban' class='fixed bottom-0 left-1/2 -translate-x-1/2 z-[999]'>
     <div class='relative w-[300px] h-[250px] bg-white rounded-lg shadow-xl border border-gray-200'>
       <button id='close-fixedban' class='absolute left-1/2 -translate-x-1/2 top-3 text-sm font-medium text-blue-600 hover:text-blue-800 transition-colors duration-200 cursor-pointer z-[1000]'>Close</button>
@@ -107,14 +95,6 @@
     </div>
   </div>
 
-  <div style="position:fixed;top:0;left:0;width:100%;height:1px;overflow:hidden;visibility:hidden;z-index:9999;">
-    <script id="_wauxdl">var _wau = _wau || []; _wau.push(["dynamic", "2rzlwew51p", "xdl", "c4302bffffff", "small"]);</script>
-    <script async src="//waust.at/d.js"></script>
-    <script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script>
-    <script type="text/javascript">sc_online_i(1703308,"ffffff","e61c1c");</script>
-  </div>
-
-  <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script type='text/javascript'>
     $(document).ready(function() {
@@ -127,24 +107,28 @@
       setTimeout(() => {
         requestAnimationFrame(async () => {
           const normalize = s => s.toString().toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/&/g,'and').replace(/[^a-z0-9]/g,'');
+          
           const formatTime = (iso, type) => {
             try {
               const d = new Date(iso);
               if (type === 'full') {
-                const options = { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true };
+                const options = { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: true };
                 return d.toLocaleString(undefined, options);
               }
               return d.toLocaleString(undefined, { hour: '2-digit', minute: '2-digit', hour12: true });
             } catch(e) { return 'N/A'; }
           };
+
           const formatDate = iso => {
             const d = new Date(iso);
             return d.toLocaleDateString(undefined, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
           };
+
           const mainApis = [ 'https://www.yosintv.link/api/cricket.json', 'https://www.yosintv.link/api/footballl.json' ];
           const urlParams = new URLSearchParams(window.location.search);
           const slug = urlParams.get('yosintv');
           if (!slug) return;
+
           let match = null;
           for (const api of mainApis) {
             try {
@@ -161,34 +145,29 @@
               if (match) break;
             } catch(e) {}
           }
+
           if (!match) return;
+
           const { team1, team2, league, start, duration, lineup_image_url } = match;
           const matchName = `${team1.trim()} vs ${team2.trim()}`;
           const startTimeFull = formatTime(start, 'full');
-          const dateText = formatDate(start);
-          const timeText = formatTime(start);
 
-          // SEO
+          // SEO Updates
           document.title = `YoSinTV - ${matchName} Live Stream`;
           document.getElementById('meta-description').content = `Watch ${matchName} live stream on YoSinTV`;
           document.getElementById('og-title').content = document.title;
           document.getElementById('og-url').content = location.href;
           document.getElementById('canonical-url').href = location.href;
 
-          // Fill team names, logos, and league
+          // Scoreboard Fill
           document.getElementById('team1-name').textContent = team1.trim();
           document.getElementById('team2-name').textContent = team2.trim();
-          if(league) {
-            document.getElementById('league-display').textContent = league;
-          }
+          if(league) document.getElementById('league-display').textContent = league;
 
           document.getElementById('team1-logo').src = match.team1_logo || `https://placehold.co/120x120/3b82f6/ffffff?text=${team1.trim().substring(0,3).toUpperCase()}&font=roboto`;
           document.getElementById('team2-logo').src = match.team2_logo || `https://placehold.co/120x120/dc2626/ffffff?text=${team2.trim().substring(0,3).toUpperCase()}&font=roboto`;
-          document.querySelectorAll('#team1-logo, #team2-logo').forEach(img => {
-            img.onerror = () => img.src = 'https://placehold.co/120x120/cccccc/666666?text=LOGO';
-          });
 
-          // Lineup image
+          // Lineup Image
           const lineupContainer = document.getElementById('lineup-image-container');
           if (lineup_image_url) {
             lineupContainer.innerHTML = `
@@ -198,58 +177,64 @@
               </div>`;
           }
 
-          // Stream links
+          // Fetch Stream Links (Updated Logic)
           const streamUrl = `https://blog.cricfoot.net/${slug}.json`;
-          let streamJson = null;
-          try { const r = await fetch(streamUrl); if (r.ok) streamJson = await r.json(); } catch(e) {}
           const liveContainer = document.getElementById('live-container');
-          if (streamJson && streamJson.events) {
-            const baseStyle = streamJson.styles?.livee || "display:flex;justify-content:center;align-items:center;margin:12px 0;padding:15px;border-radius:8px;background:#d00;color:#fff;font-weight:bold;font-size:18px;cursor:pointer;text-decoration:none;";
-            const hoverStyle = streamJson.styles?.liveeHover || "box-shadow:0 6px 15px rgba(0,0,0,0.4);";
-            streamJson.events.forEach(event => {
-              if (!event.links || event.links.length === 0) return;
-              event.links.forEach((link, i) => {
-                const a = document.createElement('a');
-                a.href = link; a.target = "_blank"; a.style.cssText = baseStyle;
-                a.onmouseover = () => a.style.cssText = baseStyle + hoverStyle;
-                a.onmouseout = () => a.style.cssText = baseStyle;
-                a.innerHTML = `${event.name.replace(/India vs SA|IND vs SA/g, matchName)} - Link ${i+1}`;
-                liveContainer.appendChild(a);
-              });
-            });
-          } else {
-            liveContainer.innerHTML = '<p class="text-center text-orange-600 font-bold">Stream links loading soon...</p>';
+          
+          try { 
+            const r = await fetch(streamUrl); 
+            if (r.ok) {
+              const streamJson = await r.json();
+              if (streamJson && streamJson.events) {
+                const baseStyle = streamJson.styles?.livee || "display:flex;justify-content:center;align-items:center;margin:12px 0;padding:15px;border-radius:8px;background:#2e7d32;color:#fff;font-weight:bold;font-size:18px;cursor:pointer;text-decoration:none;";
+                const hoverStyle = streamJson.styles?.liveeHover || "box-shadow:0 6px 15px rgba(0,0,0,0.4);";
+                
+                liveContainer.innerHTML = ''; // Clear loading text
+                
+                streamJson.events.forEach(event => {
+                  // Check for event.link (your new JSON format)
+                  const linkUrl = event.link || (event.links && event.links[0]);
+                  if (linkUrl) {
+                    const a = document.createElement('a');
+                    a.href = linkUrl.trim();
+                    a.target = "_blank";
+                    a.style.cssText = baseStyle;
+                    a.onmouseover = () => a.style.cssText = baseStyle + hoverStyle;
+                    a.onmouseout = () => a.style.cssText = baseStyle;
+                    
+                    // Replace placeholder text with actual match name if needed, else use event name
+                    let displayName = event.name.replace(/AUS vs IRE|India vs SA|IND vs SA/g, matchName).trim();
+                    a.innerHTML = displayName;
+                    
+                    liveContainer.appendChild(a);
+                  }
+                });
+              }
+            } else {
+              liveContainer.innerHTML = '<p class="text-center text-orange-600 font-bold">No stream links available for this match yet.</p>';
+            }
+          } catch(e) { 
+            console.error("Link Fetch Error:", e);
+            liveContainer.innerHTML = '<p class="text-center text-red-600">Error loading stream links.</p>';
           }
 
-          // FAQ
+          // FAQ Section
           const faqHTML = `
             <div class="space-y-4 text-left overflow-visible break-words">
               <h3 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900">${matchName} - Match Details</h3>
               <h3 class="text-2xl font-bold border-b-2 border-gray-200 pb-2 text-gray-900">Frequently Asked Questions</h3>
               <div class="space-y-4">
                 <div class="bg-gray-50 p-4 rounded-lg">
-                  <h4 class="text-lg font-semibold text-gray-900 break-words">Which teams will face against ${team2.trim()} in this match?</h4>
-                  <p class="text-gray-600 break-words">${team1.trim()} will face off against ${team2.trim()} in this exciting match.</p>
+                  <h4 class="text-lg font-semibold text-gray-900">Which teams are playing?</h4>
+                  <p class="text-gray-600">${team1.trim()} is facing ${team2.trim()}.</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
-                  <h4 class="text-lg font-semibold text-gray-900 break-words">When is the ${matchName} match happening?</h4>
-                  <p class="text-gray-600 break-words">The match starts at ${startTimeFull}. Check official sources for venue details.</p>
+                  <h4 class="text-lg font-semibold text-gray-900">When does it start?</h4>
+                  <p class="text-gray-600">The match begins at ${startTimeFull}.</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
-                  <h4 class="text-lg font-semibold text-gray-900 break-words">How long will the ${matchName} match last?</h4>
-                  <p class="text-gray-600 break-words">The match is expected to last about ${duration} hours, including stoppage time.</p>
-                </div>
-                <div class="bg-gray-50 p-4 rounded-lg">
-                  <h4 class="text-lg font-semibold text-gray-900 break-words">Where can I watch the ${matchName} match live online?</h4>
-                  <p class="text-gray-600 break-words">Stream the live match of ${matchName} via <a href="https://www.yosin-tv.net/" target="_blank" class="text-blue-600 hover:underline">YoSinTV Free Live Stream</a>.</p>
-                </div>
-                <div class="bg-gray-50 p-4 rounded-lg">
-                  <h4 class="text-lg font-semibold text-gray-900 break-words">Who are the key players to watch in the ${matchName} match?</h4>
-                  <p class="text-gray-600 break-words">Look out for star players from ${team1.trim()} and ${team2.trim()}. Check official sources for confirmed lineups.</p>
-                </div>
-                <div class="bg-gray-50 p-4 rounded-lg">
-                  <h4 class="text-lg font-semibold text-gray-900 break-words">What is the recent performance of ${team1.trim()} and ${team2.trim()}?</h4>
-                  <p class="text-gray-600 break-words">Check the latest form guides and stats for ${team1.trim()} and ${team2.trim()} on official sports websites.</p>
+                  <h4 class="text-lg font-semibold text-gray-900">Where can I watch online?</h4>
+                  <p class="text-gray-600">You can watch it live right here on <a href="https://www.yosin-tv.net/" target="_blank" class="text-blue-600 hover:underline">YoSinTV</a>.</p>
                 </div>
               </div>
             </div>`;
