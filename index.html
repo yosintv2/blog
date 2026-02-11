@@ -150,14 +150,18 @@
         requestAnimationFrame(async () => {
           const normalize = s => s.toString().toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/&/g,'and').replace(/[^a-z0-9]/g,'');
 
-          const formatTime = (iso, type) => {
+          const formatTime = (iso) => {
             try {
               const d = new Date(iso);
-              if (type === 'full') {
-                const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: true };
-                return d.toLocaleString(undefined, options);
-              }
-              return d.toLocaleString(undefined, { hour: '2-digit', minute: '2-digit', hour12: true });
+              // Result: February 11, 2026 at 10:45 PM
+              return d.toLocaleString('en-US', { 
+                month: 'long', 
+                day: 'numeric', 
+                year: 'numeric', 
+                hour: '2-digit', 
+                minute: '2-digit', 
+                hour12: true 
+              }).replace(',', ' at');
             } catch(e) { return 'N/A'; }
           };
 
@@ -191,11 +195,11 @@
 
           const { team1, team2, league, start, duration, lineup_image_url } = match;
           const matchName = `${team1.trim()} vs ${team2.trim()}`;
-          const startTimeFull = formatTime(start, 'full');
+          const startTimeFormatted = formatTime(start);
 
           document.title = `YoSinTV - ${matchName} Live Stream`;
           document.getElementById('meta-description').content = `Watch ${matchName} live stream on YoSinTV`;
-          document.getElementById('match-date-time').textContent = `Match Time: ${startTimeFull}`;
+          document.getElementById('match-date-time').textContent = `Match Time: ${startTimeFormatted}`;
 
           document.getElementById('team1-name').textContent = team1.trim();
           document.getElementById('team2-name').textContent = team2.trim();
@@ -291,23 +295,7 @@
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                   <h4 class="text-lg font-semibold text-gray-900">When is the ${matchName} match happening?</h4>
-                  <p class="text-gray-600">The match starts at ${startTimeFull}. Check official sources for venue details.</p>
-                </div>
-                <div class="bg-gray-50 p-4 rounded-lg">
-                  <h4 class="text-lg font-semibold text-gray-900">How long will the ${matchName} match last?</h4>
-                  <p class="text-gray-600">The match is expected to last about ${duration} hours, including stoppage time.</p>
-                </div>
-                <div class="bg-gray-50 p-4 rounded-lg">
-                  <h4 class="text-lg font-semibold text-gray-900">Where can I watch the ${matchName} match live online?</h4>
-                  <p class="text-gray-600">Stream the live match of ${matchName} via <a href="https://www.yosin-tv.net/" target="_blank" class="text-blue-600 hover:underline">YoSinTV Free Live Stream</a>.</p>
-                </div>
-                <div class="bg-gray-50 p-4 rounded-lg">
-                  <h4 class="text-lg font-semibold text-gray-900">Who are the key players to watch in the ${matchName} match?</h4>
-                  <p class="text-gray-600">Look out for star players from both ${team1.trim()} and ${team2.trim()}. Confirmed lineups will be available shortly before the match.</p>
-                </div>
-                <div class="bg-gray-50 p-4 rounded-lg">
-                  <h4 class="text-lg font-semibold text-gray-900">What is the recent performance of ${team1.trim()} and ${team2.trim()}?</h4>
-                  <p class="text-gray-600">Check the latest form guides and stats for both teams on official sports websites.</p>
+                  <p class="text-gray-600">The match starts at ${startTimeFormatted}.</p>
                 </div>
               </div>
             </div>`;
