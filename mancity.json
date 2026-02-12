@@ -4,20 +4,7 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-{
-  "name": "Man City vs Fulham",
-  "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://hlsplayers.pages.dev/1m?url=https://storage.googleapis.com/gamstrongove1/mux_video_ts1/index-1.m3u8",
-    "https://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://hlsplayers.pages.dev/player2?url=https://storage.googleapis.com/gamstrongove1/mux_video_ts/index-1.m3u8",    
-    "https://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=168740",
-    "https://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=484845",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=327159",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=548860"
-  ]
-}
+    "______________________________"
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
