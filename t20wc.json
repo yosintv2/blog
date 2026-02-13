@@ -1,35 +1,34 @@
 {  
   "events": [
 
-{ "name": " All - SA vs AFG ",       
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/player3?url=https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8 "},
-  
-{ "name": " All - SA vs AFG ",       
-"link": " https://yosintv-api.pages.dev/api/ads "},
+{ "name": " Android/PC - India vs Namibia ",       
+"link": " https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/hub4 "},
 
-
-
-{ "name": " Android Eng - SA vs AFG ",       
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/iframe?url=https://embedsports.top/embed/admin/admin-willow-cricket/1 "},
-
-{ "name": " Android Hindi- SA vs AFG ",       
+{ "name": " Hindi 1 - India vs Namibia ",       
 "link": " https://yosintv-api.pages.dev/api/ads" },
 
-{ "name": " Android Hindi - SA vs AFG ",       
-"link": "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/iframe?url=https://embedsports.top/embed/admin/admin-willow-cricket/2 "},
 
-{ "name": " Android/PC - SA vs AFG ",       
+{ "name": " Hindi 2 - India vs Namibia ",       
+"link": " https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/iframe?url=https://extratv.pages.dev/c1?id=S1 "},
+
+    
+{ "name": " Hindi 3 - India vs Namibia ",       
+"link": "https://yosintv2.github.io/ads/cric.html?url=https://embedsports.top/embed/admin/admin-willow-cricket/2 "},
+    
+{ "name": " English - India vs Namibia ",       
 "link": "https://yosintv2.github.io/ads/cric.html?url=https://embedsports.top/embed/admin/admin-willow-cricket/1 "},
-  
 
-{ "name": " iOS/PC - SA vs AFG ",      
+{ "name": " English - India vs Namibia ",       
 "link": "https://yosintv-api.pages.dev/api/ads "},
 
-{ "name": " iOS/PC - SA vs AFG ",      
+    
+    
+{ "name": " IOS/PC - India vs Namibia ",      
 "link": "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/iframe?url=https://wikisport.wiki/strm/t11.php "},
   
-{ "name": " iOS/PC - SA vs AFG ",      
+{ "name": " IOS/PC - India vs Namibia ",      
 "link": "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/topembed?id=SkySportsCricket[UK] "}
+    
 ],
   
  "styles": {
