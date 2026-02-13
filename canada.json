@@ -1,12 +1,37 @@
-{
+{  
   "events": [
-    {
-      "name": "Join YoSinTV Telegram Channel",
-      "link": "https://t.me/yosintvlive"
-    },
-    "______________________________"
-  ],
-  "styles": {
+
+{ "name": " Android/PC - CAN vs UAE ",       
+"link": " https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/hub4 "},
+
+{ "name": " Android/PC - CAN vs UAE ",       
+"link": " https://yosintv-api.pages.dev/api/ads" },
+
+
+{ "name": " Android/PC - CAN vs UAE ",       
+"link": " https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/mpd?id=willoweng "},
+
+    
+{ "name": " Android/PC Hindi - CAN vs UAE ",       
+"link": " https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/mpd?id=willowhi "},
+    
+{ "name": " English - CAN vs UAE ",       
+"link": "https://yosintv2.github.io/ads/cric.html?url=https://embedsports.top/embed/admin/admin-willow-cricket/1 "},
+
+{ "name": " English - CAN vs UAE ",       
+"link": "https://yosintv-api.pages.dev/api/ads "},
+
+    
+    
+{ "name": " IOS/PC - CAN vs UAE ",      
+"link": "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/iframe?url=https://wikisport.wiki/strm/t11.php "},
+  
+{ "name": " IOS/PC - CAN vs UAE ",      
+"link": "https://yosintv2.github.io/ads/cric.html?url=https://ytvlive.pages.dev/topembed?id=SkySportsCricket[UK] "}
+    
+],
+  
+ "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
     "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
     "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
