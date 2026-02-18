@@ -4,7 +4,42 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-    "______________________________"
+    {
+      "name": " All - IND vs NED (English) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/shaka?id=tsports "
+    },
+    {
+      "name": " All - IND vs NED (Hindi) ",
+      "link": " https://yosintv-api.pages.dev/api/ads "
+    },
+    {
+      "name": " All Device - IND vs NED (English) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/shaka?id=tsports "
+    },
+    {
+      "name": " Mobile Only - IND vs NED (English) ",
+      "link": " https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/shaka?id=willow_eng "
+    },
+    {
+      "name": " Mobile Only - IND vs NED (Hindi) ",
+      "link": " https://yosintv-api.pages.dev/api/ads "
+    },
+    {
+      "name": " Mobile Only - IND vs NED (Hindi) ",
+      "link": " https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/shaka?id=willow_hindi "
+    },
+    {
+      "name": " PC - IND vs NED (Hindi) ",
+      "link": "https://yosintv-api.pages.dev/api/ads "
+    },
+    {
+      "name": " PC - IND vs NED (Hindi) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://embedsports.top/embed/admin/admin-willow-cricket/2 "
+    },
+    {
+      "name": " PC - IND vs NED (English) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://embedsports.top/embed/admin/admin-willow-cricket/1 "
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
