@@ -4,18 +4,7 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-{
-  "name": "Al Nassr vs Arkadag",
-  "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://hlsplayers.pages.dev/player3?url=https://bo2.qiuxun.tv/sla/1-69763700b693b936d05c3eb5.m3u8?auth_key=1771427159-0-0-1b89f0b490e43efd9eaf3fa3d83a74c7",
-    "https://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=536185",
-    "https://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=557845",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=536185",
-    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=536185"
-  ]
-}
+    "______________________________"
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
