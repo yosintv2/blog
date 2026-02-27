@@ -4,7 +4,38 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-    "______________________________"
+    {
+      "name": " Android/PC - ENG vs NZ(Hindi) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/shaka?id=primehindi "
+    },
+    {
+      "name": " All - ENG vs NZ(Hindi) ",
+      "link": " https://yosintv-api.pages.dev/api/ads "
+    },
+    {
+      "name": " IOS - ENG vs NZ(Hindi) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/shaka?id=willow_hindi "
+    },
+    {
+      "name": " Android/PC - ENG vs NZ(English) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/shaka?id=prime "
+    },
+    {
+      "name": " Mob Only - ENG vs NZ(Hindi) ",
+      "link": " https://yosintv-api.pages.dev/api/ads "
+    },
+    {
+      "name": " PC - ENG vs NZ(Hindi) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/shaka?id=willow_english"
+    },
+    {
+      "name": " PC - ENG vs NZ(Hindi) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://wikisport.club/strm/t9.php"
+    },
+    {
+      "name": " PC - ENG vs NZ(English) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/shaka?id=willow "
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
