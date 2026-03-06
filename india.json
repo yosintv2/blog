@@ -4,42 +4,7 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-    {
-      "name": " Mob Only - IND vs ENG (Hindi) ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/shaka?id=willow_hindi"
-    },
-    {
-      "name": " All - IND vs ENG (Hindi) ",
-      "link": " https://yosintv-api.pages.dev/api/ads "
-    },
-    {
-      "name": " IOS - IND vs ENG (Hindi) ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/player3?url=https://001.fclplayer.net/live/csstream2/playlist.m3u8?id=1002 "
-    },
-    {
-      "name": " Mob Only - IND vs ENG (Hindi) ",
-      "link": " https://yosintv-api.pages.dev/api/ads "
-    },
-    {
-      "name": " Android/PC - IND vs ENG (English) ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/player3?url=https://001.fclplayer.net/live/csstream1/playlist.m3u8?id=1001 "
-    },
-    {
-      "name": " PC - IND vs ENG (Hindi) ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://embedsports.top/embed/admin/admin-willow-cricket/1 "
-    },
-    {
-      "name": " PC - IND vs ENG (Hindi) ",
-      "link": " https://yosintv-api.pages.dev/api/ads "
-    },
-    {
-      "name": " PC - IND vs ENG (Hindi) ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://embedsports.top/embed/admin/admin-willow-cricket/2 "
-    },
-    {
-      "name": " PC - IND vs ENG (English) ",
-      "link": "https://yosintv2.github.io/ads/cric.html?url=https://wikisport.club/strm/t9.php"
-    }
+    "______________________________"
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
