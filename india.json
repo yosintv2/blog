@@ -4,7 +4,42 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-    "______________________________"
+    {
+      "name": " Mob Only - IND vs NZ (Hindi) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://yosintv100.pages.dev/shaka?id=t20final "
+    },
+    {
+      "name": " All - IND vs NZ (Hindi) ",
+      "link": " https://yosintv-api.pages.dev/api/ads "
+    },
+    {
+      "name": " IOS - IND vs NZ (Hindi) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://hlsplayers.pages.dev/player3?url=https://001.fclplayer.net/live/csstream2/playlist.m3u8?id=1002 "
+    },
+    {
+      "name": " Mob Only - IND vs NZ (Hindi) ",
+      "link": " https://yosintv-api.pages.dev/api/ads "
+    },
+    {
+      "name": " Android/PC - IND vs NZ (NZlish) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://fembedbuddy.top/hembedplayer/csstream2/2/960/540 "
+    },
+    {
+      "name": " PC - IND vs NZ (Hindi) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://fembedbuddy.top/hembedplayer/csstream3/2/960/540"
+    },
+    {
+      "name": " PC - IND vs NZ (Hindi) ",
+      "link": " https://yosintv-api.pages.dev/api/ads "
+    },
+    {
+      "name": " PC - IND vs NZ (Hindi) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://embedsports.top/embed/echo/t20-world-cup-semi-final-south-africa-vs-new-zealand-cricket-1/1 "
+    },
+    {
+      "name": " PC - IND vs NZ (NZlish) ",
+      "link": "https://yosintv2.github.io/ads/cric.html?url=https://wikisport.club/strm/t9.php"
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
