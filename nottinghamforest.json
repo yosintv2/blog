@@ -4,7 +4,18 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-    "______________________________"
+{
+  "name": "Nottingham vs Midtjylland",
+  "links": [
+    "https://yosintv2.github.io/ads/foot.html?url=https://hlsplayers.pages.dev/player3?url=https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fa.m3u8?auth_key=1773352127-0-0-d5f8794cf4cc9e434dbd00dfcd65e088",
+    "https://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=459401",
+    "https://yosintv-api.pages.dev/api/ads",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=534219",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=387694",
+    "https://yosintv2.github.io/ads/foot.html?url=https://ytvlive.pages.dev/ak?m=527384"
+  ]
+}
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
