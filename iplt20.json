@@ -4,7 +4,38 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-    "______________________________"
+    {
+      "name": " All - RCB vs SRH (English) ",
+      "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv100.pages.dev/shaka?id=sscrickett" "
+    },
+    {
+      "name": " All - RCB vs SRH (English) ",
+      "link": " https://yosintv-api.pages.dev/api/ads "
+    },
+    {
+      "name": " All Device - RCB vs SRH (English) ",
+      "link":  "https://yosintv2.github.io/ads/foot.html?url=https://yosintv100.pages.dev/shaka?id=ssenglishh"
+    },
+    {
+      "name": " All - RCB vs SRH (Hindi) ",
+      "link": " https://yosintv-api.pages.dev/api/ads "
+    },
+    {
+      "name": " All - RCB vs SRH (Hindi) ",
+      "link": " https://yosintv2.github.io/ads/foot.html?url=https://yosintv100.pages.dev/shaka?id=sshindii "
+    },
+    {
+      "name": " PC - RCB vs SRH (Hindi) ",
+      "link": "https://yosintv-api.pages.dev/api/ads "
+    },
+    {
+      "name": " PC - RCB vs SRH (Hindi) ",
+      "link":  "https://yosintv2.github.io/ads/foot.html?url=https://yosintv100.pages.dev/shaka?id=sscricket"
+    },
+    {
+      "name": " PC - RCB vs SRH (English) ",
+      "link":  "https://yosintv2.github.io/ads/foot.html?url=https://yosintv100.pages.dev/shaka?id=ssenglish"
+    }
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
