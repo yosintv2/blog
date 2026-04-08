@@ -4,19 +4,7 @@
       "name": "Join YoSinTV Telegram Channel",
       "link": "https://t.me/yosintvlive"
     },
-{
-  "name": "Real Madrid vs Bayern München",
-  "links": [
-    "https://yosintv2.github.io/ads/foot.html?url=https://hlsplayers.pages.dev/mob?url=https://storage.googleapis.com/qwertynguhoerobrix1/mux_video_ts1/index-1.m3u8",
-    "https://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://yosintv100.pages.dev/shaka?id=real_madrid_vs_bayern_munchen",
-    "https://yosintv-api.pages.dev/api/ads",
-    "https://yosintv2.github.io/ads/foot.html?url=https://yosintv100.pages.dev/shaka?id=sports5",
-    "https://yosintv2.github.io/ads/foot.html?url=https://live.bakemeals.com/ch01.html",
-    "https://yosintv2.github.io/ads/foot.html?url=https://hlsplayers.pages.dev/player3?url=https://live5.msrktz.app/live/97312754.m3u8",
-    "https://yosintv2.github.io/ads/foot.html?url=https://hlsplayers.pages.dev/player3?url=https://live5.msrktz.app/live/14830711.m3u8"
-  ]
-}
+    "______________________________"
   ],
   "styles": {
     "livee": "display: flex; justify-content: center; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 10px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: #2e7d32; color: white;font-weight: bold;",
