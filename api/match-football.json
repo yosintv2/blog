@@ -1,314 +1,6 @@
 {
   "matches": [
     {
-      "team1": "Newcastle",
-      "team1_logo": "https://img.singhs.com.np/team/10261.png",
-      "team2": "Bournemouth",
-      "team2_logo": "https://img.singhs.com.np/team/8678.png",
-      "league_logo": "https://img.singhs.com.np/league/47.png",
-      "league": "Premier League",
-      "start": "2026-09-05T20:30:00+09:00",
-      "league_id": 47,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=newcastle",
-      "streaming_url": "https://cdn.singhs.com.np/newcastle.json",
-      "event_id": 5795443,
-      "football_data": {
-        "event": {
-          "match_id": 5795443,
-          "league": "Premier League",
-          "league_id": 47,
-          "round": 3,
-          "tournament": "Premier League",
-          "kick_off_time_utc": "Sat, 05 Sep 2026 11:30:00 GMT",
-          "venue": "St. James' Park",
-          "venue_city": "Newcastle upon Tyne",
-          "venue_country": "England",
-          "venue_lat": 54.975540166,
-          "venue_lng": -1.621620655,
-          "stadium_capacity": 52719,
-          "stadium_surface": "grass",
-          "referee": "Robert Jones",
-          "home_team": {
-            "name": "Newcastle United",
-            "id": 10261
-          },
-          "away_team": {
-            "name": "AFC Bournemouth",
-            "id": 8678
-          },
-          "home_manager": "Matthias Jaissle",
-          "away_manager": "Marco Rose",
-          "gender": "male",
-          "coverage_level": "xG"
-        },
-        "h2h": {
-          "homeWins": 5,
-          "draws": 8,
-          "awayWins": 5
-        },
-        "lineups": {
-          "home_formation": "4-2-3-1",
-          "away_formation": "4-2-3-1",
-          "home_players": ["Lukás Hornícek", "Amar Dedic", "Malick Thiaw", "Sven Botman", "Lewis Hall", "Nico González", "Lewis Miley", "Anthony Elanga", "Joseph Willock", "Harvey Barnes", "Yoane Wissa"],
-          "away_players": ["Djordje Petrovic", "Adam Smith", "James Hill", "António Silva", "Adrien Truffert", "Tyler Adams", "Alex Scott", "Rayan", "Justin Kluivert", "Marcus Tavernier", "Evanilson"],
-          "home_missing_players": ["Daniel Burn", "Joelinton", "William Osula"],
-          "away_missing_players": ["Julián Araujo", "Veljko Milosavljevic", "Junior Kroupi", "Amine Adli"]
-        },
-        "pregame_form": {
-          "home": "LDDWW",
-          "away": "WDLLD"
-        }
-      },
-      "pushed": true
-    },
-    {
-      "team1": "Hoffenheim",
-      "team1_logo": "https://img.singhs.com.np/team/8226.png",
-      "team2": "Dortmund",
-      "team2_logo": "https://img.singhs.com.np/team/9789.png",
-      "league_logo": "https://img.singhs.com.np/league/54.png",
-      "league": "Bundesliga",
-      "start": "2026-09-05T22:30:00+09:00",
-      "league_id": 54,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=dortmund",
-      "streaming_url": "https://cdn.singhs.com.np/dortmund.json",
-      "event_id": 5881156,
-      "football_data": null,
-      "pushed": true
-    },
-    {
-      "team1": "Man City",
-      "team1_logo": "https://img.singhs.com.np/team/8456.png",
-      "team2": "Coventry",
-      "team2_logo": "https://img.singhs.com.np/team/8669.png",
-      "league_logo": "https://img.singhs.com.np/league/47.png",
-      "league": "Premier League",
-      "start": "2026-09-05T23:00:00+09:00",
-      "league_id": 47,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=mancity",
-      "streaming_url": "https://cdn.singhs.com.np/mancity.json",
-      "event_id": 5795442,
-      "football_data": null,
-      "pushed": true
-    },
-    {
-      "team1": "Nottm Forest",
-      "team1_logo": "https://img.singhs.com.np/team/10203.png",
-      "team2": "Tottenham",
-      "team2_logo": "https://img.singhs.com.np/team/8586.png",
-      "league_logo": "https://img.singhs.com.np/league/47.png",
-      "league": "Premier League",
-      "start": "2026-09-05T23:00:00+09:00",
-      "league_id": 47,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=nottmforest",
-      "streaming_url": "https://cdn.singhs.com.np/nottmforest.json",
-      "event_id": 5795444,
-      "football_data": null,
-      "pushed": true
-    },
-    {
-      "team1": "Athletic Club",
-      "team1_logo": "https://img.singhs.com.np/team/8315.png",
-      "team2": "Atlético Madrid",
-      "team2_logo": "https://img.singhs.com.np/team/9906.png",
-      "league_logo": "https://img.singhs.com.np/league/87.png",
-      "league": "LaLiga",
-      "start": "2026-09-05T23:15:00+09:00",
-      "league_id": 87,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=atleticomadrid",
-      "streaming_url": "https://cdn.singhs.com.np/atleticomadrid.json",
-      "event_id": 5868042,
-      "football_data": null,
-      "pushed": true
-    },
-    {
-      "team1": "Inter",
-      "team1_logo": "https://img.singhs.com.np/team/8636.png",
-      "team2": "Napoli",
-      "team2_logo": "https://img.singhs.com.np/team/9875.png",
-      "league_logo": "https://img.singhs.com.np/league/55.png",
-      "league": "Serie A",
-      "start": "2026-09-06T01:00:00+09:00",
-      "league_id": 55,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=inter",
-      "streaming_url": "https://cdn.singhs.com.np/inter.json",
-      "event_id": 5749666,
-      "football_data": null
-    },
-    {
-      "team1": "Hull",
-      "team1_logo": "https://img.singhs.com.np/team/8667.png",
-      "team2": "Aston Villa",
-      "team2_logo": "https://img.singhs.com.np/team/10252.png",
-      "league_logo": "https://img.singhs.com.np/league/47.png",
-      "league": "Premier League",
-      "start": "2026-09-06T01:30:00+09:00",
-      "league_id": 47,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=astonvilla",
-      "streaming_url": "https://cdn.singhs.com.np/astonvilla.json",
-      "event_id": 5795440,
-      "football_data": null
-    },
-    {
-      "team1": "Schalke 04",
-      "team1_logo": "https://img.singhs.com.np/team/10189.png",
-      "team2": "Bayern München",
-      "team2_logo": "https://img.singhs.com.np/team/9823.png",
-      "league_logo": "https://img.singhs.com.np/league/54.png",
-      "league": "Bundesliga",
-      "start": "2026-09-06T01:30:00+09:00",
-      "league_id": 54,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=bayernmunchen",
-      "streaming_url": "https://cdn.singhs.com.np/bayernmunchen.json",
-      "event_id": 5881158,
-      "football_data": null
-    },
-    {
-      "team1": "Marítimo",
-      "team1_logo": "https://img.singhs.com.np/team/10212.png",
-      "team2": "Benfica",
-      "team2_logo": "https://img.singhs.com.np/team/9772.png",
-      "league_logo": "https://img.singhs.com.np/league/61.png",
-      "league": "Liga Portugal",
-      "start": "2026-09-06T02:00:00+09:00",
-      "league_id": 61,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=benfica",
-      "streaming_url": "https://cdn.singhs.com.np/benfica.json",
-      "event_id": 5887622,
-      "football_data": null
-    },
-    {
-      "team1": "Al Ittihad",
-      "team1_logo": "https://img.singhs.com.np/team/8577.png",
-      "team2": "Al Nassr FC",
-      "team2_logo": "https://img.singhs.com.np/team/101918.png",
-      "league_logo": "https://img.singhs.com.np/league/536.png",
-      "league": "Saudi Pro League",
-      "start": "2026-09-06T03:00:00+09:00",
-      "league_id": 536,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=alnassrfc",
-      "streaming_url": "https://cdn.singhs.com.np/alnassrfc.json",
-      "event_id": 5970125,
-      "football_data": {
-        "event": {
-          "match_id": 5970125,
-          "league": "Saudi Arabian League",
-          "league_id": 536,
-          "round": 5,
-          "tournament": "Saudi Arabian League",
-          "kick_off_time_utc": "Sat, 05 Sep 2026 18:00:00 GMT",
-          "venue": "Alinma Bank Stadium at King Abdullah Sport City",
-          "venue_city": "Jeddah",
-          "venue_country": "Saudi Arabia",
-          "venue_lat": 21.763282267,
-          "venue_lng": 39.164306606,
-          "stadium_capacity": null,
-          "stadium_surface": null,
-          "referee": null,
-          "home_team": {
-            "name": "Al Ittihad",
-            "id": 8577
-          },
-          "away_team": {
-            "name": "Al Nassr FC",
-            "id": 101918
-          },
-          "home_manager": "Jens Wissing",
-          "away_manager": "Ange Postecoglou",
-          "gender": "male",
-          "coverage_level": "lower"
-        },
-        "h2h": {
-          "homeWins": 10,
-          "draws": 5,
-          "awayWins": 13
-        },
-        "lineups": {
-          "home_formation": "4-2-3-1",
-          "away_formation": "4-4-1-1",
-          "home_players": ["Predrag Rajković", "Ahmed Al-Julaydan", "Danilo Pereira", "Hasan Kadesh", "Faris Abdi", "Mukhtar Ali", "Dion Lopy", "Marwan Al-Sahafi", "Houssem Aouar", "Steven Bergwijn", "Youssef En-Nesyri"],
-          "away_players": ["Nawaf Al-Aqidi", "Nawaf Al-Boushail", "Mohamed Simakan", "Abdulelah Al Amri", "Salem Al Najdi", "Kingsley Coman", "Samú", "Ângelo", "Sadio Mané", "Joao Félix", "Cristiano Ronaldo"],
-          "home_missing_players": ["Muhannad Shanqeeti", "Hamed Al-Ghamdi", "Ahmed Sharahili", "Saad Al-Mousa"],
-          "away_missing_players": ["Sultan Al-Ghannam"]
-        },
-        "pregame_form": {
-          "home": "DWWWD",
-          "away": "WWWWW"
-        }
-      }
-    },
-    {
-      "team1": "Roma",
-      "team1_logo": "https://img.singhs.com.np/team/8686.png",
-      "team2": "Atalanta",
-      "team2_logo": "https://img.singhs.com.np/team/8524.png",
-      "league_logo": "https://img.singhs.com.np/league/55.png",
-      "league": "Serie A",
-      "start": "2026-09-06T03:45:00+09:00",
-      "league_id": 55,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=roma",
-      "streaming_url": "https://cdn.singhs.com.np/roma.json",
-      "event_id": 5749660,
-      "football_data": {
-        "event": {
-          "match_id": 5749660,
-          "league": "Serie A",
-          "league_id": 55,
-          "round": 3,
-          "tournament": "Serie A",
-          "kick_off_time_utc": "Sat, 05 Sep 2026 18:45:00 GMT",
-          "venue": "Stadio Olimpico",
-          "venue_city": "Roma",
-          "venue_country": "Italy",
-          "venue_lat": 41.933947912,
-          "venue_lng": 12.454757094,
-          "stadium_capacity": 70634,
-          "stadium_surface": "grass",
-          "referee": "Andrea Colombo",
-          "home_team": {
-            "name": "Roma",
-            "id": 8686
-          },
-          "away_team": {
-            "name": "Atalanta",
-            "id": 8524
-          },
-          "home_manager": "Gian Piero Gasperini",
-          "away_manager": "Maurizio Sarri",
-          "gender": "male",
-          "coverage_level": "lower"
-        },
-        "h2h": {
-          "homeWins": 9,
-          "draws": 9,
-          "awayWins": 13
-        },
-        "lineups": {
-          "home_formation": "3-4-2-1",
-          "away_formation": "4-3-3",
-          "home_players": ["Mile Svilar", "Daniele Ghilardi", "Gianluca Mancini", "Mario Hermoso", "Emanuele Lulli", "Bryan Cristante", "Manu Koné", "Wesley", "Rodrigo Mora", "Paulo Dybala", "Donyell Malen"],
-          "away_players": ["Marco Carnesecchi", "Davide Zappacosta", "Odilon Kossounou", "Giorgio Scalvini", "Lorenzo Bernasconi", "Lazar Samardzic", "Gianluca Gaetano", "Éderson", "Charles De Ketelaere", "Gianluca Scamacca", "Jonathan Rowe"],
-          "home_missing_players": [],
-          "away_missing_players": ["Isak Hien", "Kamaldeen Sulemana"]
-        },
-        "pregame_form": {
-          "home": "WLDWW",
-          "away": "WDWWW"
-        }
-      }
-    },
-    {
       "team1": "Inter Miami CF",
       "team1_logo": "https://img.singhs.com.np/team/960720.png",
       "team2": "Atlanta United",
@@ -367,7 +59,8 @@
           "home": "LLDLW",
           "away": "LWWWL"
         }
-      }
+      },
+      "pushed": true
     },
     {
       "team1": "Birmingham",
@@ -428,7 +121,8 @@
           "home": "DDLWD",
           "away": "DWWWL"
         }
-      }
+      },
+      "pushed": true
     },
     {
       "team1": "Everton",
@@ -489,7 +183,8 @@
           "home": "WDWWD",
           "away": "DDLLW"
         }
-      }
+      },
+      "pushed": true
     },
     {
       "team1": "Valencia",
@@ -549,6 +244,144 @@
         "pregame_form": {
           "home": "DLDLL",
           "away": "WWWWW"
+        }
+      },
+      "pushed": true
+    },
+    {
+      "team1": "Arsenal",
+      "team1_logo": "https://img.singhs.com.np/team/9825.png",
+      "team2": "Chelsea",
+      "team2_logo": "https://img.singhs.com.np/team/8455.png",
+      "league_logo": "https://img.singhs.com.np/league/47.png",
+      "league": "Premier League",
+      "start": "2026-09-07T00:30:00+09:00",
+      "league_id": 47,
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=arsenal",
+      "streaming_url": "https://cdn.singhs.com.np/arsenal.json",
+      "event_id": 5795435,
+      "football_data": null
+    },
+    {
+      "team1": "Juventus",
+      "team1_logo": "https://img.singhs.com.np/team/9885.png",
+      "team2": "Milan",
+      "team2_logo": "https://img.singhs.com.np/team/8564.png",
+      "league_logo": "https://img.singhs.com.np/league/55.png",
+      "league": "Serie A",
+      "start": "2026-09-07T03:45:00+09:00",
+      "league_id": 55,
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=juventus",
+      "streaming_url": "https://cdn.singhs.com.np/juventus.json",
+      "event_id": 5749667,
+      "football_data": {
+        "event": {
+          "match_id": 5749667,
+          "league": "Serie A",
+          "league_id": 55,
+          "round": 3,
+          "tournament": "Serie A",
+          "kick_off_time_utc": "Sun, 06 Sep 2026 18:45:00 GMT",
+          "venue": "Allianz Stadium",
+          "venue_city": "Torino",
+          "venue_country": "Italy",
+          "venue_lat": 45.109527284,
+          "venue_lng": 7.641302313,
+          "stadium_capacity": 41689,
+          "stadium_surface": "grass",
+          "referee": "Maurizio Mariani",
+          "home_team": {
+            "name": "Juventus",
+            "id": 9885
+          },
+          "away_team": {
+            "name": "Milan",
+            "id": 8564
+          },
+          "home_manager": "Luciano Spalletti",
+          "away_manager": "Ruben Amorim",
+          "gender": "male",
+          "coverage_level": "lower"
+        },
+        "h2h": {
+          "homeWins": 24,
+          "draws": 13,
+          "awayWins": 10
+        },
+        "lineups": {
+          "home_formation": "4-2-3-1",
+          "away_formation": "3-4-2-1",
+          "home_players": ["Guglielmo Vicario", "Pierre Kalulu", "Gleison Bremer", "Jhon Lucumí", "Zeki Çelik", "Manuel Locatelli", "Douglas Luiz", "Francisco Conceição", "Nicolás González", "Jérémie Boga", "Randal Kolo Muani"],
+          "away_players": ["Mike Maignan", "Mario Gila", "Koni De Winter", "Strahinja Pavlovic", "Samuel Chukwueze", "Luka Modric", "Yunus Musah", "Pervis Estupinán", "Adrien Rabiot", "Alphadjo Cissè", "Gonçalo Ramos"],
+          "home_missing_players": ["Andrea Cambiaso", "Juan Cabal", "Khéphren Thuram-Ulien", "Pape Sarr", "Weston McKennie", "Jeff Ekhator", "Kenan Yildiz"],
+          "away_missing_players": ["Matteo Gabbia"]
+        },
+        "pregame_form": {
+          "home": "WLWWW",
+          "away": "DLWWW"
+        }
+      }
+    },
+    {
+      "team1": "Internacional",
+      "team1_logo": "https://img.singhs.com.np/team/8702.png",
+      "team2": "Santos",
+      "team2_logo": "https://img.singhs.com.np/team/8514.png",
+      "league_logo": "https://img.singhs.com.np/league/268.png",
+      "league": "Série A",
+      "start": "2026-09-07T04:00:00+09:00",
+      "league_id": 268,
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=santos",
+      "streaming_url": "https://cdn.singhs.com.np/santos.json",
+      "event_id": 5103620,
+      "football_data": {
+        "event": {
+          "match_id": 5103620,
+          "league": "Brazilian Serie A",
+          "league_id": 268,
+          "round": 26,
+          "tournament": "Brazilian Serie A",
+          "kick_off_time_utc": "Sun, 06 Sep 2026 19:00:00 GMT",
+          "venue": "Estádio José Pinheiro Borda",
+          "venue_city": "Porto Alegre, Rio Grande do Sul",
+          "venue_country": "Brazil",
+          "venue_lat": -30.065560971,
+          "venue_lng": -51.23583287,
+          "stadium_capacity": null,
+          "stadium_surface": null,
+          "referee": "Alex Gomes Stefano",
+          "home_team": {
+            "name": "Internacional",
+            "id": 8702
+          },
+          "away_team": {
+            "name": "Santos",
+            "id": 8514
+          },
+          "home_manager": "Paulo Pezzolano",
+          "away_manager": "Cuca",
+          "gender": "male",
+          "coverage_level": "lower"
+        },
+        "h2h": {
+          "homeWins": 12,
+          "draws": 15,
+          "awayWins": 6
+        },
+        "lineups": {
+          "home_formation": "4-1-4-1",
+          "away_formation": "4-2-3-1",
+          "home_players": ["Matheus Cunha", "Bruno Gomes", "Guillermo Maripán", "Gabriel Mercado", "Matheus Bahia", "Rodrigo Villagra", "Bruno Henrique", "Alan Patrick", "Thiago Maia", "Alexandro Bernabéi", "Antonio Sanabria"],
+          "away_players": ["Gabriel Brazão", "Igor Vinícius", "Lucas Veríssimo", "Luan Peres", "Gonzalo Escobar", "Willian Arão", "Christian Oliva", "Gabriel Bontempo", "Neymar", "Álvaro Barreal", "Gabriel Barbosa"],
+          "home_missing_players": ["Victor Gabriel", "Alexandro Bernabéi", "Paulo Pezzolano", "Allex", "Kayky", "Benjamin Arhin", "Sergio Rochet"],
+          "away_missing_players": ["Álvaro Barreal", "Lucas Veríssimo", "Neymar", "Gabriel Menino", "Vinicius Lira"]
+        },
+        "pregame_form": {
+          "home": "DDDLL",
+          "away": "DDLWD"
         }
       }
     }
