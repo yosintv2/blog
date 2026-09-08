@@ -1,124 +1,63 @@
 {
   "matches": [
     {
-      "team1": "Getafe",
-      "team1_logo": "https://img.singhs.com.np/team/8305.png",
-      "team2": "Celta Vigo",
-      "team2_logo": "https://img.singhs.com.np/team/9910.png",
-      "league_logo": "https://img.singhs.com.np/league/87.png",
-      "league": "LaLiga",
-      "start": "2026-09-08T02:00:00+09:00",
-      "league_id": 87,
+      "team1": "Club Brugge",
+      "team1_logo": "https://img.singhs.com.np/team/8342.png",
+      "team2": "Aston Villa",
+      "team2_logo": "https://img.singhs.com.np/team/10252.png",
+      "league_logo": "https://img.singhs.com.np/league/943230.png",
+      "league": "Champions League",
+      "start": "2026-09-09T01:45:00+09:00",
+      "league_id": 943230,
       "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=getafe",
-      "streaming_url": "https://cdn.singhs.com.np/getafe.json",
-      "event_id": 5868046,
+      "details_url": "https://home.getemoji.online/?yosintv=astonvilla",
+      "streaming_url": "https://cdn.singhs.com.np/astonvilla.json",
+      "event_id": 6106295,
       "football_data": {
         "event": {
-          "match_id": 5868046,
-          "league": "LaLiga",
-          "league_id": 87,
-          "round": 4,
-          "tournament": "LaLiga",
-          "kick_off_time_utc": "Mon, 07 Sep 2026 17:00:00 GMT",
-          "venue": "Estadio Coliseum",
-          "venue_city": "Getafe",
-          "venue_country": "Spain",
-          "venue_lat": 40.325728646,
-          "venue_lng": -3.714964092,
-          "stadium_capacity": 17393,
+          "match_id": 6106295,
+          "league": "Champions League",
+          "league_id": 943230,
+          "round": 1,
+          "tournament": "Champions League",
+          "kick_off_time_utc": "Tue, 08 Sep 2026 16:45:00 GMT",
+          "venue": "Jan Breydelstadion",
+          "venue_city": "Brugge",
+          "venue_country": "Belgium",
+          "venue_lat": 51.19345143,
+          "venue_lng": 3.180541992,
+          "stadium_capacity": 29062,
           "stadium_surface": "grass",
-          "referee": "César Soto Grado",
+          "referee": "Sandro Schärer",
           "home_team": {
-            "name": "Getafe",
-            "id": 8305
+            "name": "Club Brugge",
+            "id": 8342
           },
           "away_team": {
-            "name": "Celta Vigo",
-            "id": 9910
+            "name": "Aston Villa",
+            "id": 10252
           },
-          "home_manager": "José Bordalás",
-          "away_manager": "Claudio Giráldez",
-          "gender": "male",
-          "coverage_level": "lower"
-        },
-        "h2h": {
-          "homeWins": 10,
-          "draws": 9,
-          "awayWins": 7
-        },
-        "lineups": {
-          "home_formation": "4-4-2",
-          "away_formation": "3-4-3",
-          "home_players": ["David Soria", "Kiko", "Djené", "Zaid Abner Romero", "Johan Mojica", "Andrés García", "Mario Martín", "Orel Mangala", "Ramón Terrats", "Enes Ünal", "Martín Satriano"],
-          "away_players": ["Ionut Radu", "Álvaro Núñez", "Yoel Lago", "Marcos Alonso", "Javi Rueda", "Miguel Román", "Ilaix Moriba", "Javi Galán", "Hugo González", "Ferrán Jutglà", "Williot Swedberg"],
-          "home_missing_players": ["Abdel Abqar", "Christantus Uche", "Juanmi"],
-          "away_missing_players": ["Aleix Febas"]
-        },
-        "pregame_form": {
-          "home": "LWWLL",
-          "away": "DDLLD"
-        }
-      }
-    },
-    {
-      "team1": "Elche",
-      "team1_logo": "https://img.singhs.com.np/team/10268.png",
-      "team2": "Real Sociedad",
-      "team2_logo": "https://img.singhs.com.np/team/8560.png",
-      "league_logo": "https://img.singhs.com.np/league/87.png",
-      "league": "LaLiga",
-      "start": "2026-09-08T04:30:00+09:00",
-      "league_id": 87,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=elche",
-      "streaming_url": "https://cdn.singhs.com.np/elche.json",
-      "event_id": 5868044,
-      "football_data": {
-        "event": {
-          "match_id": 5868044,
-          "league": "LaLiga",
-          "league_id": 87,
-          "round": 4,
-          "tournament": "LaLiga",
-          "kick_off_time_utc": "Mon, 07 Sep 2026 19:30:00 GMT",
-          "venue": "Estadio Manuel Martínez Valero",
-          "venue_city": "Elche",
-          "venue_country": "Spain",
-          "venue_lat": 38.267129205,
-          "venue_lng": -0.663299561,
-          "stadium_capacity": 31388,
-          "stadium_surface": "grass",
-          "referee": "Miguel Ángel Ortiz Arias",
-          "home_team": {
-            "name": "Elche",
-            "id": 10268
-          },
-          "away_team": {
-            "name": "Real Sociedad",
-            "id": 8560
-          },
-          "home_manager": "Martín Anselmi",
-          "away_manager": "Pellegrino Matarazzo",
+          "home_manager": "Ivan Leko",
+          "away_manager": "Unai Emery",
           "gender": "male",
           "coverage_level": "lower"
         },
         "h2h": {
           "homeWins": 1,
-          "draws": 2,
-          "awayWins": 9
+          "draws": 0,
+          "awayWins": 2
         },
         "lineups": {
-          "home_formation": "5-4-1",
+          "home_formation": "4-2-3-1",
           "away_formation": "4-2-3-1",
-          "home_players": ["Matías Dituro", "Buba Sangaré", "Víctor Chust", "Pedro Bigas", "Josan", "Germán Valera", "Facundo Buonanotte", "Gonzalo Villar", "Marc Aguado", "Lucas Cepeda", "Fer Niño"],
-          "away_players": ["Alex Remiro", "Jon Aramburu", "Jon Martín", "Igor Zubeldia", "Sergio Gómez", "Yangel Herrera", "Carlos Soler", "Takefusa Kubo", "Luka Sucic", "Ander Barrenetxea", "Mikel Oyarzabal"],
-          "home_missing_players": ["Thomas Lemar", "Adam Boayar", "Yago Santiago"],
-          "away_missing_players": ["Jon Pacheco", "Pablo Marín", "Álvaro Odriozola"]
+          "home_players": ["Yann Sommer", "Kyriani Sabbe", "Han-Beom Lee", "Brandon Mechele", "Joaquin Seys", "Freddie Potts", "Hans Vanaken", "Hugo Vetlesen", "Romeo Vermant", "Mamadou Diakhon", "Nicolò Tresoldi"],
+          "away_players": ["Zion Suzuki", "Matty Cash", "Victor Nilsson Lindelöf", "Tyrone Mings", "Ian Maatsen", "Boubacar Kamara", "Ross Barkley", "John McGinn", "Emiliano Buendía", "George Hemmings", "Nicolas Jackson"],
+          "home_missing_players": ["Joel Ordóñez"],
+          "away_missing_players": ["João Gomes", "Brian Madjo", "Amadou Onana", "Johan Manzambi"]
         },
         "pregame_form": {
-          "home": "DDDLL",
-          "away": "LLLWD"
+          "home": "WWWLW",
+          "away": "LLLLD"
         }
       }
     },
@@ -181,7 +120,8 @@
           "home": "WWWWL",
           "away": "WWWWW"
         }
-      }
+      },
+      "pushed": true
     },
     {
       "team1": "FC Porto",
@@ -242,7 +182,8 @@
           "home": "WWWWW",
           "away": "WLWWW"
         }
-      }
+      },
+      "pushed": true
     },
     {
       "team1": "Dortmund",
@@ -302,6 +243,125 @@
         "pregame_form": {
           "home": "DLWWW",
           "away": "WDDLL"
+        }
+      },
+      "pushed": true
+    },
+    {
+      "team1": "Millwall",
+      "team1_logo": "https://img.singhs.com.np/team/10004.png",
+      "team2": "Newcastle",
+      "team2_logo": "https://img.singhs.com.np/team/10261.png",
+      "league_logo": "https://img.singhs.com.np/league/938221.png",
+      "league": "EFL Cup",
+      "start": "2026-09-09T04:00:00+09:00",
+      "league_id": 938221,
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=newcastle",
+      "streaming_url": "https://cdn.singhs.com.np/newcastle.json",
+      "event_id": 6099336,
+      "football_data": {
+        "event": {
+          "match_id": 6099336,
+          "league": "EFL Cup",
+          "league_id": 938221,
+          "round": 3,
+          "tournament": "EFL Cup",
+          "kick_off_time_utc": "Tue, 08 Sep 2026 19:00:00 GMT",
+          "venue": "The Den",
+          "venue_city": "London",
+          "venue_country": "England",
+          "venue_lat": 51.485933664,
+          "venue_lng": -0.050959289,
+          "stadium_capacity": 20146,
+          "stadium_surface": "grass",
+          "referee": "Craig Pawson",
+          "home_team": {
+            "name": "Millwall",
+            "id": 10004
+          },
+          "away_team": {
+            "name": "Newcastle United",
+            "id": 10261
+          },
+          "home_manager": "Alex Neil",
+          "away_manager": "Matthias Jaissle",
+          "gender": "male",
+          "coverage_level": "lower"
+        },
+        "h2h": null,
+        "lineups": {
+          "home_formation": "4-2-3-1",
+          "away_formation": "4-2-3-1",
+          "home_players": ["Max Crocombe", "Jordi Osei-Tutu", "Caleb Taylor", "Jake Cooper", "Zak Sturge", "Derek Mazou-Sacko", "Jenson Metcalfe", "Romain Esse", "Taïryk Arconte", "Camiel Neghli", "Lyndon Dykes"],
+          "away_players": ["Lukás Hornícek", "Amar Dedić", "Malick Thiaw", "Sven Botman", "Lewis Hall", "Nico González", "Lewis Miley", "Anthony Elanga", "Joseph Willock", "Harvey Barnes", "Yoane Wissa"],
+          "home_missing_players": ["Josh Coburn", "Casper De Norre", "Tristan Crama", "Ryan Leonard", "Mihailo Ivanović", "Mathis Servais"],
+          "away_missing_players": ["Daniel Burn", "Joelinton", "William Osula"]
+        },
+        "pregame_form": {
+          "home": "WWLLW",
+          "away": "DDWWD"
+        }
+      }
+    },
+    {
+      "team1": "Lille",
+      "team1_logo": "https://img.singhs.com.np/team/8639.png",
+      "team2": "Real Betis",
+      "team2_logo": "https://img.singhs.com.np/team/8603.png",
+      "league_logo": "https://img.singhs.com.np/league/943230.png",
+      "league": "Champions League",
+      "start": "2026-09-09T04:00:00+09:00",
+      "league_id": 943230,
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=realbetis",
+      "streaming_url": "https://cdn.singhs.com.np/realbetis.json",
+      "event_id": 6106311,
+      "football_data": {
+        "event": {
+          "match_id": 6106311,
+          "league": "Champions League",
+          "league_id": 943230,
+          "round": 1,
+          "tournament": "Champions League",
+          "kick_off_time_utc": "Tue, 08 Sep 2026 19:00:00 GMT",
+          "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+          "venue_city": "Villeneuve d'Ascq",
+          "venue_country": "France",
+          "venue_lat": 50.611965136,
+          "venue_lng": 3.13048391,
+          "stadium_capacity": 50083,
+          "stadium_surface": "grass",
+          "referee": "Georgi Kabakov",
+          "home_team": {
+            "name": "Lille",
+            "id": 8639
+          },
+          "away_team": {
+            "name": "Real Betis",
+            "id": 8603
+          },
+          "home_manager": "Davide Ancelotti",
+          "away_manager": "Manuel Pellegrini",
+          "gender": "male",
+          "coverage_level": "lower"
+        },
+        "h2h": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0
+        },
+        "lineups": {
+          "home_formation": "4-2-3-1",
+          "away_formation": "4-2-3-1",
+          "home_players": ["Berke Özer", "Tiago Santos", "Nathan Ngoy", "Alexsandro Ribeiro", "Romain Perraud", "Benjamin André", "Nabil Bentaleb", "Ethan Mbappé", "Hákon Arnar Haraldsson", "Osame Sahraoui", "Olivier Giroud"],
+          "away_players": ["Álvaro Vallés", "Héctor Bellerín", "Marc Bartra", "Natan", "Fran García", "Marc Roca", "Facundo Bernal", "Antony", "Isco", "Pablo Fornals", "Troy Parrott"],
+          "home_missing_players": ["Hamza Igamane"],
+          "away_missing_players": ["Abde Ezzalzouli", "Aitor Ruibal", "Ismael Barea", "Diego Llorente"]
+        },
+        "pregame_form": {
+          "home": "WDWDW",
+          "away": "LWWLW"
         }
       }
     }
