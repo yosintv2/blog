@@ -1,44 +1,105 @@
 {
   "matches": [
     {
-      "team1": "Barcelona",
-      "team1_logo": "https://img.singhs.com.np/team/8634.png",
-      "team2": "Feyenoord",
-      "team2_logo": "https://img.singhs.com.np/team/10235.png",
+      "team1": "Fenerbahçe",
+      "team1_logo": "https://img.singhs.com.np/team/8695.png",
+      "team2": "Roma",
+      "team2_logo": "https://img.singhs.com.np/team/8686.png",
       "league_logo": "https://img.singhs.com.np/league/943230.png",
       "league": "Champions League",
-      "start": "2026-09-10T01:45:00+09:00",
+      "start": "2026-09-11T01:45:00+09:00",
       "league_id": 943230,
       "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=barcelona",
-      "streaming_url": "https://cdn.singhs.com.np/barcelona.json",
-      "event_id": 6106264,
+      "details_url": "https://home.getemoji.online/?yosintv=roma",
+      "streaming_url": "https://cdn.singhs.com.np/roma.json",
+      "event_id": 6106331,
       "football_data": {
         "event": {
-          "match_id": 6106264,
+          "match_id": 6106331,
           "league": "Champions League",
           "league_id": 943230,
           "round": 1,
           "tournament": "Champions League",
-          "kick_off_time_utc": "Wed, 09 Sep 2026 16:45:00 GMT",
-          "venue": "Spotify Camp Nou",
-          "venue_city": "Barcelona",
-          "venue_country": "Spain",
-          "venue_lat": 41.380890137,
-          "venue_lng": 2.122812867,
-          "stadium_capacity": 99787,
+          "kick_off_time_utc": "Thu, 10 Sep 2026 16:45:00 GMT",
+          "venue": "Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
+          "venue_city": "İstanbul",
+          "venue_country": "Türkiye",
+          "venue_lat": 40.98779878,
+          "venue_lng": 29.03685987,
+          "stadium_capacity": 47834,
           "stadium_surface": "grass",
-          "referee": "Sven Jablonski",
+          "referee": "Jesús Gil Manzano",
           "home_team": {
-            "name": "Barcelona",
-            "id": 8634
+            "name": "Fenerbahçe",
+            "id": 8695
           },
           "away_team": {
-            "name": "Feyenoord",
-            "id": 10235
+            "name": "Roma",
+            "id": 8686
           },
-          "home_manager": "Hans-Dieter Flick",
-          "away_manager": "Giovanni van Bronckhorst",
+          "home_manager": "İsmail Kartal",
+          "away_manager": "Gian Piero Gasperini",
+          "gender": "male",
+          "coverage_level": "lower"
+        },
+        "h2h": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0
+        },
+        "lineups": {
+          "home_formation": "4-2-3-1",
+          "away_formation": "3-4-2-1",
+          "home_players": ["Ederson", "Mert Müldür", "Milan Škriniar", "Nathan Aké", "Archie Brown", "N'Golo Kanté", "Ismail Yüksek", "Kerem Aktürkoglu", "Oğuz Aydın", "Mason Greenwood", "Vedat Muriqi"],
+          "away_players": ["Mile Svilar", "Evan N'Dicka", "Gianluca Mancini", "Mario Hermoso", "Nahuel Molina", "Bryan Cristante", "Manu Koné", "Wesley", "Paulo Dybala", "Matias Soulé", "Donyell Malen"],
+          "home_missing_players": ["Mert Hakan Yandaş", "Marco Asensio", "Jayden Oosterwolde"],
+          "away_missing_players": ["Lorenzo Pellegrini"]
+        },
+        "pregame_form": {
+          "home": "DWWWL",
+          "away": "LDWWW"
+        }
+      }
+    },
+    {
+      "team1": "Bayern München",
+      "team1_logo": "https://img.singhs.com.np/team/9823.png",
+      "team2": "Bodø/Glimt",
+      "team2_logo": "https://img.singhs.com.np/team/8402.png",
+      "league_logo": "https://img.singhs.com.np/league/943230.png",
+      "league": "Champions League",
+      "start": "2026-09-11T04:00:00+09:00",
+      "league_id": 943230,
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=bayernmunchen",
+      "streaming_url": "https://cdn.singhs.com.np/bayernmunchen.json",
+      "event_id": 6106240,
+      "football_data": {
+        "event": {
+          "match_id": 6106240,
+          "league": "Champions League",
+          "league_id": 943230,
+          "round": 1,
+          "tournament": "Champions League",
+          "kick_off_time_utc": "Thu, 10 Sep 2026 19:00:00 GMT",
+          "venue": "Allianz Arena",
+          "venue_city": "München",
+          "venue_country": "Germany",
+          "venue_lat": 48.218779054,
+          "venue_lng": 11.624743491,
+          "stadium_capacity": 75024,
+          "stadium_surface": "grass",
+          "referee": "Rade Obrenović",
+          "home_team": {
+            "name": "Bayern München",
+            "id": 9823
+          },
+          "away_team": {
+            "name": "Bodø/Glimt",
+            "id": 8402
+          },
+          "home_manager": "Vincent Kompany",
+          "away_manager": "Kjetil Knutsen",
           "gender": "male",
           "coverage_level": "lower"
         },
@@ -46,441 +107,71 @@
         "lineups": {
           "home_formation": "4-2-3-1",
           "away_formation": "4-3-3",
-          "home_players": ["Joan García", "Jules Koundé", "Pau Cubarsí", "Gerard Martín", "Xavi Espart", "Rodri", "Pedri", "Lamine Yamal", "Fermín López", "Anthony Gordon", "Raphinha"],
-          "away_players": ["Tjark Ernst", "Givairo Read", "Tsuyoshi Watanabe", "Jeremiah St. Juste", "Mika Mármol", "Oussama Targhalline", "Gjivai Zechiël", "Charles Vanhoutte", "Gaoussou Diarra", "Nacho Ferri", "Luciano Valente"],
-          "home_missing_players": ["Jesse Bisiwu", "Eric García", "Frenkie de Jong", "Roony Bardghji"],
-          "away_missing_players": ["Thomas Beelen", "Bart Nieuwkoop", "Gijs Smal", "Jordan Bos", "Jakub Moder"]
+          "home_players": ["Manuel Neuer", "Konrad Laimer", "Dayot Upamecano", "Jonathan Tah", "Alphonso Davies", "Joshua Kimmich", "Aleksandar Pavlović", "Michael Olise", "Jamal Musiala", "Luis Díaz", "Harry Kane"],
+          "away_players": ["Nikita Haikin", "Fredrik Sjøvold", "Villads Nielsen", "Odin Lurås Bjørtuft", "Fredrik André Bjørkan", "Sondre Auklend", "Patrick Berg", "Sondre Brunstad Fet", "Ole Blomberg", "Andreas Helmersen", "Ola Brynhildsen"],
+          "home_missing_players": ["Serge Gnabry"],
+          "away_missing_players": ["Jens Petter Hauge", "Haitam Aleesami", "Jostein Gundersen", "Magnus Bech Riisnæs", "Håkon Evjen", "August Mikkelsen"]
         },
         "pregame_form": {
-          "home": "WWWWW",
-          "away": "WDWDW"
+          "home": "WWWWD",
+          "away": "WWWWW"
         }
       }
     },
     {
-      "team1": "Al Nassr FC",
-      "team1_logo": "https://img.singhs.com.np/team/101918.png",
-      "team2": "Abha",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/150414.png",
-      "league_logo": "https://img.singhs.com.np/league/536.png",
-      "league": "Saudi Pro League",
-      "start": "2026-09-10T03:00:00+09:00",
-      "league_id": 536,
+      "team1": "Manchester United",
+      "team1_logo": "https://img.singhs.com.np/team/10260.png",
+      "team2": "Sabah FK",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/951893.png",
+      "league_logo": "https://img.singhs.com.np/league/943230.png",
+      "league": "Champions League",
+      "start": "2026-09-11T04:00:00+09:00",
+      "league_id": 943230,
       "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=alnassrfc",
-      "streaming_url": "https://cdn.singhs.com.np/alnassrfc.json",
-      "event_id": 5970134,
+      "details_url": "https://home.getemoji.online/?yosintv=manchesterunited",
+      "streaming_url": "https://cdn.singhs.com.np/manchesterunited.json",
+      "event_id": 6106293,
       "football_data": {
         "event": {
-          "match_id": 5970134,
-          "league": "Saudi Arabian League",
-          "league_id": 536,
-          "round": 6,
-          "tournament": "Saudi Arabian League",
-          "kick_off_time_utc": "Wed, 09 Sep 2026 18:00:00 GMT",
-          "venue": "Al-Awwal Park",
-          "venue_city": "Riyadh",
-          "venue_country": "Saudi Arabia",
-          "venue_lat": 24.729226747,
-          "venue_lng": 46.623754371,
-          "stadium_capacity": null,
-          "stadium_surface": null,
-          "referee": null,
+          "match_id": 6106293,
+          "league": "Champions League",
+          "league_id": 943230,
+          "round": 1,
+          "tournament": "Champions League",
+          "kick_off_time_utc": "Thu, 10 Sep 2026 19:00:00 GMT",
+          "venue": "Old Trafford",
+          "venue_city": "Manchester",
+          "venue_country": "England",
+          "venue_lat": 53.463094458,
+          "venue_lng": -2.29137361,
+          "stadium_capacity": 74244,
+          "stadium_surface": "grass",
+          "referee": "Willy Delajod",
           "home_team": {
-            "name": "Al Nassr FC",
-            "id": 101918
+            "name": "Manchester United",
+            "id": 10260
           },
           "away_team": {
-            "name": "Abha",
-            "id": 150414
+            "name": "Sabah FK",
+            "id": 951893
           },
-          "home_manager": "Ange Postecoglou",
-          "away_manager": "Damir Burić",
+          "home_manager": "Michael Carrick",
+          "away_manager": "Valdas Dambrauskas",
           "gender": "male",
           "coverage_level": "lower"
         },
-        "h2h": {
-          "homeWins": 8,
-          "draws": 2,
-          "awayWins": 1
-        },
+        "h2h": null,
         "lineups": {
-          "home_formation": "4-4-1-1",
+          "home_formation": "4-2-3-1",
           "away_formation": "4-2-3-1",
-          "home_players": ["Nawaf Al-Aqidi", "Nawaf Al-Boushail", "Mohamed Simakan", "Abdulelah Al Amri", "Salem Al Najdi", "Kingsley Coman", "Ângelo", "Samú", "Sadio Mané", "Joao Félix", "Cristiano Ronaldo"],
-          "away_players": ["Donovan Léon", "Mohammed Al-Zaid", "Juriën Gaari", "Abdulbasit Hindi", "Safwan Al-Johani", "Feras Al-Ghamdi", "Abdullah Al Fahad", "Alimami Gory", "Nabil Fekir", "Koshaim Al Karani", "Michy Batshuayi"],
-          "home_missing_players": ["Sultan Al-Ghannam"],
+          "home_players": ["Senne Lammens", "Diogo Dalot", "Leny Yoro", "Lisandro Martínez", "Noussair Mazraoui", "Kobbie Mainoo", "Youri Tielemans", "Bryan Mbeumo", "Bruno Fernandes", "Patrick Dorgu", "Benjamin Šeško"],
+          "away_players": ["Stas Pokatilov", "Akim Zedadka", "Steve Solvet", "Rəhman Daşdəmirov", "Tymoteusz Puchacz", "Umarali Rakhmonaliev", "Ivan Lepinjica", "Veljko Simić", "Aleksey Isaev", "Kaheem Parris", "Joy-Lance Mickels"],
+          "home_missing_players": ["Marcus Rashford", "Tom Heaton", "Matthijs de Ligt", "Carlos Baleba", "Manuel Ugarte", "Amad Diallo"],
           "away_missing_players": []
         },
         "pregame_form": {
-          "home": "WWWWL",
-          "away": "DLDLL"
-        }
-      }
-    },
-    {
-      "team1": "Liverpool",
-      "team1_logo": "https://img.singhs.com.np/team/8650.png",
-      "team2": "Atlético Madrid",
-      "team2_logo": "https://img.singhs.com.np/team/9906.png",
-      "league_logo": "https://img.singhs.com.np/league/943230.png",
-      "league": "Champions League",
-      "start": "2026-09-10T04:00:00+09:00",
-      "league_id": 943230,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=liverpool",
-      "streaming_url": "https://cdn.singhs.com.np/liverpool.json",
-      "event_id": 6106246,
-      "football_data": {
-        "event": {
-          "match_id": 6106246,
-          "league": "Champions League",
-          "league_id": 943230,
-          "round": 1,
-          "tournament": "Champions League",
-          "kick_off_time_utc": "Wed, 09 Sep 2026 19:00:00 GMT",
-          "venue": "Anfield",
-          "venue_city": "Liverpool",
-          "venue_country": "England",
-          "venue_lat": 53.430827885,
-          "venue_lng": -2.960852981,
-          "stadium_capacity": 61276,
-          "stadium_surface": "grass",
-          "referee": "Davide Massa",
-          "home_team": {
-            "name": "Liverpool",
-            "id": 8650
-          },
-          "away_team": {
-            "name": "Atlético Madrid",
-            "id": 9906
-          },
-          "home_manager": "Andoni Iraola",
-          "away_manager": "Diego Simeone",
-          "gender": "male",
-          "coverage_level": "lower"
-        },
-        "h2h": {
-          "homeWins": 3,
-          "draws": 1,
-          "awayWins": 2
-        },
-        "lineups": {
-          "home_formation": "4-2-3-1",
-          "away_formation": "4-4-2",
-          "home_players": ["Alisson Becker", "Jeremie Frimpong", "Jérémy Jacquet", "Virgil van Dijk", "Miloš Kerkez", "Ryan Gravenberch", "Dominik Szoboszlai", "Cody Gakpo", "Florian Wirtz", "Bradley Barcola", "Alexander Isak"],
-          "away_players": ["Jan Oblak", "Marcos Llorente", "Marc Pubill", "Dávid Hancko", "Alejandro Grimaldo", "Giuliano Simeone", "Pablo Barrios", "Morten Hjulmand", "Ademola Lookman", "Julián Álvarez", "Álex Baena"],
-          "home_missing_players": ["Federico Chiesa", "Conor Bradley", "Giovanni Leoni", "Joseph Gomez", "Hugo Ekitiké"],
-          "away_missing_players": ["Alexander Sørloth", "Arnau Ortiz"]
-        },
-        "pregame_form": {
-          "home": "DWDDW",
-          "away": "WWDWL"
-        }
-      }
-    },
-    {
-      "team1": "PSG",
-      "team1_logo": "https://img.singhs.com.np/team/9847.png",
-      "team2": "Slovan Bratislava",
-      "team2_logo": "https://img.singhs.com.np/team/6019.png",
-      "league_logo": "https://img.singhs.com.np/league/943230.png",
-      "league": "Champions League",
-      "start": "2026-09-10T04:00:00+09:00",
-      "league_id": 943230,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=psg",
-      "streaming_url": "https://cdn.singhs.com.np/psg.json",
-      "event_id": 6106237,
-      "football_data": {
-        "event": {
-          "match_id": 6106237,
-          "league": "Champions League",
-          "league_id": 943230,
-          "round": 1,
-          "tournament": "Champions League",
-          "kick_off_time_utc": "Wed, 09 Sep 2026 19:00:00 GMT",
-          "venue": "Parc des Princes",
-          "venue_city": "Paris",
-          "venue_country": "France",
-          "venue_lat": 48.841433445,
-          "venue_lng": 2.253048867,
-          "stadium_capacity": 47929,
-          "stadium_surface": "grass",
-          "referee": "Mykola Balakin",
-          "home_team": {
-            "name": "Paris Saint-Germain",
-            "id": 9847
-          },
-          "away_team": {
-            "name": "Slovan Bratislava",
-            "id": 6019
-          },
-          "home_manager": "Luis Enrique",
-          "away_manager": "Yaya Touré",
-          "gender": "male",
-          "coverage_level": "lower"
-        },
-        "h2h": {
-          "homeWins": 1,
-          "draws": 1,
-          "awayWins": 0
-        },
-        "lineups": {
-          "home_formation": "4-3-3",
-          "away_formation": "4-2-3-1",
-          "home_players": ["Matvey Safonov", "Achraf Hakimi", "Marquinhos", "Willian Pacho", "Nuno Mendes", "João Neves", "Vítinha", "Fabián Ruiz", "Désiré Doué", "Ousmane Dembélé", "Khvicha Kvaratskhelia"],
-          "away_players": ["Dominik Takác", "César Blackman", "Kenan Bajrič", "Svetozar Marković", "Sandro Cruz", "Cristian Martínez", "Peter Pokorný", "Tigran Barseghyan", "Rahim Ibrahim", "Suleiman Camara", "Andraž Šporar"],
-          "home_missing_players": [],
-          "away_missing_players": []
-        },
-        "pregame_form": {
-          "home": "WLDDL",
-          "away": "DWWLL"
-        }
-      }
-    },
-    {
-      "team1": "Napoli",
-      "team1_logo": "https://img.singhs.com.np/team/9875.png",
-      "team2": "Arsenal",
-      "team2_logo": "https://img.singhs.com.np/team/9825.png",
-      "league_logo": "https://img.singhs.com.np/league/943230.png",
-      "league": "Champions League",
-      "start": "2026-09-10T04:00:00+09:00",
-      "league_id": 943230,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=napoli",
-      "streaming_url": "https://cdn.singhs.com.np/napoli.json",
-      "event_id": 6106318,
-      "football_data": {
-        "event": {
-          "match_id": 6106318,
-          "league": "Champions League",
-          "league_id": 943230,
-          "round": 1,
-          "tournament": "Champions League",
-          "kick_off_time_utc": "Wed, 09 Sep 2026 19:00:00 GMT",
-          "venue": "Stadio Diego Armando Maradona",
-          "venue_city": "Napoli",
-          "venue_country": "Italy",
-          "venue_lat": 40.827974049,
-          "venue_lng": 14.19293046,
-          "stadium_capacity": 54726,
-          "stadium_surface": "grass",
-          "referee": "Glenn Nyberg",
-          "home_team": {
-            "name": "Napoli",
-            "id": 9875
-          },
-          "away_team": {
-            "name": "Arsenal",
-            "id": 9825
-          },
-          "home_manager": "Massimiliano Allegri",
-          "away_manager": "Mikel Arteta",
-          "gender": "male",
-          "coverage_level": "lower"
-        },
-        "h2h": {
-          "homeWins": 1,
-          "draws": 1,
-          "awayWins": 3
-        },
-        "lineups": {
-          "home_formation": "4-3-3",
-          "away_formation": "4-2-3-1",
-          "home_players": ["Alex Meret", "Giovanni Di Lorenzo", "Amir Rrahmani", "Rafa Marín", "Leonardo Spinazzola", "Frank Anguissa", "Stanislav Lobotka", "Kevin De Bruyne", "David Neres", "Rasmus Højlund", "Alisson Santos"],
-          "away_players": ["David Raya", "Ben White", "Ezri Konsa", "Gabriel", "Riccardo Calafiori", "Declan Rice", "Bruno Guimarães", "Bukayo Saka", "Martin Ødegaard", "Christos Tzolis", "Kai Havertz"],
-          "home_missing_players": ["Giovane", "Scott McTominay", "Luca Marianucci", "Alessandro Buongiorno"],
-          "away_missing_players": ["Cristhian Mosquera", "Jurriën Timber", "William Saliba"]
-        },
-        "pregame_form": {
-          "home": "DWWLL",
-          "away": "DWWWW"
-        }
-      }
-    },
-    {
-      "team1": "Chelsea",
-      "team1_logo": "https://img.singhs.com.np/team/8455.png",
-      "team2": "Leeds",
-      "team2_logo": "https://img.singhs.com.np/team/8463.png",
-      "league_logo": "https://img.singhs.com.np/league/938221.png",
-      "league": "EFL Cup",
-      "start": "2026-09-10T04:00:00+09:00",
-      "league_id": 938221,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=chelsea",
-      "streaming_url": "https://cdn.singhs.com.np/chelsea.json",
-      "event_id": 6099342,
-      "football_data": {
-        "event": {
-          "match_id": 6099342,
-          "league": "EFL Cup",
-          "league_id": 938221,
-          "round": 3,
-          "tournament": "EFL Cup",
-          "kick_off_time_utc": "Wed, 09 Sep 2026 19:00:00 GMT",
-          "venue": "Stamford Bridge",
-          "venue_city": "London",
-          "venue_country": "England",
-          "venue_lat": 51.481711963,
-          "venue_lng": -0.190974623,
-          "stadium_capacity": 40044,
-          "stadium_surface": "grass",
-          "referee": "Jarred Gillett",
-          "home_team": {
-            "name": "Chelsea",
-            "id": 8455
-          },
-          "away_team": {
-            "name": "Leeds United",
-            "id": 8463
-          },
-          "home_manager": "Xabi Alonso",
-          "away_manager": "Daniel Farke",
-          "gender": "male",
-          "coverage_level": "lower"
-        },
-        "h2h": {
-          "homeWins": 7,
-          "draws": 2,
-          "awayWins": 2
-        },
-        "lineups": {
-          "home_formation": "3-4-2-1",
-          "away_formation": "3-4-2-1",
-          "home_players": ["Emiliano Martínez", "Josh Acheampong", "Maxence Lacroix", "Wesley Fofana", "Pedro Neto", "Roméo Lavia", "Reece James", "Jorrel Hato", "Cole Palmer", "Morgan Rogers", "João Pedro"],
-          "away_players": ["James Trafford", "James Justin", "Nico Elvedi", "Tarik Muharemović", "Jayden Bogle", "Ethan Ampadu", "Ao Tanaka", "Gabriel Gudmundsson", "Anton Stach", "Noah Okafor", "Dominic Calvert-Lewin"],
-          "home_missing_players": ["Moisés Caicedo", "Jordan Henderson", "Marco Palestra"],
-          "away_missing_players": ["Ilia Gruev", "Joe Rodon", "Mateo Joseph"]
-        },
-        "pregame_form": {
-          "home": "WWWWL",
-          "away": "WWWDD"
-        }
-      }
-    },
-    {
-      "team1": "Santos",
-      "team1_logo": "https://img.singhs.com.np/team/8514.png",
-      "team2": "Atlético-MG",
-      "team2_logo": "https://img.singhs.com.np/team/10272.png",
-      "league_logo": "https://img.singhs.com.np/league/1000001659.png",
-      "league": "Copa Sudamericana Quarter-finals",
-      "start": "2026-09-10T07:00:00+09:00",
-      "league_id": 1000001659,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=santos",
-      "streaming_url": "https://cdn.singhs.com.np/santos.json",
-      "event_id": 1000020424,
-      "football_data": {
-        "event": {
-          "match_id": 1000020424,
-          "league": "CONMEBOL Sudamericana",
-          "league_id": 299,
-          "round": "Quarter-finals",
-          "tournament": "CONMEBOL Sudamericana",
-          "kick_off_time_utc": "Wed, 09 Sep 2026 22:00:00 GMT",
-          "venue": "Estádio Urbano Caldeira",
-          "venue_city": "Santos, São Paulo",
-          "venue_country": "Brazil",
-          "venue_lat": -23.951096662,
-          "venue_lng": -46.338894367,
-          "stadium_capacity": null,
-          "stadium_surface": null,
-          "referee": "Alexis Herrera",
-          "home_team": {
-            "name": "Santos",
-            "id": 8514
-          },
-          "away_team": {
-            "name": "Atlético-MG",
-            "id": 10272
-          },
-          "home_manager": "Cuca",
-          "away_manager": "Eduardo Domínguez",
-          "gender": "male",
-          "coverage_level": "lower"
-        },
-        "h2h": {
-          "homeWins": 13,
-          "draws": 7,
-          "awayWins": 13
-        },
-        "lineups": {
-          "home_formation": "4-2-3-1",
-          "away_formation": "3-4-2-1",
-          "home_players": ["Gabriel Brazão", "Igor Vinícius", "Willian Arão", "Luan Peres", "Gonzalo Escobar", "Gustavo Henrique", "Christian Oliva", "Gabriel Bontempo", "Benjamín Rollheiser", "Gustavo Caballero", "Gabriel Barbosa"],
-          "away_players": ["Gabriel Delfim", "Natanael", "Vitão", "Alan Franco", "Tomás Cuello", "Kevin Castaño", "Alexsander Gomes", "Renan Lodi", "Victor Hugo", "Bernard", "Reinier"],
-          "home_missing_players": ["Álvaro Barreal", "Lucas Veríssimo", "Neymar", "Vinicius Lira"],
-          "away_missing_players": ["Everson", "Tomás Pérez", "Thiago Borbas", "Ruan Tressoldi", "Igor Gomes", "Lyanco", "Léo Duarte", "Patrick Silva"]
-        },
-        "pregame_form": {
-          "home": "DLWDW",
-          "away": "DDWWL"
-        }
-      }
-    },
-    {
-      "team1": "Chicago",
-      "team1_logo": "https://img.singhs.com.np/team/6397.png",
-      "team2": "Inter Miami CF",
-      "team2_logo": "https://img.singhs.com.np/team/960720.png",
-      "league_logo": "https://img.singhs.com.np/league/913550.png",
-      "league": "Major League Soccer",
-      "start": "2026-09-10T09:30:00+09:00",
-      "league_id": 913550,
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=intermiamicf",
-      "streaming_url": "https://cdn.singhs.com.np/intermiamicf.json",
-      "event_id": 5071343,
-      "football_data": {
-        "event": {
-          "match_id": 5071343,
-          "league": "Major League Soccer",
-          "league_id": 10000001,
-          "round": null,
-          "tournament": "Major League Soccer",
-          "kick_off_time_utc": "Thu, 10 Sep 2026 00:30:00 GMT",
-          "venue": "Soldier Field",
-          "venue_city": "Chicago, Illinois",
-          "venue_country": "United States",
-          "venue_lat": 41.862310034,
-          "venue_lng": -87.6166749,
-          "stadium_capacity": 62493,
-          "stadium_surface": "grass",
-          "referee": "Jair Marrufo",
-          "home_team": {
-            "name": "Chicago Fire FC",
-            "id": 6397
-          },
-          "away_team": {
-            "name": "Inter Miami CF",
-            "id": 960720
-          },
-          "home_manager": "Gregg Berhalter",
-          "away_manager": "Angel Guillermo Hoyos",
-          "gender": "male",
-          "coverage_level": "lower"
-        },
-        "h2h": {
-          "homeWins": 5,
-          "draws": 2,
-          "awayWins": 4
-        },
-        "lineups": {
-          "home_formation": "4-3-3",
-          "away_formation": "4-3-3",
-          "home_players": ["Chris Brady", "Jonathan Dean", "Sam Rogers", "Jack Elliott", "Andrew Gutman", "Anton Salétros", "Djé D'Avilla", "Maren Haile-Selassie", "Philip Zinckernagel", "Robert Lewandowski", "Puso Dithejane"],
-          "away_players": ["Dayne St. Clair", "Ian Fray", "Casemiro", "Maximiliano Falcón", "Fricio Caicedo", "Rodrigo De Paul", "Yannick Bright", "Telasco Segovia", "Lionel Messi", "Germán Berterame", "Luis Suárez"],
-          "home_missing_players": ["Jonathan Bamba", "Mbekezeli Mbokazi", "André Franco"],
-          "away_missing_players": ["Sergio Reguilón", "Gonzalo Luján", "Santiago Morales", "Micael", "Tadeo Allende"]
-        },
-        "pregame_form": {
-          "home": "WDLDD",
-          "away": "LDLWD"
+          "home": "DLLWD",
+          "away": "WLWWW"
         }
       }
     }
